@@ -1,0 +1,14 @@
+[
+  {
+    "cityId": "valencia-demo",
+    "name": "Valencia (Demo)",
+    "country": "ES",
+    "centerLatitude": 39.4753,
+    "centerLongitude": -0.3757,
+    "isPremium": false,
+    "totalSizeBytes": 42000000,
+    "revision": 1,
+    "audios": [],
+    "routes": []
+  }
+]

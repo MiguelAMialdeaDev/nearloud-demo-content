@@ -1,0 +1,120 @@
+{
+  "cityId": "valencia-demo",
+  "name": "Valencia (Demo)",
+  "country": "ES",
+  "centerLatitude": 39.4753,
+  "centerLongitude": -0.3757,
+  "isPremium": false,
+  "totalSizeBytes": 42000000,
+  "revision": 1,
+  "audios": [
+    {
+      "id": "val-catedral",
+      "poiId": "catedral",
+      "language": "es",
+      "title": "Catedral de Valencia y el Miguelete",
+      "transcript": "Estás frente a la Catedral de Valencia, levantada sobre lo que fue una mezquita y, antes aún, un templo romano. Su torre campanario, el Miguelete, se ha convertido en el símbolo de la ciudad. En su interior se custodia el Santo Cáliz, una de las reliquias que la tradición identifica con el Grial. Tómate un momento para rodear la plaza: cada puerta de la catedral pertenece a un siglo y a un estilo distinto.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 360,
+      "isPremium": false,
+      "latitude": 39.47591,
+      "longitude": -0.37521,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 1
+    },
+    {
+      "id": "val-serranos",
+      "poiId": "torres-serranos",
+      "language": "es",
+      "title": "Torres de Serranos",
+      "transcript": "Las Torres de Serranos eran una de las puertas principales de la muralla medieval de Valencia. Durante siglos fueron la entrada solemne a la ciudad para reyes y embajadores, y también prisión de nobles. Sube la mirada a sus almenas: desde aquí arrancaba el camino hacia el norte, hacia Zaragoza y Barcelona.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 39.47936,
+      "longitude": -0.37570,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 2
+    },
+    {
+      "id": "val-lonja",
+      "poiId": "lonja-seda",
+      "language": "es",
+      "title": "Lonja de la Seda",
+      "transcript": "La Lonja de la Seda es una de las joyas del gótico civil europeo y Patrimonio de la Humanidad. Sus columnas helicoidales imitan palmeras que sostienen una bóveda de piedra bajo la que se cerraban los grandes tratos comerciales del Mediterráneo. Fíjate en las gárgolas: entre santos y bestias, esconden escenas sorprendentemente irreverentes.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 320,
+      "isPremium": true,
+      "latitude": 39.47437,
+      "longitude": -0.37809,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3
+    },
+    {
+      "id": "val-mercado",
+      "poiId": "mercado-central",
+      "language": "es",
+      "title": "Mercado Central",
+      "transcript": "El Mercado Central es uno de los mercados de productos frescos más grandes de Europa, un templo modernista de hierro, cristal y cerámica. Bajo su cúpula, cientos de puestos venden la huerta valenciana que dio origen a la paella. Deja que te guíe el olor: naranjas, azafrán, pescado del día y horchata recién hecha.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 280,
+      "isPremium": true,
+      "latitude": 39.47360,
+      "longitude": -0.37887,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 4
+    },
+    {
+      "id": "val-virgen",
+      "poiId": "plaza-virgen",
+      "language": "es",
+      "title": "Plaza de la Virgen",
+      "transcript": "La Plaza de la Virgen es el corazón sentimental de Valencia. Aquí se reúne cada jueves el Tribunal de las Aguas, la institución de justicia más antigua de Europa, que resuelve en voz alta y en valenciano los pleitos del riego de la huerta. En el centro, la fuente representa al río Turia y a las ocho acequias que reparten su agua.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 39.47756,
+      "longitude": -0.37567,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 5
+    },
+    {
+      "id": "val-quart",
+      "poiId": "torres-quart",
+      "language": "es",
+      "title": "Torres de Quart",
+      "transcript": "Las Torres de Quart vigilaban el camino hacia Castilla. Si te acercas a su piedra, verás cicatrices reales: los impactos de la artillería de las tropas napoleónicas durante el sitio de 1808. Frente a las Serranos, más ceremoniales, estas torres son puro músculo defensivo.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 260,
+      "isPremium": true,
+      "latitude": 39.47535,
+      "longitude": -0.38380,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 6
+    }
+  ],
+  "routes": [
+    {
+      "id": "val-ruta-casco",
+      "language": "es",
+      "title": "Casco antiguo de Valencia",
+      "description": "Un paseo por el corazón histórico: de la Catedral a las puertas de la muralla medieval.",
+      "durationMinutes": 60,
+      "distanceMeters": 1800,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        { "orderIndex": 0, "audioGuideId": "val-catedral", "transitionAudioGuideId": null },
+        { "orderIndex": 1, "audioGuideId": "val-virgen", "transitionAudioGuideId": null },
+        { "orderIndex": 2, "audioGuideId": "val-serranos", "transitionAudioGuideId": null }
+      ]
+    }
+  ]
+}
