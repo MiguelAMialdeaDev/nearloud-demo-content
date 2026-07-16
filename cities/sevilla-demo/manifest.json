@@ -1,0 +1,70 @@
+{
+  "cityId": "sevilla-demo",
+  "name": "Sevilla (Demo)",
+  "country": "ES",
+  "centerLatitude": 37.3891,
+  "centerLongitude": -5.9845,
+  "isPremium": false,
+  "totalSizeBytes": 30000000,
+  "revision": 1,
+  "audios": [
+    {
+      "id": "sevilla-demo-1",
+      "poiId": "giralda",
+      "language": "es",
+      "title": "La Giralda",
+      "transcript": "No hay escaleras: subes por 35 rampas pensadas para que el muecín subiera a caballo. Desde arriba, Sevilla entera es tuya.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 270,
+      "isPremium": false,
+      "latitude": 37.3861,
+      "longitude": -5.9926,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 1
+    },
+    {
+      "id": "sevilla-demo-2",
+      "poiId": "alcazar",
+      "language": "es",
+      "title": "Real Alcázar",
+      "transcript": "Palacio de reyes musulmanes y cristianos durante mil años. Pedro I lo reconstruyó con artesanos de Granada: por eso parece la Alhambra.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 37.383,
+      "longitude": -5.99,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 2
+    },
+    {
+      "id": "sevilla-demo-3",
+      "poiId": "plaza-espana",
+      "language": "es",
+      "title": "Plaza de España",
+      "transcript": "Construida para la Expo de 1929, es un abrazo de ladrillo y cerámica al visitante. Hasta Star Wars rodó aquí.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 330,
+      "isPremium": true,
+      "latitude": 37.3772,
+      "longitude": -5.9869,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3
+    }
+  ],
+  "routes": [],
+  "summary": "Sevilla huele a azahar y suena a guitarra: la Giralda, el Alcázar vivo más antiguo de Europa y la plaza más fotogénica de España.",
+  "food": [
+    "Tapas de espinacas con garbanzos en la Alameda.",
+    "Pescaíto frito antes de la feria.",
+    "Tortilla al whisky sevillana."
+  ],
+  "funFacts": [
+    "La Giralda fue el alminar de la mezquita: los almohades la coronaban con esferas doradas.",
+    "El Alcázar sigue siendo residencia real cuando los reyes visitan Sevilla: 1.000 años en uso.",
+    "La Plaza de España tiene un banco de azulejos por cada provincia española: búscate en el mapa."
+  ],
+  "coverImageUrl": "https://images.pexels.com/photos/31790896/pexels-photo-31790896.jpeg?auto=compress&cs=tinysrgb&w=1200"
+}

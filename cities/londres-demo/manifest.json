@@ -1,0 +1,70 @@
+{
+  "cityId": "londres-demo",
+  "name": "Londres (Demo)",
+  "country": "GB",
+  "centerLatitude": 51.5074,
+  "centerLongitude": -0.1278,
+  "isPremium": false,
+  "totalSizeBytes": 30000000,
+  "revision": 1,
+  "audios": [
+    {
+      "id": "londres-demo-1",
+      "poiId": "westminster",
+      "language": "es",
+      "title": "Westminster y Big Ben",
+      "transcript": "El parlamento gótico más famoso del mundo es en realidad victoriano: se reconstruyó tras el incendio de 1834. Espera a que suene la campana.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 270,
+      "isPremium": false,
+      "latitude": 51.4995,
+      "longitude": -0.1248,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 1
+    },
+    {
+      "id": "londres-demo-2",
+      "poiId": "tower-london",
+      "language": "es",
+      "title": "Torre de Londres",
+      "transcript": "Fortaleza, palacio, prisión y casa de las Joyas de la Corona. Los Beefeaters viven dentro con sus familias.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 51.5081,
+      "longitude": -0.0759,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 2
+    },
+    {
+      "id": "londres-demo-3",
+      "poiId": "british-museum",
+      "language": "es",
+      "title": "British Museum",
+      "transcript": "La piedra Rosetta, los mármoles del Partenón y ocho millones de objetos. La entrada lleva siendo gratis desde 1753.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 330,
+      "isPremium": true,
+      "latitude": 51.5194,
+      "longitude": -0.127,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3
+    }
+  ],
+  "routes": [],
+  "summary": "Dos mil años del Támesis: torres normandas, parlamentos góticos y pubs donde cabe toda la historia del imperio.",
+  "food": [
+    "Fish & chips con vinagre de malta.",
+    "Sunday roast con Yorkshire pudding.",
+    "Afternoon tea con scones y clotted cream."
+  ],
+  "funFacts": [
+    "Big Ben es la campana, no la torre: la torre se llama Elizabeth Tower.",
+    "Los cuervos de la Torre de Londres tienen 'contrato': si se van, cae la corona (dice la leyenda).",
+    "El metro de Londres es el más antiguo del mundo: 1863, con locomotoras de vapor."
+  ],
+  "coverImageUrl": "https://images.pexels.com/photos/30624831/pexels-photo-30624831.jpeg?auto=compress&cs=tinysrgb&w=1200"
+}

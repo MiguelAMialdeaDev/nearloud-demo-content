@@ -1,0 +1,70 @@
+{
+  "cityId": "barcelona-demo",
+  "name": "Barcelona (Demo)",
+  "country": "ES",
+  "centerLatitude": 41.3874,
+  "centerLongitude": 2.1686,
+  "isPremium": false,
+  "totalSizeBytes": 30000000,
+  "revision": 1,
+  "audios": [
+    {
+      "id": "barcelona-demo-1",
+      "poiId": "sagrada-familia",
+      "language": "es",
+      "title": "Sagrada Família",
+      "transcript": "Gaudí sabía que no la vería terminada: 'Mi cliente no tiene prisa', decía. Levanta la vista: cada fachada cuenta un tiempo distinto de la historia.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 270,
+      "isPremium": false,
+      "latitude": 41.4036,
+      "longitude": 2.1744,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 1
+    },
+    {
+      "id": "barcelona-demo-2",
+      "poiId": "barrio-gotico",
+      "language": "es",
+      "title": "Barrio Gótico",
+      "transcript": "Camina sobre 2.000 años: debajo de tus pies está Barcino, la ciudad romana. Los puentes neogóticos que fotografías son de los años 20.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 41.3833,
+      "longitude": 2.176,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 2
+    },
+    {
+      "id": "barcelona-demo-3",
+      "poiId": "park-guell",
+      "language": "es",
+      "title": "Park Güell",
+      "transcript": "Iba a ser una urbanización de lujo y fracasó: solo se vendieron dos parcelas. El fracaso inmobiliario más bello del mundo.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 330,
+      "isPremium": true,
+      "latitude": 41.4145,
+      "longitude": 2.1527,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3
+    }
+  ],
+  "routes": [],
+  "summary": "La ciudad de Gaudí: modernismo que parece crecer del suelo, un Gótico de callejones y el Mediterráneo al final de cada calle.",
+  "food": [
+    "Pa amb tomàquet con fuet.",
+    "Bomba de la Barceloneta (y su leyenda anarquista).",
+    "Crema catalana quemada al momento."
+  ],
+  "funFacts": [
+    "La Sagrada Família lleva en obras desde 1882: más que las pirámides de Giza.",
+    "El Barrio Gótico esconde columnas del templo romano de Augusto en un patio privado.",
+    "Las manzanas del Eixample tienen las esquinas cortadas para que giraran los tranvías."
+  ],
+  "coverImageUrl": "https://images.pexels.com/photos/30823574/pexels-photo-30823574.jpeg?auto=compress&cs=tinysrgb&w=1200"
+}

@@ -1,0 +1,70 @@
+{
+  "cityId": "madrid-demo",
+  "name": "Madrid (Demo)",
+  "country": "ES",
+  "centerLatitude": 40.4168,
+  "centerLongitude": -3.7038,
+  "isPremium": false,
+  "totalSizeBytes": 30000000,
+  "revision": 1,
+  "audios": [
+    {
+      "id": "madrid-demo-1",
+      "poiId": "plaza-mayor",
+      "language": "es",
+      "title": "Plaza Mayor",
+      "transcript": "Estás en el salón de Madrid: un rectángulo porticado que fue mercado, plaza de toros y hasta escenario de autos de fe. Mira los frescos de la Casa de la Panadería.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 270,
+      "isPremium": false,
+      "latitude": 40.4155,
+      "longitude": -3.7074,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 1
+    },
+    {
+      "id": "madrid-demo-2",
+      "poiId": "palacio-real",
+      "language": "es",
+      "title": "Palacio Real",
+      "transcript": "El mayor palacio de Europa occidental, levantado donde ardió el viejo Alcázar. Los reyes ya no viven aquí, pero sus 3.400 salas siguen custodiando Stradivarius y armaduras.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 40.4179,
+      "longitude": -3.7143,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 2
+    },
+    {
+      "id": "madrid-demo-3",
+      "poiId": "retiro",
+      "language": "es",
+      "title": "Parque del Retiro",
+      "transcript": "Un jardín real regalado a la ciudad. Busca el Palacio de Cristal: un invernadero de hierro y vidrio construido para plantas de Filipinas.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 330,
+      "isPremium": true,
+      "latitude": 40.4153,
+      "longitude": -3.6845,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3
+    }
+  ],
+  "routes": [],
+  "summary": "Capital y escenario: del Madrid de los Austrias al Retiro, todo se recorre a pie entre plazas, tabernas centenarias y tres de las mejores pinacotecas del mundo.",
+  "food": [
+    "Bocadillo de calamares en la Plaza Mayor.",
+    "Cocido madrileño en tres vuelcos.",
+    "Chocolate con churros de madrugada."
+  ],
+  "funFacts": [
+    "El Oso y el Madroño mira hacia la antigua Puerta del Sol… y casi nadie sabe por qué.",
+    "El Palacio Real tiene más de 3.400 habitaciones: es el mayor de Europa occidental.",
+    "La Puerta del Sol es el km 0 de todas las carreteras radiales de España."
+  ],
+  "coverImageUrl": "https://images.pexels.com/photos/14366474/pexels-photo-14366474.jpeg?auto=compress&cs=tinysrgb&w=1200"
+}

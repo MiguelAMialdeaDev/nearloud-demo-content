@@ -1,0 +1,70 @@
+{
+  "cityId": "roma-demo",
+  "name": "Roma (Demo)",
+  "country": "IT",
+  "centerLatitude": 41.9028,
+  "centerLongitude": 12.4964,
+  "isPremium": false,
+  "totalSizeBytes": 30000000,
+  "revision": 1,
+  "audios": [
+    {
+      "id": "roma-demo-1",
+      "poiId": "coliseo",
+      "language": "es",
+      "title": "Coliseo",
+      "transcript": "Ochenta entradas, 50.000 espectadores, gladiadores y naumaquias: el mayor anfiteatro jamás construido. Escucha: la arena aún ruge.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 270,
+      "isPremium": false,
+      "latitude": 41.8902,
+      "longitude": 12.4922,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 1
+    },
+    {
+      "id": "roma-demo-2",
+      "poiId": "foro-romano",
+      "language": "es",
+      "title": "Foro Romano",
+      "transcript": "Aquí se decidía el mundo: senado, templos y la vía Sacra por la que desfilaban los triunfos. Pisa las mismas losas que César.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 41.8925,
+      "longitude": 12.4853,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 2
+    },
+    {
+      "id": "roma-demo-3",
+      "poiId": "fontana-trevi",
+      "language": "es",
+      "title": "Fontana di Trevi",
+      "transcript": "Una moneda con la mano derecha sobre el hombro izquierdo y volverás a Roma. Anita Ekberg ya no está, pero la escena sigue aquí.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 330,
+      "isPremium": true,
+      "latitude": 41.9009,
+      "longitude": 12.4833,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3
+    }
+  ],
+  "routes": [],
+  "summary": "Roma no se visita, se excava con los ojos: cada esquina apila tres mil años de imperio, papado y dolce vita.",
+  "food": [
+    "Carbonara de verdad: guanciale, pecorino y nada de nata.",
+    "Supplì al telefono en un callejón del Trastevere.",
+    "Maritozzo con panna para desayunar."
+  ],
+  "funFacts": [
+    "El Coliseo tenía un toldo gigante (velarium) manejado por marineros de la flota imperial.",
+    "En la Fontana di Trevi se lanzan unos 3.000 € al día: van a Cáritas.",
+    "El Panteón lleva 1.900 años con la cúpula de hormigón no armado más grande del mundo."
+  ],
+  "coverImageUrl": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1200"
+}
