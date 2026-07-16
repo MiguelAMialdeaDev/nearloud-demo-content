@@ -34,7 +34,7 @@
       "durationSeconds": 300,
       "isPremium": true,
       "latitude": 39.47936,
-      "longitude": -0.37570,
+      "longitude": -0.3757,
       "geofenceRadiusMeters": 100,
       "orderInCity": 2
     },
@@ -63,7 +63,7 @@
       "audioSizeBytes": 0,
       "durationSeconds": 280,
       "isPremium": true,
-      "latitude": 39.47360,
+      "latitude": 39.4736,
       "longitude": -0.37887,
       "geofenceRadiusMeters": 100,
       "orderInCity": 4
@@ -94,7 +94,7 @@
       "durationSeconds": 260,
       "isPremium": true,
       "latitude": 39.47535,
-      "longitude": -0.38380,
+      "longitude": -0.3838,
       "geofenceRadiusMeters": 100,
       "orderInCity": 6
     }
@@ -111,10 +111,37 @@
       "coverImageUrl": null,
       "isPremium": false,
       "points": [
-        { "orderIndex": 0, "audioGuideId": "val-catedral", "transitionAudioGuideId": null },
-        { "orderIndex": 1, "audioGuideId": "val-virgen", "transitionAudioGuideId": null },
-        { "orderIndex": 2, "audioGuideId": "val-serranos", "transitionAudioGuideId": null }
+        {
+          "orderIndex": 0,
+          "audioGuideId": "val-catedral",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "val-virgen",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "val-serranos",
+          "transitionAudioGuideId": null
+        }
       ]
     }
+  ],
+  "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
+  "food": [
+    "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde — nada de marisco.",
+    "Horchata de chufa con fartons, mejor en una horchatería histórica del centro.",
+    "Agua de Valencia: cóctel de cava, zumo de naranja, vodka y ginebra nacido en 1959.",
+    "Esgarraet: pimiento asado con bacalao, ajo y buen aceite — tapa de barra clásica.",
+    "All i pebre de anguila, el plato de la Albufera."
+  ],
+  "funFacts": [
+    "¿Sabías que el río Turia ya no pasa por Valencia? Tras la riada de 1957 se desvió entero y su cauce es hoy un jardín de 9 km que cruza la ciudad.",
+    "La Catedral custodia el Santo Cáliz, el cáliz que la tradición (y el Vaticano en dos visitas papales) identifica con el de la Última Cena.",
+    "El Tribunal de las Aguas se reúne cada jueves a las 12 en la Puerta de los Apóstoles desde hace más de mil años: es la institución de justicia más antigua de Europa en funcionamiento.",
+    "Las Torres de Quart conservan los impactos de los cañones de Napoleón de 1808 — se dejaron a propósito como cicatriz de guerra.",
+    "El Miguelete tarda 207 escalones en darte la mejor vista del casco antiguo."
   ]
 }
