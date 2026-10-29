@@ -1,0 +1,239 @@
+{
+  "cityId": "valencia",
+  "name": "Valencia",
+  "country": "ES",
+  "centerLatitude": 39.4753,
+  "centerLongitude": -0.3757,
+  "isPremium": false,
+  "totalSizeBytes": 42000000,
+  "revision": 1,
+  "audios": [
+    {
+      "id": "val-catedral",
+      "poiId": "catedral",
+      "language": "es",
+      "title": "Catedral de Valencia y el Miguelete",
+      "transcript": "Estás frente a la Catedral de Valencia, levantada sobre lo que fue una mezquita y, antes aún, un templo romano. Su torre campanario, el Miguelete, se ha convertido en el símbolo de la ciudad. En su interior se custodia el Santo Cáliz, una de las reliquias que la tradición identifica con el Grial. Tómate un momento para rodear la plaza: cada puerta de la catedral pertenece a un siglo y a un estilo distinto.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 360,
+      "isPremium": false,
+      "latitude": 39.47591,
+      "longitude": -0.37521,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 1
+    },
+    {
+      "id": "val-serranos",
+      "poiId": "torres-serranos",
+      "language": "es",
+      "title": "Torres de Serranos",
+      "transcript": "Las Torres de Serranos eran una de las puertas principales de la muralla medieval de Valencia. Durante siglos fueron la entrada solemne a la ciudad para reyes y embajadores, y también prisión de nobles. Sube la mirada a sus almenas: desde aquí arrancaba el camino hacia el norte, hacia Zaragoza y Barcelona.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 39.47936,
+      "longitude": -0.3757,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 2
+    },
+    {
+      "id": "val-lonja",
+      "poiId": "lonja-seda",
+      "language": "es",
+      "title": "Lonja de la Seda",
+      "transcript": "La Lonja de la Seda es una de las joyas del gótico civil europeo y Patrimonio de la Humanidad. Sus columnas helicoidales imitan palmeras que sostienen una bóveda de piedra bajo la que se cerraban los grandes tratos comerciales del Mediterráneo. Fíjate en las gárgolas: entre santos y bestias, esconden escenas sorprendentemente irreverentes.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 320,
+      "isPremium": true,
+      "latitude": 39.47437,
+      "longitude": -0.37809,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3
+    },
+    {
+      "id": "val-mercado",
+      "poiId": "mercado-central",
+      "language": "es",
+      "title": "Mercado Central",
+      "transcript": "El Mercado Central es uno de los mercados de productos frescos más grandes de Europa, un templo modernista de hierro, cristal y cerámica. Bajo su cúpula, cientos de puestos venden la huerta valenciana que dio origen a la paella. Deja que te guíe el olor: naranjas, azafrán, pescado del día y horchata recién hecha.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 280,
+      "isPremium": true,
+      "latitude": 39.4736,
+      "longitude": -0.37887,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 4
+    },
+    {
+      "id": "val-virgen",
+      "poiId": "plaza-virgen",
+      "language": "es",
+      "title": "Plaza de la Virgen",
+      "transcript": "La Plaza de la Virgen es el corazón sentimental de Valencia. Aquí se reúne cada jueves el Tribunal de las Aguas, la institución de justicia más antigua de Europa, que resuelve en voz alta y en valenciano los pleitos del riego de la huerta. En el centro, la fuente representa al río Turia y a las ocho acequias que reparten su agua.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 300,
+      "isPremium": true,
+      "latitude": 39.47756,
+      "longitude": -0.37567,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 5
+    },
+    {
+      "id": "val-quart",
+      "poiId": "torres-quart",
+      "language": "es",
+      "title": "Torres de Quart",
+      "transcript": "Las Torres de Quart vigilaban el camino hacia Castilla. Si te acercas a su piedra, verás cicatrices reales: los impactos de la artillería de las tropas napoleónicas durante el sitio de 1808. Frente a las Serranos, más ceremoniales, estas torres son puro músculo defensivo.",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "audioSizeBytes": 0,
+      "durationSeconds": 260,
+      "isPremium": true,
+      "latitude": 39.47535,
+      "longitude": -0.3838,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 6
+    }
+  ],
+  "routes": [
+    {
+      "id": "val-ruta-casco",
+      "language": "es",
+      "title": "Casco antiguo de Valencia",
+      "description": "Un paseo por el corazón histórico: de la Catedral a las puertas de la muralla medieval.",
+      "durationMinutes": 60,
+      "distanceMeters": 1800,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "val-catedral",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "val-virgen",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "val-serranos",
+          "transitionAudioGuideId": null
+        }
+      ]
+    }
+  ],
+  "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
+  "food": [
+    "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde — nada de marisco.",
+    "Horchata de chufa con fartons, mejor en una horchatería histórica del centro.",
+    "Agua de Valencia: cóctel de cava, zumo de naranja, vodka y ginebra nacido en 1959.",
+    "Esgarraet: pimiento asado con bacalao, ajo y buen aceite — tapa de barra clásica.",
+    "All i pebre de anguila, el plato de la Albufera."
+  ],
+  "funFacts": [
+    "El río Turia ya no pasa por Valencia: tras la riada de 1957 se desvió entero y su cauce es hoy un jardín de 9 km que cruza la ciudad.",
+    "La Catedral custodia el Santo Cáliz, el cáliz que la tradición (y el Vaticano en dos visitas papales) identifica con el de la Última Cena.",
+    "El Tribunal de las Aguas se reúne cada jueves a las 12 en la Puerta de los Apóstoles desde hace más de mil años: es la institución de justicia más antigua de Europa en funcionamiento.",
+    "Las Torres de Quart conservan los impactos de los cañones de Napoleón de 1808 — se dejaron a propósito como cicatriz de guerra.",
+    "El Miguelete tarda 207 escalones en darte la mejor vista del casco antiguo."
+  ],
+  "coverImageUrl": "https://images.pexels.com/photos/34618871/pexels-photo-34618871.jpeg?auto=compress&cs=tinysrgb&w=1200",
+  "practicalGuide": {
+    "lastVerified": "07/2026",
+    "arrival": [
+      {
+        "mode": "Metro (L3/L5)",
+        "price": "~4,90€",
+        "durationMin": 25,
+        "note": "Aeropuerto → Xàtiva/Colón, en pleno centro. La opción más fiable."
+      },
+      {
+        "mode": "Taxi",
+        "price": "tarifa fija ~21€",
+        "durationMin": 20,
+        "note": "Hay tarifa cerrada aeropuerto–centro. Si el taxímetro marca mucho más, recuérdalo."
+      },
+      {
+        "mode": "Bus EMT (línea 150)",
+        "price": "~1,50€",
+        "durationMin": 45,
+        "note": "La más barata, pero lenta y con muchas paradas."
+      }
+    ],
+    "monuments": [
+      {
+        "name": "Catedral + torre del Miguelete",
+        "price": "~9€",
+        "bookAheadDays": 0,
+        "note": "Incluye el Santo Cáliz. Subir el Miguelete son 207 escalones.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Lonja de la Seda",
+        "price": "~2€",
+        "bookAheadDays": 0,
+        "note": "Patrimonio de la Humanidad. Domingos gratis.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Torres de Serranos",
+        "price": "~2€",
+        "bookAheadDays": 0,
+        "note": "Domingos gratis. Las mejores vistas del casco antiguo.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Mercado Central",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Uno de los mercados modernistas más grandes de Europa. Cierra a media tarde.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Oceanogràfic (Ciudad de las Artes)",
+        "price": "~35€",
+        "bookAheadDays": 2,
+        "note": "El acuario más grande de Europa. En finde y verano, entrada online o hay colas largas.",
+        "bookingUrl": ""
+      }
+    ],
+    "luggage": [
+      {
+        "name": "Consigna Estación Joaquín Sorolla (AVE)",
+        "area": "Junto a la estación de alta velocidad",
+        "price": "~4-6€/día",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Bounce / Radical Storage",
+        "area": "Varios comercios en el centro",
+        "price": "~5€/día",
+        "bookingUrl": ""
+      }
+    ],
+    "outdoors": [
+      {
+        "name": "Jardín del Turia",
+        "type": "Parque",
+        "note": "9 km de jardín en el antiguo cauce del río. Ideal para caminar o alquilar bici."
+      },
+      {
+        "name": "Playa de la Malvarrosa",
+        "type": "Playa",
+        "note": "A 20 min en tranvía del centro. Paseo marítimo con arrocerías."
+      },
+      {
+        "name": "La Albufera",
+        "type": "Naturaleza",
+        "note": "Atardecer en barca por el lago y arroz en El Palmar. A 20 min en coche/bus."
+      }
+    ]
+  }
+}

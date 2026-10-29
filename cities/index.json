@@ -1,7 +1,7 @@
 [
   {
-    "cityId": "valencia-demo",
-    "name": "Valencia (Demo)",
+    "cityId": "valencia",
+    "name": "Valencia",
     "country": "ES",
     "centerLatitude": 39.4753,
     "centerLongitude": -0.3757,
@@ -11,70 +11,5 @@
     "audios": [],
     "routes": [],
     "coverImageUrl": "https://images.pexels.com/photos/34618871/pexels-photo-34618871.jpeg?auto=compress&cs=tinysrgb&w=1200"
-  },
-  {
-    "cityId": "madrid-demo",
-    "name": "Madrid (Demo)",
-    "country": "ES",
-    "centerLatitude": 40.4168,
-    "centerLongitude": -3.7038,
-    "isPremium": false,
-    "totalSizeBytes": 30000000,
-    "revision": 1,
-    "audios": [],
-    "routes": [],
-    "coverImageUrl": "https://images.pexels.com/photos/14366474/pexels-photo-14366474.jpeg?auto=compress&cs=tinysrgb&w=1200"
-  },
-  {
-    "cityId": "barcelona-demo",
-    "name": "Barcelona (Demo)",
-    "country": "ES",
-    "centerLatitude": 41.3874,
-    "centerLongitude": 2.1686,
-    "isPremium": false,
-    "totalSizeBytes": 30000000,
-    "revision": 1,
-    "audios": [],
-    "routes": [],
-    "coverImageUrl": "https://images.pexels.com/photos/30823574/pexels-photo-30823574.jpeg?auto=compress&cs=tinysrgb&w=1200"
-  },
-  {
-    "cityId": "sevilla-demo",
-    "name": "Sevilla (Demo)",
-    "country": "ES",
-    "centerLatitude": 37.3891,
-    "centerLongitude": -5.9845,
-    "isPremium": false,
-    "totalSizeBytes": 30000000,
-    "revision": 1,
-    "audios": [],
-    "routes": [],
-    "coverImageUrl": "https://images.pexels.com/photos/31790896/pexels-photo-31790896.jpeg?auto=compress&cs=tinysrgb&w=1200"
-  },
-  {
-    "cityId": "roma-demo",
-    "name": "Roma (Demo)",
-    "country": "IT",
-    "centerLatitude": 41.9028,
-    "centerLongitude": 12.4964,
-    "isPremium": false,
-    "totalSizeBytes": 30000000,
-    "revision": 1,
-    "audios": [],
-    "routes": [],
-    "coverImageUrl": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1200"
-  },
-  {
-    "cityId": "londres-demo",
-    "name": "Londres (Demo)",
-    "country": "GB",
-    "centerLatitude": 51.5074,
-    "centerLongitude": -0.1278,
-    "isPremium": false,
-    "totalSizeBytes": 30000000,
-    "revision": 1,
-    "audios": [],
-    "routes": [],
-    "coverImageUrl": "https://images.pexels.com/photos/30624831/pexels-photo-30624831.jpeg?auto=compress&cs=tinysrgb&w=1200"
   }
 ]
