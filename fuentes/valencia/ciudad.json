@@ -1,0 +1,116 @@
+{
+  "cityId": "valencia",
+  "name": "Valencia",
+  "country": "ES",
+  "centerLatitude": 39.4753,
+  "centerLongitude": -0.3757,
+  "isPremium": false,
+  "revision": 1,
+  "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
+  "food": [
+    "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. Nada de marisco.",
+    "Horchata de chufa con fartons, mejor en una horchatería histórica del centro.",
+    "Agua de Valencia: cóctel de cava, zumo de naranja, vodka y ginebra nacido en 1959.",
+    "Esgarraet: pimiento asado con bacalao, ajo y buen aceite. Una tapa clásica de barra.",
+    "All i pebre de anguila, el plato de la Albufera."
+  ],
+  "funFacts": [
+    "El río Turia ya no pasa por Valencia: tras la riada de 1957 se desvió entero y su cauce es hoy un jardín de 9 km que cruza la ciudad.",
+    "La Catedral custodia el Santo Cáliz, el cáliz que la tradición (y el Vaticano en dos visitas papales) identifica con el de la Última Cena.",
+    "El Tribunal de las Aguas se reúne cada jueves a las 12 en la Puerta de los Apóstoles desde hace más de mil años: es la institución de justicia más antigua de Europa en funcionamiento.",
+    "Las Torres de Quart conservan los impactos de los cañones de Napoleón de 1808. Se dejaron a propósito, como cicatriz de guerra.",
+    "Subir al Miguelete son 207 escalones, y arriba tienes la mejor vista del casco antiguo."
+  ],
+  "coverImageUrl": "file:///android_asset/catalog/images/valencia-cover.jpg",
+  "practicalGuide": {
+    "lastVerified": "07/2026",
+    "arrival": [
+      {
+        "mode": "Metro (L3/L5)",
+        "price": "~4,90€",
+        "durationMin": 25,
+        "note": "Aeropuerto → Xàtiva/Colón, en pleno centro. La opción más fiable."
+      },
+      {
+        "mode": "Taxi",
+        "price": "tarifa fija ~21€",
+        "durationMin": 20,
+        "note": "Hay tarifa cerrada entre el aeropuerto y el centro. Si el taxímetro marca mucho más, recuérdalo."
+      },
+      {
+        "mode": "Bus EMT (línea 150)",
+        "price": "~1,50€",
+        "durationMin": 45,
+        "note": "La más barata, pero lenta y con muchas paradas."
+      }
+    ],
+    "monuments": [
+      {
+        "name": "Catedral + torre del Miguelete",
+        "price": "~9€",
+        "bookAheadDays": 0,
+        "note": "Incluye el Santo Cáliz. Subir el Miguelete son 207 escalones.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Lonja de la Seda",
+        "price": "~2€",
+        "bookAheadDays": 0,
+        "note": "Patrimonio de la Humanidad. Domingos gratis.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Torres de Serranos",
+        "price": "~2€",
+        "bookAheadDays": 0,
+        "note": "Domingos gratis. Las mejores vistas del casco antiguo.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Mercado Central",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Uno de los mercados modernistas más grandes de Europa. Cierra a media tarde.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Oceanogràfic (Ciudad de las Artes)",
+        "price": "~35€",
+        "bookAheadDays": 2,
+        "note": "El acuario más grande de Europa. En finde y verano, entrada online o hay colas largas.",
+        "bookingUrl": ""
+      }
+    ],
+    "luggage": [
+      {
+        "name": "Consigna Estación Joaquín Sorolla (AVE)",
+        "area": "Junto a la estación de alta velocidad",
+        "price": "~4-6€/día",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Bounce / Radical Storage",
+        "area": "Varios comercios en el centro",
+        "price": "~5€/día",
+        "bookingUrl": ""
+      }
+    ],
+    "outdoors": [
+      {
+        "name": "Jardín del Turia",
+        "type": "Parque",
+        "note": "9 km de jardín en el antiguo cauce del río. Ideal para caminar o alquilar bici."
+      },
+      {
+        "name": "Playa de la Malvarrosa",
+        "type": "Playa",
+        "note": "A 20 min en tranvía del centro. Paseo marítimo con arrocerías."
+      },
+      {
+        "name": "La Albufera",
+        "type": "Naturaleza",
+        "note": "Atardecer en barca por el lago y arroz en El Palmar. A 20 min en coche/bus."
+      }
+    ]
+  }
+}

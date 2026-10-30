@@ -1,0 +1,4 @@
+*.m4a binary
+*.json text eol=lf
+*.csv text eol=lf
+*.tsv text eol=lf
