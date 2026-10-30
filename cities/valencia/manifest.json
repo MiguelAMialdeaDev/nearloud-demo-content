@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 5,
+  "revision": 6,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. Nada de marisco.",
@@ -138,6 +138,7 @@
       "ticketUrl": "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/",
       "author": "",
       "reviewedAt": "2026-10-30",
+      "narrator": "",
       "sources": [
         "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/",
         "https://catedraldevalencia.es/la-catedral/la-iglesia-catedral/",
@@ -157,7 +158,13 @@
         "https://ca.wikipedia.org/wiki/Micalet",
         "https://en.wikipedia.org/wiki/Miguelete_Tower"
       ],
-      "verifiedOnSite": false
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/valencia/val-catedral.webp",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_de_Valencia,_Valencia,_Espa%C3%B1a,_2014-06-30,_DD_144.JPG"
+      }
     },
     {
       "id": "val-virgen",
@@ -183,6 +190,7 @@
       "ticketUrl": "https://tribunaldelasaguas.org/visitas-al-tribunal/",
       "author": "",
       "reviewedAt": "2026-10-30",
+      "narrator": "",
       "sources": [
         "https://tribunaldelasaguas.org/historia/",
         "https://tribunaldelasaguas.org/funcionamiento/",
@@ -208,7 +216,13 @@
         "https://es.wikipedia.org/wiki/Bas%C3%ADlica_de_la_Virgen_de_los_Desamparados",
         "https://es.wikipedia.org/wiki/Catedral_de_Valencia"
       ],
-      "verifiedOnSite": false
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/valencia/val-virgen.webp",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Virgen,_Valencia,_Espa%C3%B1a,_2014-06-30,_DD_163.JPG"
+      }
     },
     {
       "id": "val-serranos",
@@ -234,6 +248,7 @@
       "ticketUrl": "https://museosvalencia.omesa.es/apps/tickets/tickets.php?c=9",
       "author": "",
       "reviewedAt": "2026-10-30",
+      "narrator": "",
       "sources": [
         "https://www.valencia.es/es/-/infociudad-torres-de-serranos",
         "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/torres-serranos",
@@ -252,7 +267,13 @@
         "https://www.comunitatvalenciana.com/en/valencia/valencia/monumentos/torres-de-serranos",
         "https://es.wikipedia.org/wiki/Torres_de_Serranos"
       ],
-      "verifiedOnSite": false
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/valencia/val-serranos.webp",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puerta_de_los_Serranos,_Valencia,_Espa%C3%B1a,_2014-06-30,_DD_86.JPG"
+      }
     },
     {
       "id": "val-mercado",
@@ -278,6 +299,7 @@
       "ticketUrl": "https://www.mercadocentralvalencia.es/",
       "author": "",
       "reviewedAt": "2026-10-30",
+      "narrator": "",
       "sources": [
         "https://www.mercadocentralvalencia.es/",
         "https://www.mercadocentralvalencia.es/Mercado/HistoriaMercado",
@@ -297,7 +319,13 @@
         "https://commons.wikimedia.org/wiki/File:Veletas_del_Mercado_Central_aa.jpg",
         "https://www.openstreetmap.org/way/5007139"
       ],
-      "verifiedOnSite": false
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/valencia/val-mercado.webp",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_Central,_Valencia,_Espa%C3%B1a,_2014-06-30,_DD_108.JPG"
+      }
     },
     {
       "id": "val-lonja",
@@ -323,6 +351,7 @@
       "ticketUrl": "https://museosvalencia.omesa.es/apps/tickets/index.php?idioma=castellano",
       "author": "",
       "reviewedAt": "2026-10-30",
+      "narrator": "",
       "sources": [
         "https://www.valencia.es/cas/infociudad2/004110",
         "https://museosvalencia.omesa.es/apps/tickets/tickets.php?c=2",
@@ -336,7 +365,13 @@
         "https://valencianews.es/?p=430911",
         "https://www.openstreetmap.org/way/23377876"
       ],
-      "verifiedOnSite": false
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/valencia/val-lonja.webp",
+        "author": "Ymblanter",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia_Llotja_de_la_Seda_southwestern_portal.jpg"
+      }
     },
     {
       "id": "val-quart",
@@ -362,6 +397,7 @@
       "ticketUrl": "https://museosvalencia.omesa.es/apps/tickets/tickets.php?c=3",
       "author": "",
       "reviewedAt": "2026-10-30",
+      "narrator": "",
       "sources": [
         "https://www.valencia.es/cas/infociudad/-/asset_publisher/DFHqZCbLF0Iv/content/infociudad-torres-de-quart",
         "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/torres-quart",
@@ -377,7 +413,13 @@
         "https://es.wikipedia.org/wiki/Torres_de_Quart",
         "https://en.wikipedia.org/wiki/Torres_de_Quart"
       ],
-      "verifiedOnSite": false
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/valencia/val-quart.webp",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torres_de_Cuart,_Valencia,_Espa%C3%B1a,_2014-06-30,_DD_89.JPG"
+      }
     }
   ],
   "routes": [
