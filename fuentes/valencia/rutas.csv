@@ -1,2 +1,3 @@
 id,titulo,descripcion,dificultad,paradas,duracion_min,distancia_m,gratis
-val-ruta-casco,Casco antiguo de Valencia,Un paseo por el corazón histórico: de la Catedral a las puertas de la muralla medieval.,facil,val-catedral val-virgen val-serranos,60,1800,si
+val-ruta-casco,Casco antiguo,"De la Catedral a las Torres de Serranos, la puerta por la que entraban reyes y embajadores.",facil,val-catedral val-virgen val-serranos,20,700,si
+val-ruta-seda,"Seda, mercado y muralla","Del Mercado Central a la Lonja de la Seda y a las Torres de Quart, que aún guardan las marcas de los cañones de 1808.",facil,val-mercado val-lonja val-quart,20,850,si
