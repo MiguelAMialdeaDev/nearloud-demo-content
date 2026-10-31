@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 8,
+  "revision": 10,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. Nada de marisco.",
@@ -23,25 +23,25 @@
   ],
   "coverImageUrl": "file:///android_asset/catalog/images/valencia-cover.jpg",
   "practicalGuide": {
-    "lastVerified": "07/2026",
+    "lastVerified": "10/2026",
     "arrival": [
       {
-        "mode": "Metro (L3/L5)",
-        "price": "~4,90€",
+        "mode": "Metro (líneas 3 y 5)",
+        "price": "4,80 €",
         "durationMin": 25,
-        "note": "Aeropuerto → Xàtiva/Colón, en pleno centro. La opción más fiable."
+        "note": "Billete AB+, más 1,10 € de la tarjeta de cartón la primera vez. Pasa cada 15 o 20 min."
       },
       {
         "mode": "Taxi",
-        "price": "tarifa fija ~21€",
+        "price": "20 a 30 €",
         "durationMin": 20,
-        "note": "Hay tarifa cerrada entre el aeropuerto y el centro. Si el taxímetro marca mucho más, recuérdalo."
+        "note": "Sin tarifa fija: taxímetro con 5,40 € de suplemento. Noches, fines de semana y festivos, más caro."
       },
       {
-        "mode": "Bus EMT (línea 150)",
-        "price": "~1,50€",
-        "durationMin": 45,
-        "note": "La más barata, pero lenta y con muchas paradas."
+        "mode": "Bus metropolitano 150",
+        "price": "4,80 €",
+        "durationMin": 50,
+        "note": "Billete en el bus. Acaba en Av. de l'Oest. No circula domingos ni festivos; de noche va la 150N."
       }
     ],
     "monuments": [
@@ -82,23 +82,23 @@
       },
       {
         "name": "Oceanogràfic (Ciudad de las Artes)",
-        "price": "~35€",
+        "price": "36 a 43 €",
         "bookAheadDays": 2,
-        "note": "El acuario más grande de Europa. En finde y verano, entrada online o hay colas largas.",
+        "note": "Varía según el día. En finde y verano, compra online o hay colas largas.",
         "bookingUrl": ""
       }
     ],
     "luggage": [
       {
-        "name": "Consigna Estación Joaquín Sorolla (AVE)",
-        "area": "Junto a la estación de alta velocidad",
-        "price": "~4-6€/día",
+        "name": "Radical Storage",
+        "area": "Comercios junto a Joaquín Sorolla, Estació del Nord y el centro",
+        "price": "3,40 € al día por maleta",
         "bookingUrl": ""
       },
       {
-        "name": "Bounce / Radical Storage",
-        "area": "Varios comercios en el centro",
-        "price": "~5€/día",
+        "name": "Bounce",
+        "area": "Comercios del centro y junto a Estació del Nord",
+        "price": "3,50 € al día por maleta",
         "bookingUrl": ""
       }
     ],
@@ -213,7 +213,7 @@
         "longitude": -0.3766,
         "emblematic": [
           "Tienda de las Ollas de Hierro",
-          "Original CV, antigua farmacia"
+          "Original CV (antigua farmacia)"
         ]
       },
       {
@@ -418,7 +418,7 @@
           "Atardecer",
           "Vistas"
         ],
-        "bestTime": "Al atardecer, con un paseo en barca por el lago",
+        "bestTime": "Al atardecer",
         "gettingThere": "Bus EMT 24 desde Porta de la Mar hasta El Palmar",
         "latitude": 39.31201,
         "longitude": -0.31968
