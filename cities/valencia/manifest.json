@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 7,
+  "revision": 8,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. Nada de marisco.",
@@ -63,14 +63,14 @@
         "name": "Lonja de la Seda",
         "price": "2 €",
         "bookAheadDays": 0,
-        "note": "Patrimonio de la Humanidad. Domingos gratis.",
+        "note": "Patrimonio de la Humanidad. Gratis domingos y festivos.",
         "bookingUrl": ""
       },
       {
         "name": "Torres de Serranos",
         "price": "2 €",
         "bookAheadDays": 0,
-        "note": "Domingos gratis. Las mejores vistas del casco antiguo.",
+        "note": "Gratis domingos y festivos. Las mejores vistas del casco antiguo.",
         "bookingUrl": ""
       },
       {
@@ -102,23 +102,394 @@
         "bookingUrl": ""
       }
     ],
-    "outdoors": [
+    "zones": [
       {
+        "id": "el-palmar-comer",
+        "kind": "comer",
+        "name": "El Palmar (L'Albufera)",
+        "summary": "Pedanía en plena Albufera con muchos restaurantes. Se viene a comer paella y all i pebre, un guiso de anguila con patata.",
+        "tags": [
+          "Paella",
+          "All i pebre"
+        ],
+        "bestTime": "",
+        "gettingThere": "Bus EMT 24 desde la Porta de la Mar",
+        "latitude": 39.3116,
+        "longitude": -0.31768
+      },
+      {
+        "id": "arenas-malvarrosa-comer",
+        "kind": "comer",
+        "name": "Paseo marítimo de Las Arenas y la Malvarrosa",
+        "summary": "Restaurantes frente al mar a lo largo del paseo marítimo, con paella, otros arroces y pescado fresco.",
+        "tags": [
+          "Paella",
+          "Arroces",
+          "Pescado"
+        ],
+        "bestTime": "",
+        "gettingThere": "Tranvía L4 o L6, paradas Platja les Arenes o Platja Malva-rosa",
+        "latitude": 39.4689,
+        "longitude": -0.32276,
+        "emblematic": [
+          "Bodega Montaña"
+        ]
+      },
+      {
+        "id": "santa-catalina-comer",
+        "kind": "comer",
+        "name": "Plaza de Santa Catalina y Mercado Central",
+        "summary": "Horchata con fartons en la horchatería histórica de la plaza de Santa Catalina y, muy cerca, el Mercado Central con producto fresco.",
+        "tags": [
+          "Horchata",
+          "Fartons",
+          "Mercado"
+        ],
+        "bestTime": "Mercado Central: lunes a sábado, de 7:30 a 15:00",
+        "gettingThere": "En pleno centro histórico, junto a la plaza de la Reina",
+        "latitude": 39.47389,
+        "longitude": -0.37611,
+        "emblematic": [
+          "Horchatería Santa Catalina"
+        ]
+      },
+      {
+        "id": "ruzafa-comer",
+        "kind": "comer",
+        "name": "Ruzafa",
+        "summary": "Barrio con muchos bares de tapas y cocina de medio mundo alrededor del Mercado de Ruzafa.",
+        "tags": [
+          "Tapas",
+          "Cocina internacional"
+        ],
+        "bestTime": "",
+        "gettingThere": "Metro L10, parada Russafa",
+        "latitude": 39.46204,
+        "longitude": -0.37139
+      },
+      {
+        "id": "el-carmen-comer",
+        "kind": "comer",
+        "name": "El Carmen",
+        "summary": "Barrio antiguo del centro para ir de tapas, con terrazas en plazas como el Tossal, el Negrito o Doctor Collado.",
+        "tags": [
+          "Tapas",
+          "Terrazas"
+        ],
+        "bestTime": "",
+        "gettingThere": "En el centro histórico (Ciutat Vella), se recorre a pie",
+        "latitude": 39.47822,
+        "longitude": -0.381
+      },
+      {
+        "id": "colon-compras",
+        "kind": "compras",
+        "name": "Calle Colón y Jorge Juan",
+        "summary": "Eje comercial del Ensanche: tiendas de moda y grandes firmas en la calle Colón, y joyerías y decoración en Jorge Juan y Sorní.",
+        "tags": [
+          "Moda",
+          "Joyería",
+          "Decoración"
+        ],
+        "bestTime": "Lunes a sábado; el domingo cierra casi todo",
+        "gettingThere": "Metro Colón (L3, L5, L7 y L9)",
+        "latitude": 39.46889,
+        "longitude": -0.3691
+      },
+      {
+        "id": "plaza-redonda-compras",
+        "kind": "compras",
+        "name": "Plaza Redonda y Mercado Central",
+        "summary": "Puestos de mercería, encajes, artesanía y recuerdos en la Plaza Redonda y, muy cerca, el Mercado Central para comprar producto fresco.",
+        "tags": [
+          "Artesanía",
+          "Mercería",
+          "Recuerdos",
+          "Mercado"
+        ],
+        "bestTime": "Lunes a sábado de 10:00 a 20:00; domingos de 8:00 a 14:00",
+        "gettingThere": "En pleno centro histórico, se llega a pie",
+        "latitude": 39.47358,
+        "longitude": -0.3766,
+        "emblematic": [
+          "Tienda de las Ollas de Hierro",
+          "Original CV, antigua farmacia"
+        ]
+      },
+      {
+        "id": "calle-paz-compras",
+        "kind": "compras",
+        "name": "Calle de la Paz y Poeta Querol",
+        "summary": "Calles del centro con joyerías de larga tradición, tiendas de moda y algunas firmas de lujo.",
+        "tags": [
+          "Joyería",
+          "Moda",
+          "Lujo"
+        ],
+        "bestTime": "Lunes a sábado; el domingo cierra casi todo",
+        "gettingThere": "A pie desde la plaza de la Reina",
+        "latitude": 39.47298,
+        "longitude": -0.37153
+      },
+      {
+        "id": "ruzafa-compras",
+        "kind": "compras",
+        "name": "Ruzafa",
+        "summary": "Tiendas de diseño local, vintage y galerías de arte, sobre todo en las calles Sueca, Literato Azorín y Cádiz.",
+        "tags": [
+          "Diseño",
+          "Vintage",
+          "Galerías"
+        ],
+        "bestTime": "Lunes a sábado; el domingo cierra casi todo",
+        "gettingThere": "Metro L10, parada Russafa",
+        "latitude": 39.4616,
+        "longitude": -0.37342
+      },
+      {
+        "id": "ruzafa-noche",
+        "kind": "noche",
+        "name": "Ruzafa",
+        "summary": "Mucho tardeo, bares de cerveza artesana y cócteles, y clubs de música indie o techno para seguir la noche.",
+        "tags": [
+          "Tardeo",
+          "Bares",
+          "Copas",
+          "Clubs"
+        ],
+        "bestTime": "Tardeo por la tarde; los pubs cierran a las 3:30",
+        "gettingThere": "Metro L10, parada Russafa",
+        "latitude": 39.46228,
+        "longitude": -0.37207
+      },
+      {
+        "id": "el-carmen-noche",
+        "kind": "noche",
+        "name": "El Carmen",
+        "summary": "Calles estrechas con bares, pubs y música en directo. La plaza del Tossal es el centro del ambiente, con terrazas y vida al caer el sol.",
+        "tags": [
+          "Bares",
+          "Pubs",
+          "Música en directo",
+          "Terrazas"
+        ],
+        "bestTime": "Tardeo desde las 17:00; los pubs cierran a las 3:30",
+        "gettingThere": "En el centro histórico (Ciutat Vella), se recorre a pie",
+        "latitude": 39.4762,
+        "longitude": -0.38018
+      },
+      {
+        "id": "canovas-noche",
+        "kind": "noche",
+        "name": "Cánovas",
+        "summary": "Zona de pubs y copas alrededor de la plaza de Cánovas, en el Ensanche.",
+        "tags": [
+          "Pubs",
+          "Copas"
+        ],
+        "bestTime": "Por la noche; los pubs cierran a las 3:30",
+        "gettingThere": "",
+        "latitude": 39.46791,
+        "longitude": -0.36549
+      },
+      {
+        "id": "marina-playa-noche",
+        "kind": "noche",
+        "name": "Marina y playa de Las Arenas",
+        "summary": "Discotecas y terrazas junto al mar. En verano, el paseo de Neptuno y la Marina tienen mucho ambiente.",
+        "tags": [
+          "Discotecas",
+          "Terrazas"
+        ],
+        "bestTime": "En verano; las discotecas cierran a las 7:30",
+        "gettingThere": "Tranvía L4 o L6 (playa) o L8 hasta Neptú, en la Marina",
+        "latitude": 39.46441,
+        "longitude": -0.32341
+      },
+      {
+        "id": "jardin-del-turia",
+        "kind": "aire_libre",
         "name": "Jardín del Turia",
-        "type": "Parque",
-        "note": "9 km de jardín en el antiguo cauce del río. Ideal para caminar o alquilar bici."
+        "summary": "Parque de unos 9 km en el antiguo cauce del río. Llano y sin coches, con carril bici y circuito de running propio.",
+        "tags": [
+          "Correr",
+          "Bici",
+          "Pasear"
+        ],
+        "bestTime": "Temprano o al final de la tarde en verano",
+        "gettingThere": "Metro Alameda (L3, L5, L7, L9), junto al tramo central del jardín",
+        "latitude": 39.4801,
+        "longitude": -0.38611
       },
       {
-        "name": "Playa de la Malvarrosa",
-        "type": "Playa",
-        "note": "A 20 min en tranvía del centro. Paseo marítimo con arrocerías."
+        "id": "parque-de-cabecera",
+        "kind": "aire_libre",
+        "name": "Parque de Cabecera",
+        "summary": "Aquí empieza el Jardín del Turia: lago con barcas de alquiler, bosque de ribera y una colina mirador. Al lado está el Bioparc.",
+        "tags": [
+          "Con niños",
+          "Pasear",
+          "Vistas"
+        ],
+        "bestTime": "",
+        "gettingThere": "Metro Nou d'Octubre (L3, L5, L9) y un paseo corto",
+        "latitude": 39.47733,
+        "longitude": -0.40881
       },
       {
-        "name": "La Albufera",
-        "type": "Naturaleza",
-        "note": "Atardecer en barca por el lago y arroz en El Palmar. A 20 min en coche/bus."
+        "id": "ciudad-artes-ciencias-umbracle",
+        "kind": "aire_libre",
+        "name": "Ciudad de las Artes y l'Umbracle",
+        "summary": "Paseo entre edificios blancos que al anochecer se reflejan en el agua. L'Umbracle es un jardín de acceso libre con esculturas.",
+        "tags": [
+          "Pasear",
+          "Vistas",
+          "Atardecer"
+        ],
+        "bestTime": "Al anochecer, cuando el agua refleja los edificios",
+        "gettingThere": "Tranvía 10, parada Ciutat Arts i Ciències, o andando por el Jardín del Turia",
+        "latitude": 39.4556,
+        "longitude": -0.35417
+      },
+      {
+        "id": "jardines-del-real-viveros",
+        "kind": "aire_libre",
+        "name": "Jardines del Real (Viveros)",
+        "summary": "Jardín amplio junto al Turia, con rosaleda, miles de árboles y un parque infantil de tráfico. La entrada es gratis.",
+        "tags": [
+          "Pasear",
+          "Con niños"
+        ],
+        "bestTime": "Cualquier día desde las 7:30 de la mañana",
+        "gettingThere": "Metro Alameda (L3, L5, L7, L9) y unos 10 minutos a pie",
+        "latitude": 39.48049,
+        "longitude": -0.36781
+      },
+      {
+        "id": "marina-de-valencia",
+        "kind": "aire_libre",
+        "name": "La Marina de València",
+        "summary": "Dársena junto a la playa para pasear frente al mar. Hay escuelas de vela, paddle surf y kayak para probar o hacer un curso.",
+        "tags": [
+          "Pasear",
+          "Deportes de agua"
+        ],
+        "bestTime": "",
+        "gettingThere": "Metro L5 o L7 hasta Marítim y tranvía 8 hasta Neptú, junto a la dársena",
+        "latitude": 39.4611,
+        "longitude": -0.3242
+      },
+      {
+        "id": "playas-malvarrosa-cabanyal",
+        "kind": "aire_libre",
+        "name": "Playas de la Malvarrosa y el Cabanyal",
+        "summary": "Arena urbana continua con paseo marítimo al lado. Para bañarte, caminar junto al mar o probar paddle surf y windsurf.",
+        "tags": [
+          "Nadar",
+          "Pasear",
+          "Deportes de agua"
+        ],
+        "bestTime": "Baño vigilado del 1 de junio al 15 de septiembre",
+        "gettingThere": "Tranvía 4 o 6, paradas Platja les Arenes o Platja Malva-rosa",
+        "latitude": 39.47917,
+        "longitude": -0.32306
+      },
+      {
+        "id": "devesa-del-saler",
+        "kind": "aire_libre",
+        "name": "Devesa de El Saler",
+        "summary": "Pinar y dunas entre el mar y la Albufera, a unos 10 km del centro. Su playa, de casi 5 km, no tiene edificios.",
+        "tags": [
+          "Bici",
+          "Nadar",
+          "Pasear"
+        ],
+        "bestTime": "Baño vigilado solo en julio y agosto",
+        "gettingThere": "Bus EMT 24 o 25 desde Porta de la Mar, o en bici desde la Ciudad de las Artes",
+        "latitude": 39.34186,
+        "longitude": -0.31508
+      },
+      {
+        "id": "albufera-el-palmar",
+        "kind": "aire_libre",
+        "name": "La Albufera desde El Palmar",
+        "summary": "Lago rodeado de arrozales. Desde el embarcadero de El Palmar salen barcas por el lago, y el paseo más recomendado es al atardecer.",
+        "tags": [
+          "Atardecer",
+          "Vistas"
+        ],
+        "bestTime": "Al atardecer, con un paseo en barca por el lago",
+        "gettingThere": "Bus EMT 24 desde Porta de la Mar hasta El Palmar",
+        "latitude": 39.31201,
+        "longitude": -0.31968
       }
-    ]
+    ],
+    "zoneNotes": {
+      "aire_libre": "Bici pública (Valenbisi): 3,99 € el día o 13,30 € la semana, con los primeros 30 minutos de cada viaje gratis. Alta en su web o app con tarjeta, que queda con una garantía de 150 €."
+    },
+    "zonesLastVerified": "10/2026",
+    "nearbySearches": [
+      "Paella",
+      "Horchata",
+      "Tapas",
+      "Café"
+    ],
+    "dayCost": {
+      "items": [
+        {
+          "label": "Metro o tranvía, billete zona A",
+          "price": "1,50 €",
+          "note": "Más la tarjeta SUMA de cartón, 1,10 €, solo la primera vez."
+        },
+        {
+          "label": "Autobús EMT, billete sencillo",
+          "price": "2,00 €",
+          "note": "Subió de 1,50 a 2 € en enero de 2025. Se paga al subir."
+        },
+        {
+          "label": "Valencia Tourist Card 24 h",
+          "price": "17,00 €",
+          "note": "15,30 € online. Transporte zona AB y monumentos municipales gratis."
+        },
+        {
+          "label": "Menú del día entre semana",
+          "price": "14 a 16 €",
+          "note": "Media de la Comunitat Valenciana en 2026: 15,20 €."
+        },
+        {
+          "label": "Paella valenciana por persona",
+          "price": "18 a 28 €",
+          "note": "Casi siempre para 2 personas como mínimo. Más cara junto a la Catedral."
+        },
+        {
+          "label": "Horchata con dos fartons",
+          "price": "3,50 a 7 €",
+          "note": "Algunas horchaterías cierran en invierno."
+        },
+        {
+          "label": "Café con leche en bar",
+          "price": "1,40 a 2,40 €",
+          "note": "En terraza suele costar algo más que en barra."
+        },
+        {
+          "label": "Caña de cerveza en bar",
+          "price": "1,50 a 3 €",
+          "note": "Más cara en las plazas turísticas del centro."
+        }
+      ],
+      "days": [
+        {
+          "label": "Un día ajustado",
+          "price": "25 a 32 €",
+          "note": "Metro, menú del día, café, horchata y la Lonja."
+        },
+        {
+          "label": "Un día con paella",
+          "price": "43 a 59 €",
+          "note": "Metro, paella, café, caña, horchata, Catedral y Lonja."
+        }
+      ]
+    }
   },
   "intro": {
     "id": "valencia-presentacion",

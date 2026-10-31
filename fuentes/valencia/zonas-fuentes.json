@@ -1,0 +1,1167 @@
+{
+  "verifiedOn": "2026-10-31",
+  "zones": {
+    "el-palmar-comer": [
+      {
+        "fact": "El Palmar es una pedanía de València en L'Albufera",
+        "urls": [
+          "https://www.elespanol.com/valencia/ocio/20260531/pueblo-ideal-comer-mejor-paella-ver-mar-vecinos-mucha-huerta-origen-musulman-trt/1003744260740_0.html",
+          "https://es.wikipedia.org/wiki/El_Palmar_(Valencia)"
+        ]
+      },
+      {
+        "fact": "Su economía gira en torno a los restaurantes (y los paseos en barca); conocido por sus restaurantes",
+        "urls": [
+          "https://es.wikipedia.org/wiki/El_Palmar_(Valencia)",
+          "https://www.esdiario.com/comunidad-valenciana/valencia/241220/149398/palmar.html",
+          "https://valenciaplaza.com/restaurantes-el-palmar-algunos-cerrados-empiezan-plantearse-erte"
+        ]
+      },
+      {
+        "fact": "Se va a comer paella (visitvalencia la llama cuna de la paella valenciana)",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar",
+          "https://www.elespanol.com/valencia/ocio/20260531/pueblo-ideal-comer-mejor-paella-ver-mar-vecinos-mucha-huerta-origen-musulman-trt/1003744260740_0.html",
+          "https://www.comunitatvalenciana.com/valencia/el-palmar"
+        ]
+      },
+      {
+        "fact": "All i pebre: guiso de anguila con patata (pimentón y guindilla), plato típico de El Palmar",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar",
+          "https://www.comunitatvalenciana.com/valencia/el-palmar"
+        ]
+      },
+      {
+        "fact": "La línea 25 de EMT da servicio a El Palmar (visitvalencia la recomienda; existe desde 2015)",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar",
+          "https://valenciaplaza.com/ernesto-peris-el-palmar-queremos-frecuencia-emt-baje-dos-horas-una-que-menos",
+          "https://www.valencia.es/es/-/refuerzo-emt-pobles-del-sud-val%C3%A8ncia"
+        ]
+      },
+      {
+        "fact": "Las líneas 24 y 25 comparten recorrido entre la Porta de la Mar y el desvío de El Palmar (nota oficial 5-jun-2026); la 25 sale de la Porta de la Mar",
+        "urls": [
+          "https://www.valencia.es/es/-/refuerzo-emt-pobles-del-sud-val%C3%A8ncia",
+          "https://findit.city/es/spain/valencia/transport/bus/25"
+        ]
+      },
+      {
+        "fact": "Coordenadas del núcleo de El Palmar",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=El+Palmar,+Valencia",
+          "https://es.wikipedia.org/wiki/El_Palmar_(Valencia)"
+        ]
+      }
+    ],
+    "arenas-malvarrosa-comer": [
+      {
+        "fact": "El paseo marítimo reúne restaurantes con paella, arroces, pescado fresco y vistas al mar",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas",
+          "https://valenciaplaza.com/guiahedonista/comer3/grupo-portolito-se-consolida-en-la-playa-de-las-arenas-con-su-oferta-arrocera-y-de-brasas",
+          "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20250401/restaurante-valencia-primera-linea-playa-sirve-menu-arroces-fideua/935407041_0.html"
+        ]
+      },
+      {
+        "fact": "Pescado en restaurantes de primera línea de la playa",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas",
+          "https://www.elespanol.com/cocinillas/restaurantes/20250615/restaurante-junto-playa-famosa-valencia-comer-pescados-ostras-partir-eur/1003743805091_0.html"
+        ]
+      },
+      {
+        "fact": "El paseo marítimo alberga restaurantes y cafeterías",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa",
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas"
+        ]
+      },
+      {
+        "fact": "Las playas tienen metro/tranvía L4, L6 y L8 (visitvalencia); las paradas Platja les Arenes y Platja Malva-rosa son de las líneas 4 y 6",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas",
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_6_(Metrovalencia)"
+        ]
+      },
+      {
+        "fact": "'Bodega Montaña' figura en el listado oficial de comercios emblemáticos (distrito Poblats Marítims)",
+        "urls": [
+          "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704",
+          "https://normatia.com/es/normativa/impuestos-construcciones-obras-valencia/2025/anexo-listado-de-comercios-emblematicos-de-la-ciudad-de-valencia/"
+        ]
+      },
+      {
+        "fact": "Visitvalencia incluye 'Bodega Casa Montaña' entre los locales para comer de la zona de playas (se asume que es la 'Bodega Montaña' del listado)",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas",
+          "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704"
+        ]
+      },
+      {
+        "fact": "Coordenadas: Platja del Cabanyal (Las Arenas)",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Playa+de+las+Arenas,+Valencia",
+          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa"
+        ]
+      }
+    ],
+    "santa-catalina-comer": [
+      {
+        "fact": "Horchata con fartons, pareja típica valenciana; Santa Catalina es uno de los sitios míticos para tomarla en el centro",
+        "urls": [
+          "https://www.elespanol.com/cocinillas/reportajes-gastronomicos/20240726/horchata-fartons-sitios-disfrutar-mejor-pareja-verano/872412887_0.html",
+          "https://valenciaplaza.com/los-mejores-lugares-para-tomar-horchata-en-valencia"
+        ]
+      },
+      {
+        "fact": "Horchatería Santa Catalina, una de las más antiguas de València, cerca de la plaza de la Reina",
+        "urls": [
+          "https://www.elespanol.com/valencia/ocio/20240311/ninot-indultat-fallas-homenajea-horchateria-valenciacon-siglos-tradicion/837916510_0.html",
+          "https://valenciaplaza.com/los-mejores-lugares-para-tomar-horchata-en-valencia",
+          "https://www.elespanol.com/cocinillas/reportajes-gastronomicos/20240726/horchata-fartons-sitios-disfrutar-mejor-pareja-verano/872412887_0.html"
+        ]
+      },
+      {
+        "fact": "'Horchatería Santa Catalina' figura en el listado oficial de comercios emblemáticos (Ciutat Vella, barrio El Mercat)",
+        "urls": [
+          "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704",
+          "https://normatia.com/es/normativa/impuestos-construcciones-obras-valencia/2025/anexo-listado-de-comercios-emblematicos-de-la-ciudad-de-valencia/"
+        ]
+      },
+      {
+        "fact": "Mercado Central: producto fresco (pescado, fruta, verdura, carne, embutidos) y oferta gourmet",
+        "urls": [
+          "https://comunitatvalenciana.com/es/inspirate/comprar-en-valencia",
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras"
+        ]
+      },
+      {
+        "fact": "Horario del Mercado Central: lunes a sábado de 7:30 a 15:00, domingo cerrado (visitvalencia indica 7:00 de apertura; se usa el horario de la web oficial del mercado)",
+        "urls": [
+          "https://www.mercadocentralvalencia.es/",
+          "https://www.lovevalencia.com/en/lugares/central-market"
+        ]
+      },
+      {
+        "fact": "Coordenadas: plaza de Santa Catalina",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Plaza+de+Santa+Catalina,+Valencia",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Mercado+Central,+Valencia"
+        ]
+      }
+    ],
+    "ruzafa-comer": [
+      {
+        "fact": "Bares y locales de tapas en Ruzafa",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa",
+          "https://valenciaplaza.com/guiahedonista/comer/el-almacen-tapas-con-alma-de-plato-en-pleno-corazon-de-ruzafa",
+          "https://www.elespanol.com/viajes/cocinillas-gastro/restaurantes/20261031/discipulos-quique-dacosta-convierten-recetario-global-tapas-barrio-ruzafa/1003744435825_0.html"
+        ]
+      },
+      {
+        "fact": "Cocina valenciana y sabores del mundo en el mismo barrio (artículo de Valencia Plaza de 2016, posible desfase)",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa",
+          "https://valenciaplaza.com/ruzafa-no-se-acaba-nunca-comer-beber-y-trasnochar-en-ruzafa-i"
+        ]
+      },
+      {
+        "fact": "El Mercado de Ruzafa es el eje del barrio (Time Out, 2018)",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa",
+          "https://www.timeout.com/es/valencia/que-hacer/barrio-de-ruzafa"
+        ]
+      },
+      {
+        "fact": "Ruzafa es el lugar de referencia para el tardeo",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa",
+          "https://5barricas.valenciaplaza.com/russafa-baila-este-sabado-a-ritmo-de-vermut-valenciano-con-tardeo-incluido/"
+        ]
+      },
+      {
+        "fact": "Estación Russafa en la línea 10 de metro (abierta en 2022)",
+        "urls": [
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_10_(Metrovalencia)"
+        ]
+      },
+      {
+        "fact": "Coordenadas: Mercat de Russafa",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Mercado+de+Ruzafa,+Valencia",
+          "https://www.timeout.com/es/valencia/que-hacer/barrio-de-ruzafa"
+        ]
+      }
+    ],
+    "el-carmen-comer": [
+      {
+        "fact": "El Carmen, barrio por excelencia del tapeo en València",
+        "urls": [
+          "https://www.elespanol.com/valencia/ocio/20240719/mejor-barrio-valencia-ir-tapas-pleno-centro-historico-ciudad-trt/871662919_0.html",
+          "https://www.visitvalencia.com/que-ver-valencia/centro-historico/barrio-del-carmen",
+          "https://www.palladiumhotelgroup.com/es/guia-turistica/espana/valencia/ocio-nocturno"
+        ]
+      },
+      {
+        "fact": "Terrazas para tapear en las plazas del Negrito, el Tossal y Doctor Collado",
+        "urls": [
+          "https://www.palladiumhotelgroup.com/es/guia-turistica/espana/valencia/ocio-nocturno",
+          "https://www.visitvalencia.com/que-ver-valencia/centro-historico/barrio-del-carmen",
+          "https://europenightlife.com/spain/valencia/el-carmen-nightlife-valencia"
+        ]
+      },
+      {
+        "fact": "El Carmen está en Ciutat Vella (centro histórico)",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=El+Carmen,+Valencia",
+          "https://www.visitvalencia.com/que-ver-valencia/centro-historico/barrio-del-carmen"
+        ]
+      }
+    ],
+    "colon-compras": [
+      {
+        "fact": "Calle Colón y travesías (Sorní, Jorge Juan): grandes firmas, decoración y joyerías",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras",
+          "https://valenciaplaza.com/valenciaplaza/de-la-restauracion-a-la-joyeria-asi-se-reparte-el-retail-en-el-centro-de-valencia"
+        ]
+      },
+      {
+        "fact": "Moda en la calle Colón (datos de 2019 y 2020)",
+        "urls": [
+          "https://valenciaplaza.com/valenciaplaza/de-la-restauracion-a-la-joyeria-asi-se-reparte-el-retail-en-el-centro-de-valencia",
+          "https://comunitatvalenciana.com/es/inspirate/comprar-en-valencia"
+        ]
+      },
+      {
+        "fact": "Jorge Juan, la calle de las joyerías",
+        "urls": [
+          "https://valenciaplaza.com/valenciaplaza/de-la-restauracion-a-la-joyeria-asi-se-reparte-el-retail-en-el-centro-de-valencia",
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras"
+        ]
+      },
+      {
+        "fact": "SUPUESTO: Horario habitual: muchas tiendas abren seguido de 10:00 a 21:00 y algunas cierran de 14:00 a 17:00 (no se pone en bestTime porque varía)",
+        "urls": [
+          "https://www.spain.info/es/consejos-viaje/horarios-dias-festivos-espana/"
+        ]
+      },
+      {
+        "fact": "El domingo es día habitual de cierre; en la Comunitat Valenciana los domingos y festivos no son hábiles salvo 11 días habilitados en 2026 (4 y 11 ene, 3 y 5 abr, 5 jul, 15 ago, 12 oct, 29 nov, 13, 20 y 27 dic)",
+        "urls": [
+          "https://www.spain.info/es/consejos-viaje/horarios-dias-festivos-espana/",
+          "https://dogv.gva.es/datos/2025/09/17/pdf/2025_39725_es.pdf",
+          "https://www.alicante.es/es/contenidos/horarios-apertura-comercial-alicante-2026"
+        ]
+      },
+      {
+        "fact": "Estación Colón: líneas 3, 5, 7 y 9",
+        "urls": [
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/Estaci%C3%B3n_de_Col%C3%B3n_(Metrovalencia)",
+          "https://www.visitvalencia.com/fr/que-faire-valencia/culture-valencienne/monuments/mercado-colon-marche-colomb"
+        ]
+      },
+      {
+        "fact": "Coordenadas: calle de Jorge Juan, junto al Mercado de Colón",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Carrer+de+Jorge+Juan,+Valencia",
+          "https://www.visitvalencia.com/fr/que-faire-valencia/culture-valencienne/monuments/mercado-colon-marche-colomb"
+        ]
+      }
+    ],
+    "plaza-redonda-compras": [
+      {
+        "fact": "Plaza Redonda: puestos de puntillas, mercería, encajes, artesanía y souvenirs; hoy sobre todo ropa, mercería y souvenirs",
+        "urls": [
+          "https://www.valencia.es/es/-/infociudad-mercado-municipal-plaza-redonda",
+          "https://www.elespanol.com/valencia/20260304/plazas-bonitas-valencia-joya-siglo-xix-forma-circular-esnbspbien-relevancia-local/1003744152360_0.html",
+          "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/plaza-redonda"
+        ]
+      },
+      {
+        "fact": "Horario de la Plaza Redonda: lunes a sábado 10:00 a 20:00; domingos y festivos 8:00 a 14:00 (mercado extraordinario)",
+        "urls": [
+          "https://www.valencia.es/es/-/infociudad-mercado-municipal-plaza-redonda",
+          "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/plaza-redonda",
+          "https://www.comunitatvalenciana.com/es/valencia/valencia/donde-ir-de-compras/plaza-redonda"
+        ]
+      },
+      {
+        "fact": "Mercado Central: producto fresco y oferta gourmet; horario lunes a sábado 7:30 a 15:00",
+        "urls": [
+          "https://www.mercadocentralvalencia.es/",
+          "https://comunitatvalenciana.com/es/inspirate/comprar-en-valencia",
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras"
+        ]
+      },
+      {
+        "fact": "'Tienda de las Ollas de Hierro' figura en el listado oficial de comercios emblemáticos (Ciutat Vella, El Mercat)",
+        "urls": [
+          "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704",
+          "https://normatia.com/es/normativa/impuestos-construcciones-obras-valencia/2025/anexo-listado-de-comercios-emblematicos-de-la-ciudad-de-valencia/"
+        ]
+      },
+      {
+        "fact": "La Tienda de las Ollas de Hierro está en la calle Derechos, junto a la Plaza Redonda",
+        "urls": [
+          "https://www.elespanol.com/valencia/20240211/tienda-ollas-hierro-comercio-antiguo-valencia-llama-no-vende-ollas/831167202_0.html",
+          "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704"
+        ]
+      },
+      {
+        "fact": "'Original CV, antigua farmacia' figura en el listado oficial (Ciutat Vella, El Mercat)",
+        "urls": [
+          "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704",
+          "https://normatia.com/es/normativa/impuestos-construcciones-obras-valencia/2025/anexo-listado-de-comercios-emblematicos-de-la-ciudad-de-valencia/"
+        ]
+      },
+      {
+        "fact": "Original CV: productos valencianos en una antigua farmacia frente al Mercado Central (plaza del Mercado, 35)",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/donde-comprar/original-spain-productos-valencianos",
+          "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704"
+        ]
+      },
+      {
+        "fact": "La Plaza Redonda está en el centro histórico",
+        "urls": [
+          "https://www.valencia.es/es/-/infociudad-mercado-municipal-plaza-redonda",
+          "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/plaza-redonda"
+        ]
+      },
+      {
+        "fact": "Coordenadas: Plaza Redonda",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Plaza+Redonda,+Valencia",
+          "https://www.comunitatvalenciana.com/es/valencia/valencia/donde-ir-de-compras/plaza-redonda"
+        ]
+      }
+    ],
+    "calle-paz-compras": [
+      {
+        "fact": "Calle de la Paz y Poeta Querol: comercios más exclusivos y joyerías (visitvalencia cita marcas que ya dejaron Poeta Querol)",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras",
+          "https://valenciaplaza.com/valenciaplaza/louis-vuitton-y-loewe-dejan-sola-a-lladro-en-la-antigua-milla-de-oro-de-valencia"
+        ]
+      },
+      {
+        "fact": "Joyerías tradicionales en la calle de la Paz (artículo de 2014, posible desfase)",
+        "urls": [
+          "https://valenciaplaza.com/cultura-y-sociedad/calle-la-paz-el-futuro-inmediato-del-hito-donde-mas-se-fotografian-las-parejas-al-casarse",
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras"
+        ]
+      },
+      {
+        "fact": "Moda y firmas: Loewe se traslada a la calle de la Paz; en Poeta Querol siguen firmas como Lladró (2022)",
+        "urls": [
+          "https://valenciaplaza.com/valenciaplaza/louis-vuitton-y-loewe-dejan-sola-a-lladro-en-la-antigua-milla-de-oro-de-valencia",
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras"
+        ]
+      },
+      {
+        "fact": "El domingo es día habitual de cierre; solo 11 domingos y festivos hábiles en 2026 en la Comunitat Valenciana",
+        "urls": [
+          "https://www.spain.info/es/consejos-viaje/horarios-dias-festivos-espana/",
+          "https://dogv.gva.es/datos/2025/09/17/pdf/2025_39725_es.pdf"
+        ]
+      },
+      {
+        "fact": "La calle de la Paz llega a la zona de la plaza de la Reina (esquina con San Vicente Mártir)",
+        "urls": [
+          "https://valenciaplaza.com/valenciaplaza/louis-vuitton-y-loewe-dejan-sola-a-lladro-en-la-antigua-milla-de-oro-de-valencia",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Calle+de+la+Paz,+Valencia"
+        ]
+      },
+      {
+        "fact": "Coordenadas: calle de la Paz",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Calle+de+la+Paz,+Valencia",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Carrer+del+Poeta+Querol,+Valencia"
+        ]
+      }
+    ],
+    "ruzafa-compras": [
+      {
+        "fact": "Tiendas de diseño, galerías de arte y espacios alternativos en Sueca, Literato Azorín y Cádiz",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/de-compras-en-valencia/zonas-de-compras",
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa"
+        ]
+      },
+      {
+        "fact": "Tiendas vintage en Ruzafa (calle Cádiz) y de diseño (fuentes de 2018 y 2020)",
+        "urls": [
+          "https://comunitatvalenciana.com/es/inspirate/comprar-en-valencia",
+          "https://www.timeout.com/es/valencia/que-hacer/barrio-de-ruzafa",
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa"
+        ]
+      },
+      {
+        "fact": "El domingo es día habitual de cierre; solo 11 domingos y festivos hábiles en 2026 en la Comunitat Valenciana",
+        "urls": [
+          "https://www.spain.info/es/consejos-viaje/horarios-dias-festivos-espana/",
+          "https://dogv.gva.es/datos/2025/09/17/pdf/2025_39725_es.pdf"
+        ]
+      },
+      {
+        "fact": "Estación Russafa en la línea 10 de metro",
+        "urls": [
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_10_(Metrovalencia)"
+        ]
+      },
+      {
+        "fact": "Coordenadas: calle de Cádiz",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Carrer+de+Cadis,+Valencia",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Carrer+de+Sueca,+Valencia"
+        ]
+      }
+    ],
+    "ruzafa-noche": [
+      {
+        "fact": "Ruzafa, referencia del tardeo",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa",
+          "https://5barricas.valenciaplaza.com/russafa-baila-este-sabado-a-ritmo-de-vermut-valenciano-con-tardeo-incluido/"
+        ]
+      },
+      {
+        "fact": "Cerveza artesana, cócteles, techno e indie en Ruzafa",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche",
+          "https://www.visitvalencia.com/que-ver-valencia/ruzafa-y-ensanche/barrio-ruzafa",
+          "https://valenciaplaza.com/ruzafa-no-se-acaba-nunca-comer-beber-y-trasnochar-en-ruzafa-i"
+        ]
+      },
+      {
+        "fact": "Ruzafa es zona de ocio con bares y discotecas",
+        "urls": [
+          "https://www.elespanol.com/valencia/ocio/20260422/valencia-anuncia-zas-ruzafa-reducir-ruido-bares-discotecas-estallan-cortina-humo/1003744216892_0.amp.html",
+          "https://www.timeout.com/es/valencia/que-hacer/barrio-de-ruzafa"
+        ]
+      },
+      {
+        "fact": "En València (más de 50.000 hab.) los pubs cierran a las 3:30 en 2026; el Ayuntamiento rechazó ampliarlo a las 4:00",
+        "urls": [
+          "https://dogv.gva.es/datos/2025/12/22/pdf/2025_48041_es.pdf",
+          "https://valenciaplaza.com/valenciaplaza/valencia/catala-se-opone-a-ampliar-el-horario-de-los-pubs-en-valencia-no-estamos-de-acuerdo",
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche"
+        ]
+      },
+      {
+        "fact": "Estación Russafa en la línea 10 de metro",
+        "urls": [
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_10_(Metrovalencia)"
+        ]
+      },
+      {
+        "fact": "Coordenadas: barrio de Russafa",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Ruzafa,+Valencia",
+          "https://www.timeout.com/es/valencia/que-hacer/barrio-de-ruzafa"
+        ]
+      }
+    ],
+    "el-carmen-noche": [
+      {
+        "fact": "Las calles estrechas del Carmen concentran la mayor parte del ambiente nocturno",
+        "urls": [
+          "https://www.worldtravelguide.net/guides/europe/spain/valencia/nightlife",
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche"
+        ]
+      },
+      {
+        "fact": "Bares, pubs y música en directo (rock, indie, jazz, flamenco) en El Carmen",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche",
+          "https://europenightlife.com/spain/valencia/el-carmen-nightlife-valencia"
+        ]
+      },
+      {
+        "fact": "Plaza del Tossal: epicentro del ocio nocturno del Carmen, terrazas y mucha vida al caer el sol",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/centro-historico/barrio-del-carmen",
+          "https://europenightlife.com/spain/valencia/el-carmen-nightlife-valencia"
+        ]
+      },
+      {
+        "fact": "El tardeo empieza hacia las 17:00",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche",
+          "https://europenightlife.com/spain/valencia/el-carmen-nightlife-valencia"
+        ]
+      },
+      {
+        "fact": "En València los pubs cierran a las 3:30 en 2026",
+        "urls": [
+          "https://dogv.gva.es/datos/2025/12/22/pdf/2025_48041_es.pdf",
+          "https://valenciaplaza.com/valenciaplaza/valencia/catala-se-opone-a-ampliar-el-horario-de-los-pubs-en-valencia-no-estamos-de-acuerdo",
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche"
+        ]
+      },
+      {
+        "fact": "Coordenadas: plaza del Tossal",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Plaza+del+Tossal,+Valencia",
+          "https://www.visitvalencia.com/que-ver-valencia/centro-historico/barrio-del-carmen"
+        ]
+      }
+    ],
+    "canovas-noche": [
+      {
+        "fact": "La plaza de Cánovas es una zona de ocio nocturno (fuentes oficiales de 2016 y 2022, posible desfase)",
+        "urls": [
+          "https://www.worldtravelguide.net/guides/europe/spain/valencia/nightlife",
+          "https://www.valencia.es/cas/actualidad/-/content/agentes-de-la-policia-local-controlan-que-los-establecimientos-de-ocio-nocturno-cumplan-con-las-ordenanzas-municipale-1",
+          "https://www.eldiario.es/comunitat-valenciana/valencia/red-22-sonometros-ubicados-zonas-ocio-valencia-avisara-policia-local-superen-limites-legales_1_8770673.html"
+        ]
+      },
+      {
+        "fact": "Pubs y locales de copas en Cánovas y calles cercanas",
+        "urls": [
+          "https://247valencia.com/canovas",
+          "https://www.worldtravelguide.net/guides/europe/spain/valencia/nightlife",
+          "https://www.valencia.es/cas/actualidad/-/content/agentes-de-la-policia-local-controlan-que-los-establecimientos-de-ocio-nocturno-cumplan-con-las-ordenanzas-municipale-1"
+        ]
+      },
+      {
+        "fact": "La plaza de Cánovas está en el Ensanche (distrito L'Eixample)",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Pla%C3%A7a+de+C%C3%A1novas+del+Castillo,+Val%C3%A8ncia",
+          "https://247valencia.com/canovas"
+        ]
+      },
+      {
+        "fact": "En València los pubs cierran a las 3:30 en 2026",
+        "urls": [
+          "https://dogv.gva.es/datos/2025/12/22/pdf/2025_48041_es.pdf",
+          "https://valenciaplaza.com/valenciaplaza/valencia/catala-se-opone-a-ampliar-el-horario-de-los-pubs-en-valencia-no-estamos-de-acuerdo"
+        ]
+      },
+      {
+        "fact": "Coordenadas: plaza de Cánovas del Castillo (Ensanche)",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Pla%C3%A7a+de+C%C3%A1novas+del+Castillo,+Val%C3%A8ncia",
+          "https://247valencia.com/canovas"
+        ]
+      }
+    ],
+    "marina-playa-noche": [
+      {
+        "fact": "La Marina y las playas concentran los clubs más grandes y el ocio más comercial, con locales junto al mar hasta el amanecer",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche",
+          "https://www.nomadotravel.app/es/guides/valencia-nightlife-guide"
+        ]
+      },
+      {
+        "fact": "Terrazas frente al Mediterráneo (Marina, Poblats Marítims)",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche",
+          "https://www.palladiumhotelgroup.com/es/guia-turistica/espana/valencia/ocio-nocturno"
+        ]
+      },
+      {
+        "fact": "Clubs de playa en la Marina y la Malvarrosa en verano (post de 2019, posible desfase)",
+        "urls": [
+          "https://blog.visitvalencia.com/en/experience-the-perfect-summer-nights-the-party-keeps-on-going",
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche"
+        ]
+      },
+      {
+        "fact": "En verano el paseo de Neptuno y el puerto nuevo tienen mucho ambiente",
+        "urls": [
+          "https://www.worldtravelguide.net/guides/europe/spain/valencia/nightlife",
+          "https://blog.visitvalencia.com/en/experience-the-perfect-summer-nights-the-party-keeps-on-going"
+        ]
+      },
+      {
+        "fact": "Las discotecas cierran como máximo a las 7:30 en 2026",
+        "urls": [
+          "https://dogv.gva.es/datos/2025/12/22/pdf/2025_48041_es.pdf",
+          "https://www.visitvalencia.com/que-hacer-valencia/ocio/valencia-de-noche"
+        ]
+      },
+      {
+        "fact": "Tranvía: L4 y L6 paran en Platja les Arenes; la L8 empieza en Neptú, en la Marina de València",
+        "urls": [
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_6_(Metrovalencia)",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_8_(Metrovalencia)",
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas"
+        ]
+      },
+      {
+        "fact": "Coordenadas: paseo de Neptuno",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Paseo+de+Neptuno,+Valencia",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Veles+e+Vents,+Valencia"
+        ]
+      }
+    ],
+    "jardin-del-turia": [
+      {
+        "fact": "Mide más de 9 km (unos 9 km) y va del Parque de Cabecera, al oeste, a la Ciudad de las Artes y las Ciencias, al este. Wikipedia da unos 8,5 km actuales, que llegarán a casi 10 km al terminar el último tramo.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/jardines-del-turia",
+          "https://www.comunitatvalenciana.com/en/valencia/valencia/natural-landscapes/the-turia-river-gardens",
+          "https://es.wikipedia.org/wiki/Jardín_del_Turia"
+        ]
+      },
+      {
+        "fact": "Recorrido llano y lejos del tráfico urbano.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/jardines-del-turia",
+          "https://www.comunitatvalenciana.com/en/valencia/valencia/natural-landscapes/the-turia-river-gardens"
+        ]
+      },
+      {
+        "fact": "Corredores y ciclistas tienen cada uno su propio trazado; la ruta completa tiene carril bici.",
+        "urls": [
+          "https://www.comunitatvalenciana.com/en/valencia/valencia/natural-landscapes/the-turia-river-gardens",
+          "https://www.nomadotravel.app/es/guides/cycling-turia-garden-valencia"
+        ]
+      },
+      {
+        "fact": "Circuito de running (antes Circuit 5K, hoy Circuit València Ciutat del Running) de 5.731 m entre el puente Nou d'Octubre (Parque de Cabecera) y el Parque Gulliver, con pavimento que amortigua el impacto.",
+        "urls": [
+          "https://www.visitvalencia.com/en/what-to-do-valencia/sporting-activities/running",
+          "https://www.valencia.es/cas/actualidad/-/content/ampliación-circuito-running-jardín-del-turia-valència-jgl"
+        ]
+      },
+      {
+        "fact": "En junio de 2026 se abrieron 700 m nuevos hacia el mar (tramo XII); la segunda fase, hasta el tramo XVI, estaba prevista para otoño de 2026 y dejaría el circuito en casi 8 km. Obras posiblemente en curso a 31 de octubre de 2026.",
+        "urls": [
+          "https://www.valencia.es/cas/actualidad/-/content/ampliaci%C3%B3n-circuito-val%C3%A8ncia-ciutat-del-running",
+          "https://valencianews.es/deportes/circuit-valencia-running-ampliacion-700-metros/"
+        ]
+      },
+      {
+        "fact": "En los meses de calor conviene evitar las horas centrales; el tramo este, junto a la Ciudad de las Artes, tiene poca sombra (evitar de 11:00 a 18:00 en julio y agosto).",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/jardines-del-turia",
+          "https://www.nomadotravel.app/es/guides/cycling-turia-garden-valencia"
+        ]
+      },
+      {
+        "fact": "La estación de metro Alameda (líneas 3, 5, 7 y 9) da acceso a los tramos centrales del jardín.",
+        "urls": [
+          "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse/metro",
+          "https://es.wikipedia.org/wiki/Línea_3_(Metrovalencia)",
+          "https://www.elperiodic.com/valencia/atencion-pasajeros-metrovalencia-cerrara-este-verano-estaciones-obras-fechas-zonas-afectadas_1081001"
+        ]
+      },
+      {
+        "fact": "Coordenadas del jardín (39°28′48″N 0°23′10″O).",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Jardín_del_Turia"
+        ]
+      }
+    ],
+    "parque-de-cabecera": [
+      {
+        "fact": "Es el arranque, en el extremo oeste, del Jardín del Turia.",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Jardín_del_Turia",
+          "https://www.visitvalencia.com/que-ver-valencia/jardines-del-turia"
+        ]
+      },
+      {
+        "fact": "Tiene un lago con barcas (en forma de cisne) que se alquilan junto al anfiteatro.",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/naturaleza-en-valencia/parques-y-jardines/parque-cabecera",
+          "https://www.comunitatvalenciana.com/es/valencia/valencia/espacios-naturales/parque-de-cabecera-1",
+          "https://www.timeout.com/es/valencia/que-hacer/parque-de-cabecera"
+        ]
+      },
+      {
+        "fact": "Zonas: bosque de ribera, plataforma o colina mirador con vistas panorámicas, Bioparc y parque de atracciones.",
+        "urls": [
+          "https://www.comunitatvalenciana.com/es/valencia/valencia/espacios-naturales/parque-de-cabecera-1",
+          "https://www.timeout.com/es/valencia/que-hacer/parque-de-cabecera",
+          "https://www.visitvalencia.com/que-hacer-valencia/naturaleza-en-valencia/parques-y-jardines/parque-cabecera"
+        ]
+      },
+      {
+        "fact": "El Bioparc está dentro o junto al parque.",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/naturaleza-en-valencia/parques-y-jardines/parque-cabecera",
+          "https://www.timeout.com/es/valencia/que-hacer/parque-de-cabecera"
+        ]
+      },
+      {
+        "fact": "SUPUESTO: desde la plataforma mirador se ven atardeceres (solo lo dice una fuente).",
+        "urls": [
+          "https://www.comunitatvalenciana.com/es/valencia/valencia/espacios-naturales/parque-de-cabecera-1"
+        ]
+      },
+      {
+        "fact": "Metro Nou d'Octubre (líneas 3, 5 y 9) es la parada más cercana; está a unos 750 m en línea recta del centro del parque según OpenStreetMap (Time Out es de 2019).",
+        "urls": [
+          "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse/metro",
+          "https://www.timeout.com/es/valencia/que-hacer/parque-de-cabecera",
+          "https://es.wikipedia.org/wiki/Línea_3_(Metrovalencia)",
+          "https://www.openstreetmap.org/search?query=Nou%20d%27Octubre%2C%20Val%C3%A8ncia"
+        ]
+      },
+      {
+        "fact": "Coordenadas del Parc de Capçalera.",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?q=Parque%20de%20Cabecera%2C%20Valencia&format=json"
+        ]
+      }
+    ],
+    "ciudad-artes-ciencias-umbracle": [
+      {
+        "fact": "Los edificios se asientan sobre lagos que al anochecer actúan como espejos; el atardecer y la hora azul son las franjas recomendadas para verlo y fotografiarlo.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/ciudad-de-las-artes-y-de-las-ciencias",
+          "https://eurovistatrips.com/es/mejores-lugares-fotografiar-valencia/",
+          "https://www.losviajeros.com/Blogs.php?b=9091"
+        ]
+      },
+      {
+        "fact": "L'Umbracle es un jardín de libre acceso de más de 17.000 m² con plantas mediterráneas y esculturas contemporáneas.",
+        "urls": [
+          "https://www.visitvalencia.com/en/what-to-do-valencia/nature-in-valencia/parks-and-gardens-valencia/umbracle",
+          "https://valenciaplaza.com/noticas-cultura-valencia-comunitat-valenciana/el-umbracle-celebra-20-anos-con-las-esculturas-de-hung-yi",
+          "https://www.nomadotravel.app/es/attractions/lumbracle"
+        ]
+      },
+      {
+        "fact": "Las noches de verano funciona en l'Umbracle una terraza o discoteca, que se paga aparte.",
+        "urls": [
+          "https://www.visitvalencia.com/en/what-to-do-valencia/nature-in-valencia/parks-and-gardens-valencia/umbracle",
+          "https://www.nomadotravel.app/es/attractions/lumbracle"
+        ]
+      },
+      {
+        "fact": "La Ciudad de las Artes y las Ciencias está en el extremo este del Jardín del Turia.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/jardines-del-turia",
+          "https://www.comunitatvalenciana.com/en/valencia/valencia/natural-landscapes/the-turia-river-gardens"
+        ]
+      },
+      {
+        "fact": "La línea 10 de tranvía (Natzaret, Alacant) para en Ciutat Arts i Ciències - Justícia, a unos 330 m en línea recta de l'Umbracle según OpenStreetMap.",
+        "urls": [
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/Línea_10_(Metrovalencia)",
+          "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse/metro"
+        ]
+      },
+      {
+        "fact": "Coordenadas de l'Umbracle.",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?q=L%27Umbracle%2C%20Valencia&format=json"
+        ]
+      }
+    ],
+    "jardines-del-real-viveros": [
+      {
+        "fact": "Entrada gratuita.",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/naturaleza-en-valencia/parques-y-jardines/jardines-real-jardines-viveros",
+          "https://www.valencia.es/es/-/infociudad-jardines-del-real-jardines-de-viveros"
+        ]
+      },
+      {
+        "fact": "Abre a las 7:30 todo el año; cierra a las 20:30 de noviembre a marzo y a las 21:30 de abril a octubre (Visit València dice que en invierno los fines de semana cierra a las 21:30).",
+        "urls": [
+          "https://www.valencia.es/es/-/infociudad-jardines-del-real-jardines-de-viveros",
+          "https://www.visitvalencia.com/que-hacer-valencia/naturaleza-en-valencia/parques-y-jardines/jardines-real-jardines-viveros"
+        ]
+      },
+      {
+        "fact": "Tiene rosaleda y unos 2.769 ejemplares de 167 especies botánicas, en más de 170.000 m².",
+        "urls": [
+          "https://www.valencia.es/es/-/infociudad-jardines-del-real-jardines-de-viveros",
+          "https://www.comunitatvalenciana.com/fr/valencia/valencia/espaces-naturels/jardines-del-real-viveros"
+        ]
+      },
+      {
+        "fact": "Tiene un parque infantil de tráfico (actividad gratuita con reserva) que el Ayuntamiento va a ampliar.",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/naturaleza-en-valencia/parques-y-jardines/jardines-real-jardines-viveros",
+          "https://www.valencia.es/cas/actualidad/-/content/ampliaci%C3%B3n-parque-infantil-viveros-val%C3%A8ncia"
+        ]
+      },
+      {
+        "fact": "Llegan las líneas de metro 3 y 5; la estación Alameda (L3, L5, L7, L9) queda a unos 10 minutos a pie (unos 735 m en línea recta al centro del jardín según OpenStreetMap).",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/naturaleza-en-valencia/parques-y-jardines/jardines-real-jardines-viveros",
+          "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse/metro",
+          "https://audiala.com/es/espana/valencia/jardines-del-real/",
+          "https://nominatim.openstreetmap.org/search?q=Alameda%20metro%20Val%C3%A8ncia&format=json"
+        ]
+      },
+      {
+        "fact": "Coordenadas de los Jardins del Real.",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?q=Jardines%20del%20Real%2C%20Valencia&format=json"
+        ]
+      }
+    ],
+    "marina-de-valencia": [
+      {
+        "fact": "En la Marina se puede navegar a vela o a motor, remar, hacer piragüismo y deportes de tabla (paddle surf, windsurf); hay escuelas y alquiler como la Escuela de Vela Municipal, la Federación de Vela, el Real Club Náutico, Quicksail, Alfa Náutica y Ocean Republik.",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/actividades-deportivas/actividades-nauticas",
+          "https://www.comunitatvalenciana.com/es/valencia/valencia/nautica/ocean-republik-1"
+        ]
+      },
+      {
+        "fact": "Desde la Marina sale un paseo junto al mar hacia las playas del Cabanyal y la Malvarrosa; la parada de tranvía Neptú da acceso directo a las playas.",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/rutas-por-la-ciudad/bici",
+          "https://www.metrovalencia.es/es/metrovalencia-ofrece-cerca-de-200-tranvias-diarios-de-las-lineas-4-6-y-8-en-direccion-a-las-playas-de-la-ciudad-de-valencia/"
+        ]
+      },
+      {
+        "fact": "SUPUESTO: la dársena histórica es una zona resguardada apta para iniciarse en deportes náuticos (solo una fuente).",
+        "urls": [
+          "https://www.visitvalencia.com/que-hacer-valencia/actividades-deportivas/actividades-nauticas"
+        ]
+      },
+      {
+        "fact": "SUPUESTO: vuelta de 2,85 km alrededor de la dársena para correr, ampliable 2,40 km por el paseo marítimo (solo una fuente; no se usa en el texto).",
+        "urls": [
+          "https://www.visitvalencia.com/en/what-to-do-valencia/sporting-activities/running"
+        ]
+      },
+      {
+        "fact": "La línea 8 de tranvía va de Marítim a Neptú (Marina de València); en Marítim enlazan las líneas 5 y 7 de metro. La parada Neptú está a unos 280 m en línea recta del edificio Veles e Vents según OpenStreetMap.",
+        "urls": [
+          "https://www.metrovalencia.es/es/metrovalencia-ofrece-cerca-de-200-tranvias-diarios-de-las-lineas-4-6-y-8-en-direccion-a-las-playas-de-la-ciudad-de-valencia/",
+          "https://es.wikipedia.org/wiki/Línea_8_(Metrovalencia)",
+          "https://www.metrovalencia.es/es/consulta-estaciones/"
+        ]
+      },
+      {
+        "fact": "Coordenadas (edificio Veles e Vents, en la dársena).",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?q=Veles%20e%20Vents%2C%20Val%C3%A8ncia&format=json"
+        ]
+      }
+    ],
+    "playas-malvarrosa-cabanyal": [
+      {
+        "fact": "La Malvarrosa y el Cabanyal forman un único tramo de arena; el Cabanyal queda al sur de la Malvarrosa.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas/playa-la-malvarrosa",
+          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa"
+        ]
+      },
+      {
+        "fact": "El paseo marítimo recorre las playas del Cabanyal y la Malvarrosa.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas/paseo-maritimo-y-paseo-neptuno",
+          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa"
+        ]
+      },
+      {
+        "fact": "En la Malvarrosa hay deportes náuticos en un canal balizado y escuelas de paddle surf y windsurf (por ejemplo Ocean Republik).",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/playas-de-valencia/playas-urbanas/playa-la-malvarrosa",
+          "https://www.comunitatvalenciana.com/es/valencia/valencia/nautica/ocean-republik-1"
+        ]
+      },
+      {
+        "fact": "Socorrismo en Malvarrosa y Cabanyal del 1 de junio al 15 de septiembre de 2026, de 10:00 a 20:00; en septiembre y en algunos festivos de octubre hubo ampliaciones de fin de semana.",
+        "urls": [
+          "https://www.valencia.es/cas/actualidad/-/content/dispositivo-playas-val%C3%A8ncia-2026",
+          "https://www.eldebate.com/espana/comunidad-valenciana/20260519/dispositivo-playas-valencia-2026-adelanta-semana-supera-primera-vez-200-efectivos_419318.html",
+          "https://www.valencia.es/es/-/balance-playas-2026"
+        ]
+      },
+      {
+        "fact": "La playa del Cabanyal perdió la Bandera Azul en 2026 porque la calidad del agua quedó en 'buena' y no en 'excelente' (no se afirma bandera azul en el texto).",
+        "urls": [
+          "https://valenciasecreta.com/adios-a-la-bandera-azul-en-una-de-las-playas-mas-famosas-de-valencia-este-es-el-sorprendente-motivo/",
+          "https://valencianews.es/comunidad-valenciana/banderas-azules-comunitat-valenciana-2026-espana/"
+        ]
+      },
+      {
+        "fact": "Las líneas 4 y 6 de tranvía comparten tramo hasta Platja Malva-rosa, con paradas en Platja les Arenes, Cabanyal y Platja Malva-rosa.",
+        "urls": [
+          "https://www.metrovalencia.es/es/metrovalencia-ofrece-cerca-de-200-tranvias-diarios-de-las-lineas-4-6-y-8-en-direccion-a-las-playas-de-la-ciudad-de-valencia/",
+          "https://en.wikipedia.org/wiki/Line_4_(Metrovalencia)",
+          "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse/metro"
+        ]
+      },
+      {
+        "fact": "SUPUESTO: la Malvarrosa mide unos 1.800 m de largo y 60 m de ancho, y al norte sigue la playa de la Patacona (Alboraia) (solo Wikipedia; no se usa en el texto).",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa"
+        ]
+      },
+      {
+        "fact": "Coordenadas de la playa de la Malvarrosa (39°28′45″N 0°19′23″O).",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa",
+          "https://nominatim.openstreetmap.org/search?q=Playa%20de%20la%20Malvarrosa%2C%20Valencia&format=json"
+        ]
+      }
+    ],
+    "devesa-del-saler": [
+      {
+        "fact": "La Devesa es una franja de pinar y dunas entre el Mediterráneo y el lago de la Albufera, a unos 10 km al sur de la ciudad.",
+        "urls": [
+          "https://www.visitvalencia.com/va/que-veure-valencia/el-saler",
+          "https://es.wikipedia.org/wiki/Dehesa_del_Saler"
+        ]
+      },
+      {
+        "fact": "La playa de la Devesa tiene casi 5 km, es natural y sin edificios.",
+        "urls": [
+          "https://www.visitvalencia.com/va/que-veure-valencia/el-saler",
+          "https://es.wikipedia.org/wiki/El_Saler",
+          "https://es.wikipedia.org/wiki/Dehesa_del_Saler"
+        ]
+      },
+      {
+        "fact": "Hay carril bici desde la Ciudad de las Artes y las Ciencias hacia Pinedo y El Saler (Visit València da unos 15 km y unos 45 minutos hasta el parque natural; en mayo de 2026 empezaron obras de 3 meses en un tramo de 1.905 m entre València, Pinedo y El Saler, con desvíos).",
+        "urls": [
+          "https://www.visitvalencia.com/va/que-veure-valencia/el-saler",
+          "https://www.visitvalencia.com/que-hacer-valencia/rutas-por-la-ciudad/bici",
+          "https://valencianews.es/valencia/mejora-del-carril-bici-del-anillo-verde-entre-valencia-pinedo-y-el-saler/"
+        ]
+      },
+      {
+        "fact": "Socorrismo en la playa de la Devesa solo del 1 de julio al 31 de agosto (2026), de 10:30 a 18:30; El Saler y La Garrofera, del 1 de junio al 15 de septiembre.",
+        "urls": [
+          "https://www.valencia.es/cas/actualidad/-/content/dispositivo-playas-val%C3%A8ncia-2026",
+          "https://www.eldebate.com/espana/comunidad-valenciana/20260519/dispositivo-playas-valencia-2026-adelanta-semana-supera-primera-vez-200-efectivos_419318.html"
+        ]
+      },
+      {
+        "fact": "Las líneas 24 y 25 de la EMT van a El Saler desde Porta de la Mar (24: Porta de la Mar, El Saler / El Palmar; 25: Porta de la Mar, El Saler / El Perelló).",
+        "urls": [
+          "https://www.emtvalencia.es/wp/ultima-hora/nuevos-itinerarios-por-los-castillos-de-fallas-2026/",
+          "https://www.visitvalencia.com/va/que-veure-valencia/el-saler",
+          "https://es.wikipedia.org/wiki/El_Saler"
+        ]
+      },
+      {
+        "fact": "En días de riesgo extremo de incendio el Ayuntamiento cierra los accesos al bosque de la Devesa y prohíbe circular por pistas y caminos (varios cierres en julio y agosto de 2026).",
+        "urls": [
+          "https://www.valencia.es/cas/actualidad/-/content/cierre-devesa-el-saler-val%C3%A8ncia-por-riesgo-incendios",
+          "https://www.eldebate.com/espana/comunidad-valenciana/20260722/valencia-cierra-devesaalbufera-riesgo-extremo-incendios-suspende-actividades-previstas_442628.html"
+        ]
+      },
+      {
+        "fact": "SUPUESTO: sendas locales de 500 m a 4 km y la senda accesible de la Gola del Pujol, de unos 700 m (fuentes distintas para cada dato; no se usa en el texto).",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Dehesa_del_Saler",
+          "https://www.visitvalencia.com/va/que-veure-valencia/el-saler"
+        ]
+      },
+      {
+        "fact": "Coordenadas de la Devesa (39°20′31″N 0°18′54″O).",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Dehesa_del_Saler"
+        ]
+      }
+    ],
+    "albufera-el-palmar": [
+      {
+        "fact": "La Albufera está rodeada de arrozales (223 km² según Wikipedia) y las barcas cruzan el lago entre ellos.",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Albufera_de_Valencia",
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar"
+        ]
+      },
+      {
+        "fact": "Desde el embarcadero de El Palmar salen paseos en barca por el lago.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar",
+          "https://www.comunitatvalenciana.com/en/valencia/valencia/complementary-services-companies/embarcadero-rosa-la-barquera-y-tonet",
+          "https://es.wikipedia.org/wiki/Albufera_de_Valencia"
+        ]
+      },
+      {
+        "fact": "El paseo en barca al atardecer es el recomendado; el Ayuntamiento organizó en julio de 2026 salidas gratuitas 'Atardecer en la Albufera' desde el embarcadero de la Gola de Pujol.",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar",
+          "https://www.que.es/2026/06/17/paseo-en-barca-gratis-albufera-valencia/",
+          "https://www.picuco.com/es-es/blog/atardecer-en-la-albufera-paseo-en-barca-arrozales-y-el"
+        ]
+      },
+      {
+        "fact": "La línea 24 de la EMT (Porta de la Mar, El Saler / El Palmar) llega a El Palmar; desde el 13 de junio de 2026 pasa cada 30 a 35 minutos todos los días. Visit València todavía indica la línea 25, que hoy va a El Perelló.",
+        "urls": [
+          "https://www.emtvalencia.es/wp/ultima-hora/nuevos-itinerarios-por-los-castillos-de-fallas-2026/",
+          "https://www.valencia.es/es/-/refuerzo-emt-pobles-del-sud-val%C3%A8ncia"
+        ]
+      },
+      {
+        "fact": "SUPUESTO: el carril bici solo llega hasta la Devesa y la carretera a El Palmar es estrecha, así que no se recomienda ir en bici (solo una fuente).",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar"
+        ]
+      },
+      {
+        "fact": "Coordenadas del Embarcador del Palmar.",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?q=Embarcadero%20El%20Palmar%20Valencia&format=json"
+        ]
+      }
+    ]
+  },
+  "bikeRental": {
+    "system": "Valenbisi",
+    "shortTermPassExists": true,
+    "passName": "Abono de corta duración",
+    "price": "13,30 €",
+    "duration": "7 días",
+    "dayTicket": {
+      "price": "3,99 €",
+      "duration": "1 día"
+    },
+    "freeMinutesPerTrip": 30,
+    "extraTimeFee": "1,04 € la primera hora extra y 3,12 € cada hora siguiente",
+    "guarantee": "Preautorización de 150 € en la tarjeta bancaria; solo se cobra si se incumplen las condiciones, por ejemplo si no se devuelve la bici",
+    "howToGet": "Darse de alta en valenbisi.es o en la app oficial Valenbisi con una tarjeta bancaria y elegir el abono de corta duración",
+    "rules": "La bici siempre se deja en una estación Valenbisi, nunca en la calle",
+    "sources": [
+      {
+        "fact": "Abono de corta duración: 13,30 € por 7 días.",
+        "urls": [
+          "https://www.valenbisi.es/es/offers/groups/list",
+          "https://valenciasecreta.com/en/valenbisi-daily-pass/",
+          "https://blog.guruwalk.com/es/como-funciona-valenbisi/"
+        ]
+      },
+      {
+        "fact": "Ticket de 1 día: 3,99 €.",
+        "urls": [
+          "https://www.valenbisi.es/es/offers/groups/list",
+          "https://valenciasecreta.com/en/valenbisi-daily-pass/",
+          "https://blog.guruwalk.com/es/como-funciona-valenbisi/"
+        ]
+      },
+      {
+        "fact": "Los primeros 30 minutos de cada viaje son gratis; después, 1,04 € la primera hora y 3,12 € cada hora siguiente (Guruwalk da 1,04 € por cada 30 minutos; se toma la cifra oficial).",
+        "urls": [
+          "https://www.valenbisi.es/es/offers/groups/list",
+          "https://valenciasecreta.com/en/valenbisi-daily-pass/"
+        ]
+      },
+      {
+        "fact": "Alta desde la web o la app, con tarjeta bancaria, eligiendo el abono de corta o larga duración.",
+        "urls": [
+          "https://www.valenbisi.es/es/offers/groups/list",
+          "https://www.valenbisi.es/assets/i18n/es.json",
+          "https://blog.guruwalk.com/es/como-funciona-valenbisi/"
+        ]
+      },
+      {
+        "fact": "Fianza o preautorización de 150 € en la tarjeta, que solo se cobra si se incumplen las condiciones (por ejemplo, no devolver la bici o devolverla pasadas 24 h).",
+        "urls": [
+          "https://www.valenbisi.es/assets/i18n/es.json",
+          "https://blog.guruwalk.com/es/como-funciona-valenbisi/"
+        ]
+      },
+      {
+        "fact": "La bici hay que dejarla siempre en una estación oficial.",
+        "urls": [
+          "https://www.valenbisi.es/es/offers/groups/list",
+          "https://valenciasecreta.com/en/valenbisi-daily-pass/"
+        ]
+      }
+    ]
+  },
+  "dayCost": {
+    "Metro o tranvía, billete zona A": [
+      "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-moverse/metro",
+      "https://valenciadirecta.es/transporte-publico-valencia-tarifas-2026/",
+      "https://megapass.com/es/blog/valencia-public-transport-tickets-passes-prices"
+    ],
+    "Autobús EMT, billete sencillo": [
+      "https://www.emtvalencia.es/wp/en/rates-and-titles/",
+      "https://valenciaplaza.com/la-emt-de-valencia-sube-el-billete-sencillo-a-dos-euros-para-desincentivar-su-uso",
+      "https://valenciadirecta.es/transporte-publico-valencia-tarifas-2026/"
+    ],
+    "Valencia Tourist Card 24 h": [
+      "https://www.visitvalencia.com/shop/valencia-tourist-card/valencia-tourist-card",
+      "https://irishtraveladdict.com/valencia-public-transport/",
+      "https://valenciadirecta.es/transporte-publico-valencia-tarifas-2026/"
+    ],
+    "Pase SUMA T1, 24 h, zona AB": [
+      "https://www.tranviaria.com/tarifas-metrovalencia-bonos-precios/",
+      "https://irishtraveladdict.com/valencia-public-transport/",
+      "https://megapass.com/es/blog/valencia-public-transport-tickets-passes-prices"
+    ],
+    "Menú del día entre semana": [
+      "https://www.xataka.com/magnet/hosteleros-han-subido-menu-dia-rozar-15-euros-no-esta-claro-que-eso-vaya-a-salvarlo-su-crisis-existencial",
+      "https://www.menorca.info/balears/noticias/2025/11/25/2518907/extremadura-galicia-estas-son-comunidades-menu-del-dia-mas-barato.html",
+      "https://valenciamove.com/valencia-food-guide/"
+    ],
+    "Paella valenciana por persona": [
+      "https://www.valencia-trip.com/guides/how-to-order-paella/",
+      "https://valenciamove.com/blog/best-paella-restaurants-valencia/",
+      "https://www.nomadotravel.app/es/guides/best-paella-in-valencia"
+    ],
+    "Horchata con dos fartons": [
+      "https://www.aol.co.uk/articles/search-valencia-white-gold-hunt-060033000.html",
+      "https://www.valencia-trip.com/guides/horchata-fartons/"
+    ],
+    "Café con leche en bar": [
+      "https://valenciamove.com/valencia-coffee-guide/",
+      "https://www.numbeo.com/cost-of-living/in/Valencia",
+      "https://m.centralbar.es/bedidas"
+    ],
+    "Caña de cerveza en bar": [
+      "https://radicalstorage.com/travel/is-valencia-expensive/",
+      "https://m.centralbar.es/bedidas"
+    ],
+    "Catedral con museo": [
+      "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/",
+      "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/catedral-valencia"
+    ],
+    "Torre del Miguelete": [
+      "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/",
+      "https://www.visitvalencia.com/va/que-fer-valencia/cultura-valenciana/monuments-en-valencia/micalet"
+    ],
+    "Lonja de la Seda": [
+      "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/lonja-seda",
+      "https://findevalencia.es/lugares/lonja-seda/",
+      "https://bop.dival.es/bop/downloads?anuncioNumReg=2022/04270&lang=va"
+    ],
+    "Torres de Serranos": [
+      "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/torres-serranos",
+      "https://audiala.com/es/espana/valencia/torres-de-serranos/",
+      "https://bop.dival.es/bop/downloads?anuncioNumReg=2022/04270&lang=va"
+    ],
+    "Valenbisi, abono de 7 días": [
+      "https://es.northleg.com/valencia/transporte/valenbisi/weekly-subscription/",
+      "https://www.valenciaextra.com/es/valenbisi.html"
+    ]
+  },
+  "dayCostArithmetic": [
+    {
+      "label": "Un día ajustado",
+      "total": "25,00 a 31,50 €",
+      "breakdown": "Estimación propia con los precios de arriba, no es un dato publicado. Metro, 2 viajes en zona A con tarjeta: 1,10 + 1,50 + 1,50 = 4,10 €. Menú del día: 14 a 16 €. Café con leche: 1,40 a 2,40 €. Horchata con dos fartons: 3,50 a 7 €. Lonja de la Seda: 2 €. Mínimo: 4,10 + 14 + 1,40 + 3,50 + 2 = 25,00 €. Máximo: 4,10 + 16 + 2,40 + 7 + 2 = 31,50 €. En domingo o festivo la Lonja es gratis: 23,00 a 29,50 €."
+    },
+    {
+      "label": "Un día con paella",
+      "total": "42,50 a 58,50 €",
+      "breakdown": "Estimación propia con los precios de arriba, no es un dato publicado. Metro, 2 viajes en zona A con tarjeta: 4,10 €. Paella valenciana por persona: 18 a 28 €. Café con leche: 1,40 a 2,40 €. Caña: 1,50 a 3 €. Horchata con dos fartons: 3,50 a 7 €. Catedral con museo: 12 €. Lonja de la Seda: 2 €. Mínimo: 4,10 + 18 + 1,40 + 1,50 + 3,50 + 12 + 2 = 42,50 €. Máximo: 4,10 + 28 + 2,40 + 3 + 7 + 12 + 2 = 58,50 €. Cambiando la Lonja por el Miguelete (3 €) se suma 1 €."
+    }
+  ],
+  "notes": {
+    "aire_libre": "Precio Valenbisi confirmado en la web oficial (valenbisi.es/es/offers/groups/list, leída el 31 de octubre de 2026) y en Valencia Secreta (agosto de 2025) y Guruwalk (actualizado en agosto de 2026). Diari València publicó que el bono diario se mantendría hasta 2029 o 2030 (las dos noticias no coinciden y una ya da error 410), así que no se incluye esa fecha. Fuera de la lista: Parc Central (menos interés para una visita de 2 a 4 días, sin verificar a fondo), la Patacona (está en Alboraia, al norte de la Malvarrosa; solo la menciona Wikipedia) y cualquier interior de museos de la Ciudad de las Artes. Datos que no cuadran: Wikipedia da 8,5 km al Jardín del Turia y Visit València más de 9 km; el circuito de running está en obras de ampliación (700 m abiertos en junio de 2026 y segunda fase prevista para otoño de 2026), por eso el texto no da su longitud total. Bandera Azul: el Cabanyal la perdió en 2026 y no se pudo confirmar la de la Malvarrosa ni las del sur en el listado oficial, así que no se menciona. Temporada de socorristas 2026 ya terminada (15 de septiembre; Devesa 31 de agosto). La Devesa tuvo varios cierres del bosque por riesgo de incendio y un incendio en El Saler el 28 de agosto de 2026; conviene avisar al usuario en verano. Transporte: varias páginas de Visit València están desfasadas (dicen 'metro L6, L7, L8' para la playa, cuando son tranvías 4, 6 y 8, y bus 25 a El Palmar, cuando la EMT ya rotula la 24 como El Saler / El Palmar). Las líneas urbanas de la EMT están cambiando con el Plan Director 2025-2030, por eso solo se citan la 24 y la 25, confirmadas en emtvalencia.es en 2026. La nota de valencia.es sobre el refuerzo de la 24 y la 25 (5 de junio de 2026) devolvió error 403 al abrirla; su contenido se tomó del índice del buscador. El artículo de Metrovalencia sobre tranvías a la playa es de 2024; las líneas se contrastaron con Wikipedia y el listado de estaciones de metrovalencia.es. lamarinadevalencia.com no respondía (conexión rechazada) el 31 de octubre de 2026, así que la Marina se verificó con Visit València, Comunitat Valenciana y Metrovalencia. Las distancias a pie salen de coordenadas de OpenStreetMap (línea recta al centro de cada zona), no de una fuente oficial. Coordenadas: Wikipedia para Turia, Malvarrosa y Devesa; Nominatim de OpenStreetMap para el resto.",
+    "ciudad": "Fuentes consultadas el 2026-10-31. Comercios emblemáticos tomados SOLO del anexo de la Ordenanza del ICIO de València aplicable desde 2025 (PDF de sede.valencia.es, misma lista que normatia.com). Bodega Montaña: el listado dice 'Bodega Montaña' (Poblats Marítims) y visitvalencia cita 'Bodega Casa Montaña'; se asume que es el mismo local, conviene confirmarlo. Horchatería El Siglo (también en el listado, plaza de Santa Catalina) NO se nombra: en 2016 un hotel ocupó el edificio donde estaba y no se ha podido confirmar que siga abierta. Fecha de fundación de la Horchatería Santa Catalina omitida: las fuentes no coinciden (1835, 1836, 'dos siglos', 'más de 100 años'). Mercado Central: la web oficial del mercado y otras guías dicen 7:30 a 15:00; visitvalencia dice 7:00 a 15:00. Se usa 7:30. El Palmar: Wikipedia dice que lo une la línea 24; visitvalencia y Valencia Plaza dicen la 25, y una nota del Ayuntamiento (jun 2026) dice que 24 y 25 comparten tramo desde Porta de la Mar hasta el desvío de El Palmar. Se pone solo la 25. El turismo de El Palmar cayó tras la DANA de octubre de 2024; un artículo de mayo de 2026 vuelve a recomendarlo, pero no hay datos de recuperación. No se da distancia (20 km solo en visitvalencia). Líneas de autobús EMT a playas, Plaza Redonda o Colón no se usan: las listas de visitvalencia y otras guías no coinciden y la web de la EMT no expone los recorridos en texto. Horario comercial: spain.info (Turespaña) dice que muchas tiendas abren seguido de 10:00 a 21:00 y algunas cierran de 14:00 a 17:00; otras fuentes no oficiales dan horario partido. Por eso no se fija hora en bestTime de compras. Domingos: según la Resolución de 10-sep-2025 (DOGV) en 2026 solo se habilitan 11 domingos y festivos en toda la Comunitat; las zonas de gran afluencia turística (ZGAT) pueden abrir más, pero no se ha podido verificar qué ZGAT tiene València en 2026. Ruzafa: el Ayuntamiento declaró la Zona Acústicamente Saturada (anunciada el 22-abr-2026, aprobada en pleno según Diari València y Officialpress): terrazas hasta las 00:30 (01:30 viernes, sábados y vísperas) de marzo a octubre y menos en invierno, sin nuevas terrazas ni locales, y discotecas del barrio hasta las 3:30 (4:30 fines de semana). No se pone en el resumen. Pubs 3:30 y discotecas 7:30: Orden 3/2025 de horarios para 2026 (municipios de más de 50.000 habitantes); el Ayuntamiento de València no ha ampliado a las 4:00. Poeta Querol: Valencia Plaza (2022) cuenta que Louis Vuitton y Loewe dejaron la calle; visitvalencia aún las cita. El resumen evita nombrar marcas. Cánovas: solo fuentes antiguas (valencia.es 2016, eldiario 2022) y blogs; se mantiene porque sigue apareciendo en guías de 2026, pero conviene revisarlo. gettingThere vacío porque no hay fuente clara de metro o bus. Descartado: Avenida de Aragón y Blasco Ibáñez (una columna de Valencia Plaza de 2023 da la zona de copas de Aragón por perdida; solo blogs la siguen citando), Juan Llorens (solo blogs), Alboraia para horchata (fuera del término de València; El Español 2024 la llama epicentro de la horchata y los fartons, con metro L3 y L9 en Alboraia Palmaret y Alboraia Peris Aragó, por si se quiere añadir), Don Juan de Austria (solo datos de rentas de 2019). Las Provincias y Levante-EMV no se pudieron consultar (acceso bloqueado al buscador); se usaron Valencia Plaza, El Español y eldiario.es como prensa. En sources, los textos 'posible desfase' marcan fuentes anteriores a 2023. Solo un hecho va marcado como SUPUESTO (horario comercial habitual, solo spain.info); el resto tiene al menos 2 URL, aunque en algunos la segunda es un blog o una guía privada.",
+    "coste": "Consulta hecha el 31/10/2026. La web metrovalencia.es no cargó (error de certificado y conexión rechazada), así que el billete de metro se verificó en visitvalencia.com y en guías de 2026; la EMT sí se verificó en su web (tabla a 2,00 €, aunque otra parte de la misma página aún dice 1,50 €). Cambios recientes: el sencillo de la EMT pasó de 1,50 a 2 € el 1 de enero de 2025, y la Generalitat prorrogó sus rebajas en bonos y pases hasta el 31/12/2026; el billete sencillo de metro no tiene rebaja. SUMA T1 va como SUPUESTO: dos guías de 2026 dan 4,50 € con rebaja, otra da 8 € sin ella y no se pudo leer la tarifa oficial. Valenbisi semanal va como SUPUESTO: 13,30 € en dos guías de 2022 y 2025, sin confirmación oficial ni de 2026. Bar y restaurante: no se encontró estudio de OCU, Facua ni noticia de prensa con precio de Valencia ciudad para café, caña, paella u horchata en 2025 o 2026. Los rangos salen de guías locales de 2026, Numbeo (actualizado el 31/10/2026: capuchino 2,41 € de media, cerveza de 0,5 l 3 €), la carta de Central Bar en el Mercado Central (caña 2,80 €, café con leche 2,40 €) y un reportaje de The Guardian de julio de 2026 republicado en AOL (horchata de 1,95 a 4 € y farton de 0,80 a 1,55 €). No se pudo confirmar que valencia-trip.com y valenciamove.com sean editores independientes; otras guías dan paella más barata (12 a 20 € o 14 a 18 € en sitios económicos). El menú del día usa la media autonómica de Hostelería de España y Edenred (15,20 €), no un dato del centro. Gratuidad: la ordenanza municipal (BOP de 5/5/2022) hace gratis los domingos y festivos la Lonja, las Torres de Serranos y el resto de monumentos municipales; además la Lonja es gratis el 16 de noviembre y todos los monumentos el 18 de abril. La visita cultural de la Catedral no tiene día gratis; el templo es de acceso libre solo en horario de culto (7:30 a 9:30 y 18:30 a 20:30) y la visita cierra el 1 y 6 de enero, 19 de marzo, Domingo de Ramos, Viernes Santo, 9 de octubre, 8 y 25 de diciembre. La Tourist Card de 24 h incluye la Lonja y las Torres gratis y un 20 % de descuento en la Catedral, pero no el Miguelete. Se omite la gratuidad por edad porque la ordenanza de 2022 dice menores de 16 y visitvalencia.com indica tarifa reducida de 7 a 12 años en las Torres. Los totales del día son una estimación construida con estos precios, no un dato con fuente."
+  }
+}
