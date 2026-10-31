@@ -46,22 +46,29 @@
     ],
     "monuments": [
       {
-        "name": "Catedral + torre del Miguelete",
-        "price": "~9€",
+        "name": "Catedral y museo",
+        "price": "12 €",
         "bookAheadDays": 0,
-        "note": "Incluye el Santo Cáliz. Subir el Miguelete son 207 escalones.",
-        "bookingUrl": ""
+        "note": "Reducida 6 €, gratis menores de 8 años. Dentro está el Santo Cáliz.",
+        "bookingUrl": "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/"
+      },
+      {
+        "name": "Torre del Miguelete",
+        "price": "3 €",
+        "bookAheadDays": 0,
+        "note": "Se paga aparte, al pie de la torre. Reducida 2 €. Son 207 escalones.",
+        "bookingUrl": "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/"
       },
       {
         "name": "Lonja de la Seda",
-        "price": "~2€",
+        "price": "2 €",
         "bookAheadDays": 0,
         "note": "Patrimonio de la Humanidad. Domingos gratis.",
         "bookingUrl": ""
       },
       {
         "name": "Torres de Serranos",
-        "price": "~2€",
+        "price": "2 €",
         "bookAheadDays": 0,
         "note": "Domingos gratis. Las mejores vistas del casco antiguo.",
         "bookingUrl": ""

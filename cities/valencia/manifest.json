@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 6,
+  "revision": 7,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. Nada de marisco.",
@@ -46,22 +46,29 @@
     ],
     "monuments": [
       {
-        "name": "Catedral + torre del Miguelete",
-        "price": "~9€",
+        "name": "Catedral y museo",
+        "price": "12 €",
         "bookAheadDays": 0,
-        "note": "Incluye el Santo Cáliz. Subir el Miguelete son 207 escalones.",
-        "bookingUrl": ""
+        "note": "Reducida 6 €, gratis menores de 8 años. Dentro está el Santo Cáliz.",
+        "bookingUrl": "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/"
+      },
+      {
+        "name": "Torre del Miguelete",
+        "price": "3 €",
+        "bookAheadDays": 0,
+        "note": "Se paga aparte, al pie de la torre. Reducida 2 €. Son 207 escalones.",
+        "bookingUrl": "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/"
       },
       {
         "name": "Lonja de la Seda",
-        "price": "~2€",
+        "price": "2 €",
         "bookAheadDays": 0,
         "note": "Patrimonio de la Humanidad. Domingos gratis.",
         "bookingUrl": ""
       },
       {
         "name": "Torres de Serranos",
-        "price": "~2€",
+        "price": "2 €",
         "bookAheadDays": 0,
         "note": "Domingos gratis. Las mejores vistas del casco antiguo.",
         "bookingUrl": ""
@@ -113,6 +120,16 @@
       }
     ]
   },
+  "intro": {
+    "id": "valencia-presentacion",
+    "title": "Valencia en 2 minutos",
+    "transcript": "Valencia se lee por capas. Bajo la Catedral hubo un templo romano, después una iglesia visigoda y más tarde la gran mezquita de la Valencia musulmana. Cada época construyó encima de la anterior, y casi todo lo que queda se recorre a pie en una mañana.\n\nEmpieza por el Miguelete, la torre de la Catedral. Iba a terminar en una aguja afilada que nunca se construyó, y por eso acaba en una terraza plana desde la que se ve toda la ciudad. Dentro de la Catedral se guarda una copa de piedra que la tradición identifica con el cáliz de la Última Cena. Llegó aquí de una forma muy terrenal: un rey la dejó como garantía de un préstamo.\n\nJusto al lado, en la plaza de la Virgen, cada jueves a las doce se reúne el Tribunal de las Aguas. Son ocho labradores con blusón negro que resuelven los pleitos del riego de palabra, sin papeles y sin abogados. Sus raíces vienen de Al Ándalus, y la UNESCO lo reconoce como patrimonio inmaterial de la humanidad.\n\nLuego están las puertas de la muralla, y las dos que siguen en pie fueron cárcel. Por las Torres de Serranos entraban reyes y embajadores, y durante la Guerra Civil guardaron cuadros del Museo del Prado. Las Torres de Quart aún llevan en la piedra los cañonazos de las tropas de Napoleón, que se dejaron sin tapar a propósito.\n\nY están los templos del comercio. En la Lonja de la Seda, las gárgolas se burlan de los vicios de los mercaderes, y en la torre encerraban al que no pagaba sus deudas. Enfrente, en lo alto del Mercado Central, una cotorra de hierro escucha, dicen, todo lo que se cuenta en el barrio.\n\nSon seis lugares y dos paseos de veinte minutos. Cada historia suena sola cuando llegas, con el móvil en el bolsillo. La primera parada de cada paseo es gratis. Las demás te esperan en la calle.",
+    "audioUrl": "file:///android_asset/catalog/audio/valencia/valencia-presentacion.m4a",
+    "audioSizeBytes": 865139,
+    "sha256": "13fc08ec2afa0706e83f3393848346bc4cd9f49f69b591ccf7f7ae14003ea543",
+    "durationSeconds": 109,
+    "narrator": ""
+  },
   "audios": [
     {
       "id": "val-catedral",
@@ -139,6 +156,7 @@
       "author": "",
       "reviewedAt": "2026-10-30",
       "narrator": "",
+      "teaser": "La torre que nunca tuvo su aguja y el cáliz que llegó por un préstamo.",
       "sources": [
         "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/",
         "https://catedraldevalencia.es/la-catedral/la-iglesia-catedral/",
@@ -191,6 +209,7 @@
       "author": "",
       "reviewedAt": "2026-10-30",
       "narrator": "",
+      "teaser": "Cada jueves a las doce, un tribunal de labradores juzga sin papeles.",
       "sources": [
         "https://tribunaldelasaguas.org/historia/",
         "https://tribunaldelasaguas.org/funcionamiento/",
@@ -249,6 +268,7 @@
       "author": "",
       "reviewedAt": "2026-10-30",
       "narrator": "",
+      "teaser": "La puerta de reyes y embajadores que acabó siendo cárcel.",
       "sources": [
         "https://www.valencia.es/es/-/infociudad-torres-de-serranos",
         "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/torres-serranos",
@@ -300,6 +320,7 @@
       "author": "",
       "reviewedAt": "2026-10-30",
       "narrator": "",
+      "teaser": "Una cotorra de hierro que, dicen, se entera de todo.",
       "sources": [
         "https://www.mercadocentralvalencia.es/",
         "https://www.mercadocentralvalencia.es/Mercado/HistoriaMercado",
@@ -352,6 +373,7 @@
       "author": "",
       "reviewedAt": "2026-10-30",
       "narrator": "",
+      "teaser": "Gárgolas pícaras por fuera y una cárcel para el mercader que no pagaba.",
       "sources": [
         "https://www.valencia.es/cas/infociudad2/004110",
         "https://museosvalencia.omesa.es/apps/tickets/tickets.php?c=2",
@@ -398,6 +420,7 @@
       "author": "",
       "reviewedAt": "2026-10-30",
       "narrator": "",
+      "teaser": "Las marcas de los cañones de Napoleón, sin tapar a propósito.",
       "sources": [
         "https://www.valencia.es/cas/infociudad/-/asset_publisher/DFHqZCbLF0Iv/content/infociudad-torres-de-quart",
         "https://www.visitvalencia.com/que-hacer-valencia/cultura-valenciana/monumentos-en-valencia/torres-quart",
