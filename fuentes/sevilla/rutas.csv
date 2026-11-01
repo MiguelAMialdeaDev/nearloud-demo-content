@@ -1,0 +1,3 @@
+id,titulo,descripcion,dificultad,paradas,duracion_min,distancia_m,gratis
+sev-ruta-catedral,Catedral y río,"De la Giralda al Archivo de Indias y a la Torre del Oro, la torre almohade que vigilaba el Guadalquivir.",facil,sev-catedral sev-indias sev-torre-oro,20,700,si
+sev-ruta-alcazar,"Alcázar, judería y Pilatos","Del Real Alcázar a la plaza donde se perdió la tumba de Murillo y al palacio que nació de un viaje a Jerusalén.",facil,sev-alcazar sev-santa-cruz sev-pilatos,20,1350,si

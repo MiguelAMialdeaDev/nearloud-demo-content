@@ -1,0 +1,428 @@
+{
+  "cityId": "sevilla",
+  "name": "Sevilla",
+  "country": "ES",
+  "centerLatitude": 37.38583,
+  "centerLongitude": -5.99312,
+  "isPremium": false,
+  "revision": 1,
+  "summary": "Sevilla guarda en pocas calles ocho siglos de historia: una torre almohade convertida en campanario, la catedral gótica más grande del mundo, un palacio real que sigue en uso y el archivo de la América española. Todo se recorre a pie.",
+  "food": [
+    "Espinacas con garbanzos: guiso con especias y pan frito, de origen sefardí y muy de Semana Santa.",
+    "Montadito de pringá: panecillo relleno con las carnes desmigadas del puchero.",
+    "Cazón en adobo: dados de cazón marinados en vinagre, comino, orégano y ajo, y luego fritos.",
+    "Pescaíto frito: pescado pequeño enharinado y frito en aceite de oliva, servido en cucurucho.",
+    "Serranito: bocadillo de lomo de cerdo, jamón, tomate y pimiento frito."
+  ],
+  "funFacts": [
+    "La Giralda fue el alminar de la mezquita almohade. Se sube por unas 35 rampas, sin escaleras, y su nombre viene de la veleta de bronce que gira en lo alto.",
+    "La Catedral de Sevilla es la catedral gótica más grande del mundo por superficie.",
+    "El Real Alcázar está considerado el palacio real en uso más antiguo de Europa: la familia real se aloja en sus plantas altas.",
+    "El Archivo de Indias nació como lonja porque los mercaderes hacían negocios en las gradas de la catedral.",
+    "Murillo fue enterrado en 1682 en la iglesia de Santa Cruz. La derribaron en 1810 y sus restos nunca aparecieron."
+  ],
+  "coverImageUrl": "file:///android_asset/catalog/images/sevilla-cover.jpg",
+  "_coverCommons": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg",
+  "practicalGuide": {
+    "lastVerified": "11/2026",
+    "arrival": [
+      {
+        "mode": "Bus EA (Especial Aeropuerto)",
+        "price": "6 €",
+        "durationMin": 35,
+        "note": "Se paga con tarjeta en el bus; ida y vuelta en el día, 8 €. Acaba en Plaza de Armas y para en el Prado y la Torre del Oro."
+      },
+      {
+        "mode": "Taxi",
+        "price": "26 a 29 €",
+        "durationMin": 20,
+        "note": "Tarifa fija: 26 € laborables de 7:00 a 21:00; 29 € de noche, fines de semana y festivos."
+      }
+    ],
+    "monuments": [
+      {
+        "name": "Catedral y Giralda",
+        "price": "13 a 14 €",
+        "bookAheadDays": 0,
+        "note": "13 € online y 14 € en taquilla. Incluye la iglesia del Salvador. Gratis menores de 13 años.",
+        "bookingUrl": "https://tickets.catedraldesevilla.eu/"
+      },
+      {
+        "name": "Real Alcázar",
+        "price": "15,50 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 8 €. Gratis menores de 13 años acompañados. Mejor comprar antes en la web oficial.",
+        "bookingUrl": "https://alcazardesevilla.infoticketing.com/es"
+      },
+      {
+        "name": "Archivo de Indias",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Cierra los lunes. Domingos y festivos, solo de 10:00 a 14:00.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Torre del Oro (museo marítimo)",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Se pide una aportación voluntaria de 3 €.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Casa de Pilatos",
+        "price": "12 €",
+        "bookAheadDays": 0,
+        "note": "Planta baja con guía o audioguía. Gratis menores de 11 años acompañados.",
+        "bookingUrl": "https://shop.articketing.com/monuments/casa-de-pilatos/tickets"
+      },
+      {
+        "name": "Plaza de España",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Acceso libre, dentro del Parque de María Luisa.",
+        "bookingUrl": ""
+      }
+    ],
+    "luggage": [
+      {
+        "name": "Bounce",
+        "area": "Comercios junto a Santa Justa y el centro",
+        "price": "Según el local; la tarifa sale al reservar",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Radical Storage",
+        "area": "Comercios junto a Santa Justa y el centro",
+        "price": "Según el local; la tarifa sale al reservar",
+        "bookingUrl": ""
+      }
+    ],
+    "zones": [
+      {
+        "id": "mercado-triana-comer",
+        "kind": "comer",
+        "name": "Mercado de Triana",
+        "summary": "Mercado de abastos junto al puente de Triana, con puestos de producto fresco y bares de tapas dentro.",
+        "tags": [
+          "Tapas",
+          "Mercado"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde el centro, cruzando el puente de Triana",
+        "latitude": 37.38575,
+        "longitude": -6.00355
+      },
+      {
+        "id": "san-jacinto-comer",
+        "kind": "comer",
+        "name": "Triana: San Jacinto y Pagés del Corro",
+        "summary": "Calles de Triana con muchos bares de tapas y freidurías de pescado.",
+        "tags": [
+          "Tapas",
+          "Pescaíto frito"
+        ],
+        "bestTime": "",
+        "gettingThere": "Metro L1, parada Plaza de Cuba",
+        "latitude": 37.38472,
+        "longitude": -6.00382
+      },
+      {
+        "id": "alfalfa-comer",
+        "kind": "comer",
+        "name": "La Alfalfa",
+        "summary": "Plazas del centro para ir de tapas, como la Alfalfa y la del Pan, con bares clásicos.",
+        "tags": [
+          "Tapas",
+          "Bares clásicos"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Catedral",
+        "latitude": 37.39037,
+        "longitude": -5.99076
+      },
+      {
+        "id": "arenal-comer",
+        "kind": "comer",
+        "name": "El Arenal",
+        "summary": "Barrio entre la Catedral y el río con tabernas de toda la vida y freidurías, sobre todo en la calle Arfe.",
+        "tags": [
+          "Tapas",
+          "Pescaíto frito"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Torre del Oro",
+        "latitude": 37.38662,
+        "longitude": -5.99693
+      },
+      {
+        "id": "feria-comer",
+        "kind": "comer",
+        "name": "Mercado de Feria",
+        "summary": "Mercado de barrio en la calle Feria con una zona de restauración para comer y tapear.",
+        "tags": [
+          "Tapas",
+          "Mercado"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Alameda de Hércules",
+        "latitude": 37.39947,
+        "longitude": -5.99119
+      },
+      {
+        "id": "santa-cruz-comer",
+        "kind": "comer",
+        "name": "Barrio de Santa Cruz",
+        "summary": "Bodegas y tabernas clásicas entre las callejuelas de la antigua judería, cerca de la Catedral.",
+        "tags": [
+          "Tapas",
+          "Bodegas"
+        ],
+        "bestTime": "",
+        "gettingThere": "Tranvía T1, parada Archivo de Indias",
+        "latitude": 37.38519,
+        "longitude": -5.98846
+      },
+      {
+        "id": "sierpes-compras",
+        "kind": "compras",
+        "name": "Calle Sierpes y Tetuán",
+        "summary": "Calles peatonales del centro con tiendas de moda, abanicos y mantones. En verano, Sierpes se cubre con toldos.",
+        "tags": [
+          "Moda",
+          "Abanicos",
+          "Mantones"
+        ],
+        "bestTime": "",
+        "gettingThere": "Tranvía T1, parada Plaza Nueva",
+        "latitude": 37.39109,
+        "longitude": -5.99457
+      },
+      {
+        "id": "triana-ceramica-compras",
+        "kind": "compras",
+        "name": "Triana: calles Alfarería y Antillano Campos",
+        "summary": "Tiendas y talleres de cerámica hecha a mano en el barrio alfarero de Triana: azulejos, platos y jarrones.",
+        "tags": [
+          "Cerámica",
+          "Azulejos"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde el puente de Triana",
+        "latitude": 37.38585,
+        "longitude": -6.00553
+      },
+      {
+        "id": "el-jueves-compras",
+        "kind": "compras",
+        "name": "El Jueves, calle Feria",
+        "summary": "El mercadillo más antiguo de Sevilla: antigüedades, libros y objetos de segunda mano en plena calle.",
+        "tags": [
+          "Antigüedades",
+          "Libros",
+          "Segunda mano"
+        ],
+        "bestTime": "Solo los jueves por la mañana",
+        "gettingThere": "A pie desde la Alameda de Hércules",
+        "latitude": 37.39918,
+        "longitude": -5.9917
+      },
+      {
+        "id": "nervion-compras",
+        "kind": "compras",
+        "name": "Nervión",
+        "summary": "Grandes marcas y centros comerciales en las avenidas de Luis Montoto y Luis de Morales.",
+        "tags": [
+          "Centros comerciales",
+          "Moda"
+        ],
+        "bestTime": "",
+        "gettingThere": "Metro L1, parada Nervión",
+        "latitude": 37.38432,
+        "longitude": -5.9725
+      },
+      {
+        "id": "alameda-noche",
+        "kind": "noche",
+        "name": "Alameda de Hércules",
+        "summary": "Gran paseo arbolado lleno de bares, terrazas y salas con música en directo. Es una de las zonas con más vida de noche.",
+        "tags": [
+          "Copas",
+          "Terrazas",
+          "Música en directo"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde las Setas de la Encarnación",
+        "latitude": 37.39888,
+        "longitude": -5.99374
+      },
+      {
+        "id": "betis-noche",
+        "kind": "noche",
+        "name": "Calle Betis",
+        "summary": "Bares y terrazas en la orilla de Triana, frente al río y con la Torre del Oro enfrente.",
+        "tags": [
+          "Terrazas",
+          "Copas",
+          "Vistas al río"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde el centro, cruzando el puente de Triana",
+        "latitude": 37.3833,
+        "longitude": -5.99969
+      },
+      {
+        "id": "alfalfa-noche",
+        "kind": "noche",
+        "name": "La Alfalfa y Pérez Galdós",
+        "summary": "Bares de copas con ambiente joven en la calle Pérez Galdós y alrededores, sobre todo los fines de semana.",
+        "tags": [
+          "Copas",
+          "Bares"
+        ],
+        "bestTime": "Viernes y sábado por la noche",
+        "gettingThere": "A pie desde la Catedral",
+        "latitude": 37.3912,
+        "longitude": -5.99111
+      },
+      {
+        "id": "maria-luisa-plaza-espana",
+        "kind": "aire_libre",
+        "name": "Parque de María Luisa y Plaza de España",
+        "summary": "Más de 34 hectáreas de jardín, con estanques y la Isleta de los Patos. Se recorre a pie o en bici, y la Plaza de España es gratis.",
+        "tags": [
+          "Pasear",
+          "Bici",
+          "Con niños"
+        ],
+        "bestTime": "Abierto de 8:00 a 24:00",
+        "gettingThere": "Metro L1, parada Prado de San Sebastián o Puerta Jerez",
+        "latitude": 37.37477,
+        "longitude": -5.98879
+      },
+      {
+        "id": "jardines-murillo",
+        "kind": "aire_libre",
+        "name": "Jardines de Murillo",
+        "summary": "Jardín de sombra pegado a la muralla del Alcázar, con el monumento a Colón. Bueno para un paseo tranquilo.",
+        "tags": [
+          "Pasear",
+          "Sombra"
+        ],
+        "bestTime": "Invierno de 8:00 a 22:00; verano hasta las 24:00",
+        "gettingThere": "Metro L1 o tranvía, parada Prado de San Sebastián",
+        "latitude": 37.38368,
+        "longitude": -5.98783
+      },
+      {
+        "id": "parque-alamillo",
+        "kind": "aire_libre",
+        "name": "Parque del Alamillo",
+        "summary": "Parque enorme, de unas 120 hectáreas, en la isla de la Cartuja, con lagos y caminos para pasear. La entrada es gratis.",
+        "tags": [
+          "Pasear",
+          "Naturaleza",
+          "Bici"
+        ],
+        "bestTime": "",
+        "gettingThere": "",
+        "latitude": 37.4183,
+        "longitude": -5.99563
+      },
+      {
+        "id": "rio-muelle-sal",
+        "kind": "aire_libre",
+        "name": "Orillas del Guadalquivir",
+        "summary": "Paseo junto al río entre el puente de Triana y la Torre del Oro, con vistas a Triana y al puente.",
+        "tags": [
+          "Pasear",
+          "Vistas",
+          "Atardecer"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Torre del Oro",
+        "latitude": 37.38616,
+        "longitude": -6.00081
+      },
+      {
+        "id": "setas-mirador",
+        "kind": "aire_libre",
+        "name": "Mirador de las Setas",
+        "summary": "Pasarela sobre la plaza de la Encarnación con vistas de 360 grados sobre los tejados del centro. Se paga entrada.",
+        "tags": [
+          "Vistas",
+          "Atardecer"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Catedral, por la calle Sierpes",
+        "latitude": 37.39312,
+        "longitude": -5.99185
+      }
+    ],
+    "zoneNotes": {
+      "aire_libre": "Bici pública (Sevici): abono de 7 días por 13,33 € con los primeros 30 minutos de cada viaje gratis; luego 1,03 € la primera hora y 2,04 € cada hora más. Se deja una garantía de 150 € en la tarjeta."
+    },
+    "zonesLastVerified": "11/2026",
+    "nearbySearches": [
+      "Tapas",
+      "Pescaíto frito",
+      "Montaditos",
+      "Serranito"
+    ],
+    "dayCost": {
+      "items": [
+        {
+          "label": "Bus TUSSAM o tranvía, billete sencillo",
+          "price": "1,40 €",
+          "note": "Se paga al subir. El tranvía del centro cuesta lo mismo."
+        },
+        {
+          "label": "Metro, billete sencillo",
+          "price": "1,35 €",
+          "note": "Sin saltos de zona. El bono de un día cuesta 4,50 €."
+        },
+        {
+          "label": "Bus del aeropuerto (EA)",
+          "price": "6 €",
+          "note": "Ida y vuelta en el mismo día, 8 €. Se paga con tarjeta en el bus."
+        },
+        {
+          "label": "Menú del día",
+          "price": "13 a 15 €",
+          "note": "Media en Andalucía en 2026: 14 €."
+        },
+        {
+          "label": "Tapa en bar",
+          "price": "2 a 4 €",
+          "note": "En las zonas más turísticas, de 3 a 5 €."
+        },
+        {
+          "label": "Catedral y Giralda",
+          "price": "13 a 14 €",
+          "note": "13 € online y 14 € en taquilla. Incluye la iglesia del Salvador."
+        },
+        {
+          "label": "Real Alcázar",
+          "price": "15,50 €",
+          "note": "Gratis menores de 13 años acompañados."
+        }
+      ],
+      "days": [
+        {
+          "label": "Un día ajustado",
+          "price": "19,80 a 25,80 €",
+          "note": "Dos viajes en bus, menú del día, dos tapas y el Archivo de Indias, gratis."
+        },
+        {
+          "label": "Un día con monumentos",
+          "price": "50,30 a 58,30 €",
+          "note": "Dos buses, menú del día, tres tapas, Catedral online y Alcázar."
+        }
+      ]
+    }
+  },
+  "_coverCredit": {
+    "autor": "Carlos Delgado",
+    "licencia": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+  }
+}

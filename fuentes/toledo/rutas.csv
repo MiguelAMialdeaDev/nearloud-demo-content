@@ -1,0 +1,3 @@
+id,titulo,descripcion,dificultad,paradas,duracion_min,distancia_m,gratis
+tol-ruta-medina,"Mezquita, plaza y Catedral","De una mezquita del año 999 a la plaza de Zocodover y a la Catedral, que cumple ochocientos años.",media,tol-cristo-luz tol-zocodover tol-catedral,20,850,si
+tol-ruta-juderia,La Judería,Del Entierro del conde de Orgaz a la sinagoga del Tránsito y a las cadenas de San Juan de los Reyes.,facil,tol-santo-tome tol-transito tol-san-juan,20,600,si

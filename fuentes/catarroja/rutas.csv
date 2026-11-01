@@ -1,0 +1,3 @@
+id,titulo,descripcion,dificultad,paradas,duracion_min,distancia_m,gratis
+cat-ruta-centro,El centro de Catarroja,Del Palau de Vivanco al mercado de 1926 y a la iglesia que pagaron los pescadores de les Barraques.,facil,cat-vivanco cat-mercat cat-sant-miquel,15,650,si
+cat-ruta-port,El Port y sus barcas,Del embarcador del que salía el ravatxol a las barcas de vela latina y las casas antiguas del Port.,facil,cat-embarcador cat-barques cat-cases-port,10,350,si

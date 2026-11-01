@@ -1,0 +1,739 @@
+{
+  "cityId": "toledo",
+  "name": "Toledo",
+  "country": "ES",
+  "centerLatitude": 39.8581,
+  "centerLongitude": -4.0245,
+  "isPremium": false,
+  "revision": 1,
+  "summary": "Toledo es una ciudad de capas: una mezquita del año 999, una sinagoga del siglo XIV y una catedral que cumple ochocientos años, a pocos minutos a pie entre sí y rodeadas por el Tajo en tres de sus lados. Su casco histórico es Patrimonio de la Humanidad desde 1986, y desde Madrid se llega en tren en poco más de media hora.",
+  "food": [
+    "Carcamusas: guiso de carne con tomate, guisantes y un punto picante. Nació en el Bar Ludeña a mediados del siglo XX.",
+    "Perdiz a la toledana: perdiz estofada a fuego lento con ajo, cebolla y laurel. Es el gran plato de caza de la ciudad.",
+    "Mazapán de Toledo: tiene Indicación Geográfica Protegida y debe llevar al menos un 50 % de almendra.",
+    "Cochifrito: cochinillo troceado y frito. Un clásico de las mesas toledanas.",
+    "Mazapán: su origen se atribuye a la herencia árabe, y su nombre podría venir de una palabra árabe."
+  ],
+  "funFacts": [
+    "La UNESCO declaró Patrimonio de la Humanidad el casco histórico de Toledo en noviembre de 1986.",
+    "El Tajo rodea el casco histórico por tres lados (este, sur y oeste). Solo queda libre el norte.",
+    "Puedes cruzar el Tajo en tirolina: 180 metros de vuelo junto al Puente de San Martín.",
+    "Cuenta la leyenda que las monjas de San Clemente crearon el mazapán con almendra y azúcar durante una hambruna.",
+    "El acero toledano fue famoso en toda Europa; en el siglo XVIII se creó una fábrica de armas para recuperar el oficio."
+  ],
+  "coverImageUrl": "file:///android_asset/catalog/images/toledo-cover.jpg",
+  "_coverCommons": "https://commons.wikimedia.org/wiki/File:Toledo_Skyline_Panorama,_Spain_-_Dec_2006_edit.jpg",
+  "practicalGuide": {
+    "lastVerified": "11/2026",
+    "arrival": [
+      {
+        "mode": "Tren Avant desde Madrid Puerta de Atocha Almudena Grandes",
+        "price": "13,90 € ida",
+        "durationMin": 33,
+        "note": "Unos 22 € ida y vuelta. La estación de Toledo queda fuera del casco: sube en bus o taxi."
+      },
+      {
+        "mode": "Autobús ALSA desde Plaza Elíptica",
+        "price": "5,73 a 6,39 € ida",
+        "durationMin": 60,
+        "note": "Sale cada 30 minutos. Coge el directo: el que para en pueblos tarda hasta 1 h 30."
+      },
+      {
+        "mode": "Bus urbano a Zocodover",
+        "price": "1,40 €",
+        "durationMin": 0,
+        "note": "Desde la estación de tren y la de autobuses: líneas 5, 61, 62 y 511. Se paga al subir."
+      },
+      {
+        "mode": "Remonte mecánico de Recaredo",
+        "price": "Gratis",
+        "durationMin": 0,
+        "note": "Escaleras junto a la Puerta de Bisagra. L a J 7 a 23 h, V 7 a 2 h, S 8 a 2 h, D y festivos 8 a 23 h."
+      },
+      {
+        "mode": "Taxi desde la estación de tren a Zocodover",
+        "price": "5 a 7 €",
+        "durationMin": 0,
+        "note": "Hay parada de taxis en la puerta de la estación de tren."
+      }
+    ],
+    "monuments": [
+      {
+        "name": "Catedral Primada",
+        "price": "12 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 8 €, de 8 a 14 años 6 €, gratis menores de 8. Domingos, desde las 14:00.",
+        "bookingUrl": "https://www.catedralprimada.es/visita-cultural/entradas-catedral-toledo/"
+      },
+      {
+        "name": "Santo Tomé (Entierro del conde de Orgaz)",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "De 11 a 16 años 3 €, gratis menores de 11. Incluida en la pulsera turística.",
+        "bookingUrl": "https://santotome.org/tarifas-y-horarios/"
+      },
+      {
+        "name": "Sinagoga del Tránsito (Museo Sefardí)",
+        "price": "3 €",
+        "bookAheadDays": 0,
+        "note": "Gratis sábados desde las 14:00 y domingos. Cierra los lunes.",
+        "bookingUrl": "https://www.cultura.gob.es/msefardi/visita/tarifas.html"
+      },
+      {
+        "name": "San Juan de los Reyes",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 3 €, gratis menores de 11. Incluido en la pulsera turística.",
+        "bookingUrl": "https://tickets.toledomonumental.com/es"
+      },
+      {
+        "name": "Mezquita del Cristo de la Luz",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 3 €, gratis menores de 11. Incluida en la pulsera turística.",
+        "bookingUrl": "https://tickets.toledomonumental.com/es"
+      },
+      {
+        "name": "Pulsera turística",
+        "price": "14 €",
+        "bookAheadDays": 0,
+        "note": "Siete monumentos en siete días, una visita a cada uno. No incluye Catedral ni Tránsito.",
+        "bookingUrl": "https://toledomonumental.com/pulsera-turistica/"
+      }
+    ],
+    "luggage": [
+      {
+        "name": "Taquillas de la estación de autobuses (Locker in the City)",
+        "area": "Estación de autobuses, Ronda del Granadal 17",
+        "price": "Consultar en la web",
+        "bookingUrl": "https://lockerinthecity.com/en/lockers/spain/toledo/estacion-autobuses-tren"
+      }
+    ],
+    "zones": [
+      {
+        "id": "magdalena-comer",
+        "kind": "comer",
+        "name": "Plaza de la Magdalena y calle Núñez de Arce",
+        "summary": "Zona de tapeo junto a Zocodover. En un bar de la plaza nacieron las carcamusas, guiso de carne con tomate servido en cazuela.",
+        "tags": [
+          "Tapas",
+          "Carcamusas",
+          "Bares"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pocos pasos de la plaza de Zocodover",
+        "latitude": 39.8587,
+        "longitude": -4.022
+      },
+      {
+        "id": "santafe-comer",
+        "kind": "comer",
+        "name": "Calle de Santa Fe",
+        "summary": "Calle de bares junto a Zocodover. Aquí se piden bombas (patata rellena) y pulgas, el bocadillo pequeño típico de Toledo.",
+        "tags": [
+          "Tapas",
+          "Bombas",
+          "Pulgas"
+        ],
+        "bestTime": "",
+        "gettingThere": "Sale de la plaza de Zocodover",
+        "latitude": 39.8597,
+        "longitude": -4.0208
+      },
+      {
+        "id": "juderia-comer",
+        "kind": "comer",
+        "name": "Judería",
+        "summary": "Callejas con restaurantes, algunos con patio interior. Buena zona para la cocina de caza toledana: perdiz y venado.",
+        "tags": [
+          "Restaurantes",
+          "Perdiz",
+          "Caza"
+        ],
+        "bestTime": "",
+        "gettingThere": "",
+        "latitude": 39.8564,
+        "longitude": -4.029
+      },
+      {
+        "id": "comercio-compras",
+        "kind": "compras",
+        "name": "Calle del Comercio",
+        "summary": "La calle comercial principal, entre Zocodover y la Catedral. Tiendas de mazapán, recuerdos y réplicas de espadas.",
+        "tags": [
+          "Mazapán",
+          "Espadas",
+          "Recuerdos"
+        ],
+        "bestTime": "",
+        "gettingThere": "Desde la plaza de Zocodover hacia la Catedral",
+        "latitude": 39.8594,
+        "longitude": -4.0221
+      },
+      {
+        "id": "santotome-compras",
+        "kind": "compras",
+        "name": "Calle de Santo Tomé y Judería",
+        "summary": "Obrador histórico de mazapán en la calle Santo Tomé y, en la Judería, tiendas de espadas y damasquinado.",
+        "tags": [
+          "Mazapán",
+          "Damasquinado",
+          "Espadas"
+        ],
+        "bestTime": "",
+        "gettingThere": "",
+        "latitude": 39.8569,
+        "longitude": -4.0279
+      },
+      {
+        "id": "alfileritos-noche",
+        "kind": "noche",
+        "name": "Calle Alfileritos",
+        "summary": "Calle del casco con bares de tapas, alguno en cuevas, y locales de copas. Es de las que mantiene ambiente hasta tarde.",
+        "tags": [
+          "Tapas",
+          "Copas",
+          "Cuevas"
+        ],
+        "bestTime": "",
+        "gettingThere": "",
+        "latitude": 39.8598,
+        "longitude": -4.0241
+      },
+      {
+        "id": "santateresa-noche",
+        "kind": "noche",
+        "name": "Barrio de Santa Teresa",
+        "summary": "Barrio fuera de la muralla donde tapean los toledanos. Ambiente local, más de cañas y tapas que de copas.",
+        "tags": [
+          "Tapas",
+          "Cañas",
+          "Local"
+        ],
+        "bestTime": "",
+        "gettingThere": "",
+        "latitude": 39.8665,
+        "longitude": -4.0319
+      },
+      {
+        "id": "azoteas-noche",
+        "kind": "noche",
+        "name": "Azoteas del casco",
+        "summary": "Varios hoteles del casco abren su azotea al público con cócteles y vistas a la Catedral y el Alcázar.",
+        "tags": [
+          "Cócteles",
+          "Vistas",
+          "Terraza"
+        ],
+        "bestTime": "Hasta medianoche",
+        "gettingThere": "Junto a la plaza de la Magdalena",
+        "latitude": 39.858,
+        "longitude": -4.0218
+      },
+      {
+        "id": "senda-tajo-aire-libre",
+        "kind": "aire_libre",
+        "name": "Senda Ecológica del Tajo",
+        "summary": "Paseo junto al río entre el Puente de Alcántara y el de San Martín, casi todo pavimentado, rodeando la ciudad.",
+        "tags": [
+          "Pasear",
+          "Río",
+          "Vistas"
+        ],
+        "bestTime": "",
+        "gettingThere": "Entradas en el Puente de Alcántara y el Puente de San Martín",
+        "latitude": 39.8604,
+        "longitude": -4.0175
+      },
+      {
+        "id": "mirador-valle-aire-libre",
+        "kind": "aire_libre",
+        "name": "Mirador del Valle",
+        "summary": "Mirador en la carretera de circunvalación, al otro lado del Tajo, con la vista clásica de la Catedral y el Alcázar. Tiene quiosco.",
+        "tags": [
+          "Vistas",
+          "Atardecer",
+          "Fotos"
+        ],
+        "bestTime": "Al atardecer",
+        "gettingThere": "Autobús urbano 71 o a pie por la carretera de circunvalación",
+        "latitude": 39.8504,
+        "longitude": -4.0225
+      },
+      {
+        "id": "miradero-aire-libre",
+        "kind": "aire_libre",
+        "name": "Paseo del Miradero",
+        "summary": "Paseo en la cara norte del casco con vistas a la vega del Tajo y al antiguo hospital de Tavera.",
+        "tags": [
+          "Vistas",
+          "Pasear"
+        ],
+        "bestTime": "",
+        "gettingThere": "Escaleras mecánicas desde el Palacio de Congresos",
+        "latitude": 39.8609,
+        "longitude": -4.0204
+      },
+      {
+        "id": "vega-aire-libre",
+        "kind": "aire_libre",
+        "name": "Parque de la Vega y Paseo de Merchán",
+        "summary": "Parque clásico de árboles grandes frente a la Puerta de Bisagra. Sombra, quioscos y sitio para pasear o descansar.",
+        "tags": [
+          "Pasear",
+          "Sombra",
+          "Niños"
+        ],
+        "bestTime": "Por la tarde",
+        "gettingThere": "Frente a la Puerta de Bisagra",
+        "latitude": 39.8636,
+        "longitude": -4.0258
+      }
+    ],
+    "zoneNotes": {
+      "aire_libre": "Al Mirador del Valle llega la línea 71 del autobús urbano, con parada cerca. Consulta horarios antes de ir."
+    },
+    "zonesLastVerified": "11/2026",
+    "nearbySearches": [
+      "Carcamusas",
+      "Perdiz a la toledana",
+      "Mazapán",
+      "Cochifrito"
+    ],
+    "dayCost": {
+      "items": [
+        {
+          "label": "Avant Madrid a Toledo, ida",
+          "price": "13,90 €",
+          "note": "Precio de referencia; cambia según la antelación."
+        },
+        {
+          "label": "Avant Madrid a Toledo, ida y vuelta",
+          "price": "22 €",
+          "note": "Unos 11,10 € por trayecto comprando ida y vuelta."
+        },
+        {
+          "label": "Autobús ALSA Madrid a Toledo, ida",
+          "price": "5,73 a 6,39 €",
+          "note": "Ida y vuelta, unos 11,50 a 12 €."
+        },
+        {
+          "label": "Billete de bus urbano",
+          "price": "1,40 €",
+          "note": "Billete sencillo, se paga en el autobús."
+        },
+        {
+          "label": "Taxi estación a Zocodover",
+          "price": "5 a 7 €",
+          "note": "Con taxímetro, desde la parada de la estación de tren."
+        },
+        {
+          "label": "Menú del día",
+          "price": "12 a 15 €",
+          "note": "Primero, segundo, postre y bebida, fuera de las calles más turísticas."
+        },
+        {
+          "label": "Mazapán artesano, 250 g",
+          "price": "10 a 15 €",
+          "note": "El de obrador ronda los 40 a 60 € el kilo."
+        },
+        {
+          "label": "Entrada a la Catedral",
+          "price": "12 €",
+          "note": "Reducida 8 €. Domingos, solo por la tarde."
+        },
+        {
+          "label": "Monumento de la pulsera, entrada suelta",
+          "price": "4 €",
+          "note": "Santo Tomé, San Juan de los Reyes, Cristo de la Luz y otros cuatro."
+        },
+        {
+          "label": "Sinagoga del Tránsito",
+          "price": "3 €",
+          "note": "Gratis sábados desde las 14:00 y domingos."
+        }
+      ],
+      "days": [
+        {
+          "label": "Día esencial",
+          "price": "53 a 56 €",
+          "note": "Avant ida y vuelta, 2 buses urbanos, Catedral, Santo Tomé y menú del día."
+        },
+        {
+          "label": "Día de las tres culturas a pie",
+          "price": "62 a 70 €",
+          "note": "Avant, 2 buses, 3 monumentos de la pulsera, Tránsito, menú y mazapán."
+        }
+      ]
+    }
+  },
+  "_coverCredit": {
+    "autor": "Diliff",
+    "licencia": "CC BY 2.5",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Toledo_Skyline_Panorama,_Spain_-_Dec_2006_edit.jpg"
+  },
+  "intro": {
+    "id": "toledo-presentacion",
+    "title": "Toledo en 2 minutos",
+    "transcript": "Toledo se lee por capas. En una misma mañana puedes pasar por una mezquita, una sinagoga y una catedral, y en cada una encontrarás huellas de las otras.\n\nLa mezquita es diminuta y tiene más de mil años. Se levantó en el año 999 y lleva la fecha escrita en la fachada, con letras árabes hechas de ladrillo. Hoy se llama del Cristo de la Luz por una leyenda: el caballo de un rey que se arrodilla y una lamparilla que llevaba siglos encendida.\n\nLa sinagoga la mandó construir el tesorero del rey Pedro el Primero. Por fuera es sencilla. Por dentro, sus paredes de yeso labrado guardan inscripciones en hebreo bajo un techo de madera que recuerda a un cielo estrellado. Tras la expulsión de 1492 fue iglesia, y un cuadro de la Virgen le dio el nombre que aún conserva: el Tránsito.\n\nLa Catedral se empezó en 1226 donde estuvo la mezquita mayor, y en 2026 ha cumplido ochocientos años. Tiene una sola torre de las dos que se pensaron, una campana enorme que se agrietó y un agujero abierto a propósito en la bóveda para que la luz cayera sobre el altar.\n\nLuego están las historias que caben en un cuadro y en un muro. En una pequeña iglesia, El Greco pintó el entierro de un noble al que, según la leyenda, bajaron a enterrar dos santos, y metió en el lienzo a su propio hijo, con un pañuelo firmado. En el monasterio que mandó levantar la reina Isabel cuelgan las cadenas de los cautivos liberados en la guerra de Granada.\n\nY en el centro de todo, una plaza que fue mercado de mulas, plaza de toros y escenario de la Inquisición, y que sale hasta en el Quijote.\n\nSon seis lugares y dos paseos de veinte minutos. Cada historia suena sola cuando llegas, con el móvil en el bolsillo. La primera parada de cada paseo es gratis. Las demás te esperan en la calle.",
+    "audioUrl": "file:///android_asset/catalog/audio/toledo/toledo-presentacion.m4a",
+    "audioSizeBytes": 878386,
+    "sha256": "73b2c5968bf029f96620c09a36d9b15c9919fc94fccc28fdc6c3479a8c5cad3d",
+    "durationSeconds": 109,
+    "narrator": ""
+  },
+  "audios": [
+    {
+      "id": "tol-cristo-luz",
+      "poiId": "cristo-de-la-luz",
+      "language": "es",
+      "title": "Mezquita del Cristo de la Luz",
+      "transcript": "Estás en la calle del Cristo de la Luz, frente a un edificio pequeño de ladrillo y piedra que a primera vista parece poca cosa. No te dejes engañar. Es una mezquita construida en el año 999, cuando Toledo era una ciudad de al Ándalus. Y sabemos la fecha con tanta precisión porque el propio edificio la dice.\n\nLevanta la vista hasta lo alto de la fachada, justo bajo el alero. ¿Ves una franja de letras dibujadas con piezas de ladrillo? Es una inscripción en árabe. Viene a decir que Ahmad ibn Hadidi mandó levantar esta mezquita, nombra al constructor, Musa ibn Ali, y termina con la fecha. Es como una placa de inauguración, pero hecha con el mismo material que las paredes.\n\nEntonces no se llamaba Cristo de la Luz. Era la mezquita de Bab al Mardum, el nombre de una puerta de la muralla que había aquí al lado. Era un oratorio de barrio, muy pequeño: por dentro mide unos ocho metros por lado. Cuatro columnas sostienen arcos de herradura, y encima hay nueve bóvedas, cada una con un dibujo distinto. Varias columnas llevan capiteles visigodos, aprovechados de edificios más antiguos. Aquí nadie tiraba nada.\n\n¿Y de dónde sale el nombre cristiano? De una leyenda. Cuentan que, cuando el rey Alfonso el Sexto entró en Toledo en 1085, su caballo se arrodilló delante de esta mezquita y se negó a seguir. Buscaron el motivo y, tras un muro, apareció un crucifijo con una lamparilla de aceite que llevaba siglos encendida. Lo de los siglos lo dice la leyenda, claro. Ningún documento lo confirma.\n\nLo que sí está documentado es que, tras la conquista, el edificio pasó a la orden de San Juan y se convirtió en ermita. En el siglo doce le añadieron por detrás un ábside, la cabecera semicircular de la iglesia. Es mudéjar: cristiano, pero hecho con la técnica y el gusto de los albañiles musulmanes, a base de ladrillo y arcos ciegos. Así que aquí tienes, pegadas, dos épocas de Toledo: la mezquita delante y la iglesia detrás.\n\nSi entras, sal también al jardín. Tiene una alberca en forma de cruz, al estilo de los jardines de al Ándalus. Y cuando vuelvas a la calle, fíjate en lo que te rodea: cuestas, puertas, muros que se apoyan unos en otros. Toledo está hecha de capas, como esta mezquita, y en las próximas paradas las vas a ir descubriendo una a una.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/toledo/tol-cristo-luz.m4a",
+      "audioSizeBytes": 1125106,
+      "sha256": "0be334af396044df6ea3a52ef0e196cf52bdd5dfa08c3510398a7149e5fbf090",
+      "durationSeconds": 142,
+      "isPremium": false,
+      "latitude": 39.8605,
+      "longitude": -4.024,
+      "geofenceRadiusMeters": 80,
+      "orderInCity": 1,
+      "lookFor": "En lo alto de esta fachada, justo bajo el alero, busca la franja de letras árabes dibujadas con piezas de ladrillo: es la inscripción que fecha la mezquita en el año 999.",
+      "didYouKnow": "Su nombre original, Bab al Mardum, era el de una puerta de la muralla. Muy cerca sigue en pie otra puerta de la ciudad, la Puerta del Sol.",
+      "localTip": "De mediados de octubre a febrero cierra a las 17:45 y la taquilla, diez minutos antes. Si vas a ver varios monumentos, la pulsera turística de 14 € la incluye.",
+      "localTipDate": "2026-11",
+      "openingHours": "Todos los días. Del 1 de marzo al 15 de octubre, de 10:00 a 18:45; del 16 de octubre al 28 de febrero, de 10:00 a 17:45. La taquilla cierra 10 minutos antes. Cerrado el 1 de enero y el 25 de diciembre; el 24 y el 31 de diciembre cierra a las 13:00.",
+      "price": "4 €; reducida 3 €; gratis menores de 11 años acompañados. Incluida en la pulsera turística (14 €, siete monumentos).",
+      "ticketUrl": "https://tickets.toledomonumental.com/es",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Una mezquita del año 999 que lleva su fecha escrita en ladrillo.",
+      "sources": [
+        "https://es.wikipedia.org/wiki/Mezquita_del_Cristo_de_la_Luz",
+        "https://en.wikipedia.org/wiki/Mosque_of_Cristo_de_la_Luz",
+        "https://www.spain.info/es/lugares-interes/mezquita-cristo-luz/",
+        "https://lamaletainquieta.com/mezquita-cristo-de-la-luz/",
+        "https://nominatim.openstreetmap.org/search?q=Puerta+del+Sol,+Toledo&format=jsonv2",
+        "https://toledomonumental.com/mezquita-del-cristo-de-la-luz/",
+        "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/toledo-mezquita-cristo-de-la-luz/",
+        "https://toledomonumental.com/pulsera-turistica/",
+        "https://www.guruwalk.com/es/walks/p94155-ruta-de-los-monumentos-interior-5-monumentos-cGFub3B0ZXM"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/toledo/tol-cristo-luz.webp",
+        "author": "José Luis Filpo Cabana",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_sudoeste_de_la_Mezquita_del_Cristo_de_la_Luz_(Toledo).jpg"
+      }
+    },
+    {
+      "id": "tol-zocodover",
+      "poiId": "zocodover",
+      "language": "es",
+      "title": "Plaza de Zocodover",
+      "transcript": "Estás en la plaza de Zocodover, el salón de Toledo. Aquí se cita la gente, de aquí salen los autobuses hacia la estación y por aquí pasa, tarde o temprano, todo el que visita la ciudad. Pero antes de que fuera todo eso, esta plaza fue un mercado de animales.\n\nEl nombre lo cuenta. Zocodover viene del árabe y significa mercado de las bestias de carga. En la Toledo musulmana, aquí se venía a comprar caballos, mulas y burros. Y la plaza nunca dejó de ser mercado. El rey Enrique el Cuarto confirmó un mercado semanal que se celebraba los martes, tanto que los toledanos lo llamaban simplemente el Martes. Se montó aquí hasta mediados del siglo veinte. Hoy sigue existiendo, pero se ha mudado fuera de la muralla, junto al paseo de Merchán.\n\nAhora gira hacia el gran arco que se abre bajo la torre del reloj. Es el Arco de la Sangre. Su nombre viene de la devoción a la Sangre de Cristo. Por él se baja hacia la calle de Cervantes, y justo a su lado te espera una estatua de Miguel de Cervantes. No está aquí por casualidad. En el Quijote, uno de los galeotes que se cruzan con don Quijote le cuenta que, si a tiempo hubiera tenido veinte ducados para untar la pluma del escribano, ahora se vería en mitad de la plaza de Zocodover de Toledo, y no encadenado camino de galeras. Dicho de otro modo: con dinero, su juicio habría acabado de otra manera.\n\nLa plaza no siempre fue tan amable. Aquí se corrieron toros en las fiestas, y aquí se celebraron autos de fe de la Inquisición y ejecuciones públicas. Imagina este mismo suelo lleno de gente, mirando un cadalso en lugar de las terrazas que ves ahora.\n\nEl siglo veinte también dejó su huella. Durante la Guerra Civil, Toledo vivió el asedio del Alcázar, el gran edificio que asoma por encima de las casas, y las viviendas que había junto al Arco de la Sangre quedaron en ruinas.\n\nMira ahora a tu alrededor con otros ojos: soportales, balcones, gente que cruza con prisa y gente que no tiene ninguna. Donde antes se vendían mulas, hoy se vende mazapán. Mercado de bestias, plaza de toros, escenario de la Inquisición y hoy punto de encuentro. Zocodover lo ha sido todo.\n\nCuando quieras, sigue hacia la Catedral. Te espera a un paseo cuesta abajo, entre tiendas de mazapán y de espadas.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/toledo/tol-zocodover.m4a",
+      "audioSizeBytes": 1102997,
+      "sha256": "bae5a7ba0cd2ebde9c886c8914059045295a0ea63c1b45b436ee1ae164440f96",
+      "durationSeconds": 138,
+      "isPremium": true,
+      "latitude": 39.8595,
+      "longitude": -4.0214,
+      "geofenceRadiusMeters": 80,
+      "orderInCity": 2,
+      "lookFor": "En el lado este de la plaza, bajo el edificio del reloj, busca el gran Arco de la Sangre. Junto a él está la estatua de Miguel de Cervantes.",
+      "didYouKnow": "Cervantes vuelve a nombrar la plaza en La ilustre fregona, donde habla de los cicateruelos de Zocodover: los rateros que trabajaban aquí.",
+      "localTip": "De Zocodover salen los autobuses urbanos a la estación de tren y a la de autobuses (líneas 5, 61, 62 y 511). El billete sencillo cuesta 1,40 € y se paga al subir.",
+      "localTipDate": "2026-11",
+      "openingHours": "Plaza abierta a todas horas.",
+      "price": "Gratis",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Fue mercado de mulas, plaza de toros y escenario de la Inquisición.",
+      "sources": [
+        "https://es.wikipedia.org/wiki/Plaza_de_Zocodover",
+        "https://www.hoteles.net/toledo/plaza-zocodover-en-toledo.html",
+        "https://lamaletainquieta.com/plaza-zocodover/",
+        "https://www.destinotoledo.com/en/6-interesting-facts-about-toledo-that-you-might-not-know/",
+        "https://www.lonelyplanet.com/spain/castilla-la-mancha/toledo/attractions/plaza-de-zocodover/a/poi-sig/483188/360759",
+        "https://en.wikipedia.org/wiki/Plaza_de_Zocodover,_Toledo",
+        "https://biblioteca.org.ar/libros/156537.pdf",
+        "https://www.intratext.com/ixt/ENG1275/1/BY.HTM",
+        "https://toledodiario.es/un-hasta-ahora-desconocido-refugio-antibombas-en-el-centro-neuralgico-de-toledo",
+        "https://es.wikipedia.org/wiki/Posada_de_la_Sangre",
+        "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Toledo",
+        "https://nominatim.openstreetmap.org/search?q=Santo+Tom%C3%A9+Plaza+de+Zocodover+Toledo&format=jsonv2",
+        "https://biblioteca.org.ar/libros/71206.pdf",
+        "https://www.realacademiatoledo.es/downloads/publicaciones_cont1/1375/toledo-marco-geografico-de-la-ilustre-fregona.pdf",
+        "https://turismo.toledo.es/prepara-tu-viaje/preguntas-frecuentes.html",
+        "https://lamaletainquieta.com/como-ir-madrid-toledo/",
+        "https://unauto.es/tarifas/",
+        "https://www.itimaker.com/blog/getting-around-toledo-old-city"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/toledo/tol-zocodover.webp",
+        "author": "Javier Perez Montes",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco_de_la_Sangre_-_Toledo_01.jpg"
+      }
+    },
+    {
+      "id": "tol-catedral",
+      "poiId": "catedral",
+      "language": "es",
+      "title": "Catedral Primada",
+      "transcript": "Estás en la plaza del Ayuntamiento. A un lado tienes el Ayuntamiento, al otro el palacio del arzobispo, y delante, ocupándolo todo, la fachada principal de la Catedral Primada de Toledo. Para entenderla hay que saber qué había aquí antes.\n\nEn este mismo solar hubo una iglesia visigoda, y después la mezquita mayor de la Toledo musulmana, tan grande que algunos historiadores creen que pudo rivalizar con la de Córdoba. Cuando Alfonso el Sexto conquistó la ciudad en 1085, la mezquita se consagró como catedral cristiana, y durante unos dos siglos fue eso: una mezquita catedral. Hasta que en 1226, en tiempos del rey Fernando el Tercero, el arzobispo Rodrigo Jiménez de Rada puso en marcha la obra del templo gótico. Por eso en 2026 la Catedral ha cumplido ochocientos años. Las obras fueron largas: las últimas bóvedas de la nave central no se cerraron hasta 1493.\n\nMira la puerta central, la más grande. Es la puerta del Perdón, y en el espacio semicircular que hay sobre ella, el tímpano, verás una escena tallada en piedra: la Virgen entregando una casulla, la prenda que viste el sacerdote en misa, a san Ildefonso, un obispo toledano. Cuenta la tradición que la Virgen se apareció al santo aquí, en Toledo, y le regaló esa prenda.\n\nAhora mira a tu izquierda, hacia la torre. Se levanta unos noventa metros y fue la única que se construyó. La fachada estaba pensada con dos torres, pero la segunda nunca se terminó. Dentro de la torre cuelga la Gorda, la campana más grande de España. Tiene un problema: se agrietó por un defecto de fundición, y no suena como debería.\n\nDentro, guarda un par de sorpresas. Detrás del altar mayor está el Transparente. Entre 1729 y 1732, el arquitecto Narciso Tomé, con la ayuda de sus hijos, abrió un hueco en la bóveda gótica para que la luz del sol cayera sobre un gran retablo barroco de mármol. El efecto, cuando el sol entra por ese agujero, es teatral. Y en la sacristía cuelga el Expolio, de El Greco, con un Cristo vestido de un rojo intenso que atrapa todas las miradas.\n\nLa Catedral es tan grande que no se ve entera desde ningún sitio. Desde aquí tienes la fachada. Si rodeas el edificio por las calles de alrededor, irás encontrando otras puertas. Pero si haces una sola cosa, que sea entrar a mirar ese agujero en la bóveda. Lo que quiso Narciso Tomé fue que la luz bajara del cielo sobre el altar, y casi trescientos años después todavía lo consigue.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/toledo/tol-catedral.m4a",
+      "audioSizeBytes": 1276789,
+      "sha256": "c7d4ed9ee7804fdd3f1cebfb19a595fbfe542664328c00cc15d604273279dede",
+      "durationSeconds": 159,
+      "isPremium": true,
+      "latitude": 39.857,
+      "longitude": -4.0246,
+      "geofenceRadiusMeters": 100,
+      "orderInCity": 3,
+      "lookFor": "Sobre la puerta central de la fachada, la del Perdón, busca en el tímpano la escena tallada de la Virgen entregando la casulla a san Ildefonso.",
+      "didYouKnow": "La Catedral cumple ochocientos años en 2026, y la ONCE le dedicó el cupón del 10 de agosto.",
+      "localTip": "Los domingos la visita turística no empieza hasta las 14:00, por las misas. Entre semana abre a las 10:00, y el acceso se cierra media hora antes del cierre.",
+      "localTipDate": "2026-11",
+      "openingHours": "Lunes a sábado, de 10:00 a 18:30; domingos, de 14:00 a 18:30. El acceso cierra 30 minutos antes. Festivos con horario especial (el 24 y el 31 de diciembre, de 10:00 a 14:00). Cerrada el 1 de enero y el 25 de diciembre, y puede cerrar por celebraciones.",
+      "price": "12 €; reducida 8 € (mayores de 65, Carnet Joven, estudiantes hasta 18 años, familia numerosa); niños de 8 a 14 años 6 €; gratis menores de 8 años acompañados y nacidos o residentes en Toledo.",
+      "ticketUrl": "https://www.catedralprimada.es/visita-cultural/entradas-catedral-toledo/",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Un agujero abierto a propósito en la bóveda para que la luz cayera sobre el altar.",
+      "sources": [
+        "https://toledodiario.es/la-catedral-de-toledo-cumple-800-anos-sobre-lo-que-fue-una-mezquita-enorme-quiza-tanto-como-la-de-cordoba",
+        "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_de_Toledo",
+        "https://www.historyhit.com/locations/catedral-de-toledo/",
+        "https://www.ancient-history-sites.com/sites/toledo-cathedral/",
+        "https://www.eldebate.com/espana/castilla-la-mancha/20260728/catedral-toledo-conquista-espana-cinco-millones-cupones-800-anos_444487_amp.html",
+        "https://www.elespanol.com/eldigitalcastillalamancha/region/toledo/20260728/once-crea-cupon-motivo-viii-centenario-catedral-primada-toledo/1003744336410_0.amp.html",
+        "https://procomun.intef.es/en/media/97014",
+        "https://col.rct.uk/collection/2700116/nbspla-puerta-del-perdon-toledo",
+        "https://www.eldebate.com/espana/castilla-la-mancha/20260123/noche-virgen-bajo-toledo-misterio-san-ildefonso-sigue-vivo-1300-anos-despues_376237_amp.html",
+        "https://es.catholic.net/imprimir.php?id=60975",
+        "https://www.guruwalk.com/es/walks/p115176-toledo-ciudad-de-las-tres-culturas-visita-guiada-a-pie-cGFub3B0ZXM",
+        "https://www.toledo.es/wp-content/uploads/2018/06/18_dotor-angel-la-campana-grande-de-toledo-1966-11-_-224_p-87.pdf",
+        "https://campanologia.org/sites/www.campanologia.org/files/allegati_pagina_base/Grandi%20campane%20PORTOGALLO%20e%20SPAGNA.pdf",
+        "https://en.wikipedia.org/wiki/Transparente_(Cathedral_of_Toledo)",
+        "https://lamaletainquieta.com/transparente-catedral-toledo/",
+        "https://belo.civitatis.com/en/toledo/toledo-cathedral-tickets/",
+        "https://www.catedralprimada.es/visita-cultural/entradas-catedral-toledo/",
+        "https://www.catedralprimada.es/visita-cultural/",
+        "https://lamaletainquieta.com/?p=2255"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/toledo/tol-catedral.webp",
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tympanum_of_Puerta_del_Perd%C3%B3n,_Cathedral_of_Toledo.jpg"
+      }
+    },
+    {
+      "id": "tol-santo-tome",
+      "poiId": "santo-tome",
+      "language": "es",
+      "title": "Santo Tomé y el Entierro del conde de Orgaz",
+      "transcript": "Estás en la calle de Santo Tomé, al pie de una torre de ladrillo que se ve desde media ciudad. Es la torre de la iglesia de Santo Tomé, y dentro de esta iglesia se guarda uno de los cuadros más famosos del mundo. Pero empecemos por la torre.\n\nFíjate en cómo está hecha. Ladrillo y mampostería, ventanas con arcos de herradura y arcos lobulados, como festones. En lo alto, una fila de arquillos ciegos lleva columnitas de cerámica vidriada. Esta torre fue antes un alminar, la torre desde la que se llamaba a la oración en una mezquita. A principios del siglo catorce, la iglesia estaba en ruinas, y un noble la reconstruyó por completo y convirtió el viejo alminar en campanario mudéjar. Ese noble se llamaba Gonzalo Ruiz de Toledo, y era el señor de Orgaz.\n\nSu historia no acabó con su muerte. En su testamento dejó a esta parroquia unas entregas que debían hacer los vecinos de Orgaz, su villa. Pasaron más de dos siglos, y los vecinos dejaron de pagar. Entonces el párroco, Andrés Núñez, los llevó a juicio en 1564, y en 1569 ganó. Para celebrarlo, quiso recordar a su benefactor por todo lo alto. Contaba una leyenda que, en el entierro de don Gonzalo, san Agustín y san Esteban bajaron del cielo para depositarlo en la tumba con sus propias manos. Y el párroco encargó un cuadro de ese milagro a un pintor griego que vivía en Toledo: El Greco.\n\nEl contrato se firmó en 1586 y pedía la obra para Navidad. El Greco la entregó en 1588. Y luego llegó la discusión por el precio. Los tasadores la valoraron en mil doscientos ducados, el párroco lo consideró excesivo y al final el consejo del arzobispado le obligó a pagar la cifra entera.\n\nCuando entres a verlo, busca a dos personas en el cuadro. En primer plano, a la izquierda, hay un niño. Es Jorge Manuel, el hijo del pintor. Del bolsillo le asoma un pañuelo con la firma de El Greco y un año, 1578, el año en que nació el niño. Y en la fila de caballeros que asisten al entierro, hay uno que no mira el milagro sino a ti. Se suele identificar como un autorretrato del propio Greco.\n\nArriba, el cielo se abre para recibir el alma de don Gonzalo. Abajo, los dos santos sostienen su cuerpo. Dos mundos en una misma tela, colgada sobre la tumba del hombre al que retrata.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/toledo/tol-santo-tome.m4a",
+      "audioSizeBytes": 1163217,
+      "sha256": "eef884ff426dead1634ba1225a820bf4bfe75ba64560b2eac400749c1559ce88",
+      "durationSeconds": 147,
+      "isPremium": false,
+      "latitude": 39.857,
+      "longitude": -4.0279,
+      "geofenceRadiusMeters": 70,
+      "orderInCity": 4,
+      "lookFor": "En lo alto de la torre, por encima de las ventanas de arcos, busca la fila de arquillos ciegos con columnitas de cerámica vidriada.",
+      "didYouKnow": "El Greco se formó en Creta, trabajó en Venecia y Roma, y se instaló en Toledo en 1577, nueve años antes de firmar este encargo.",
+      "localTip": "Con la pulsera turística, 14 €, entras aquí, en San Juan de los Reyes, en el Cristo de la Luz y en otros cuatro monumentos durante siete días. Compensa desde cuatro visitas.",
+      "localTipDate": "2026-11",
+      "openingHours": "Todos los días. Del 1 de marzo al 15 de octubre, de 10:00 a 18:45; del 16 de octubre al 28 de febrero, de 10:00 a 17:45. La taquilla cierra 15 minutos antes. Cerrado el 1 de enero y el 25 de diciembre; el 24 y el 31 de diciembre cierra a las 13:00.",
+      "price": "4 €; de 11 a 16 años y estudiantes 3 €; gratis menores de 11 años. Incluida en la pulsera turística (14 €, siete monumentos).",
+      "ticketUrl": "https://santotome.org/tarifas-y-horarios/",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "El Greco escondió a su hijo en el cuadro, con un pañuelo firmado.",
+      "sources": [
+        "https://www.spain.info/es/lugares-interes/iglesia-santo-tome-toledo/",
+        "https://en.wikipedia.org/wiki/Church_of_Santo_Tom%C3%A9,_Toledo",
+        "https://es.wikipedia.org/wiki/El_entierro_del_se%C3%B1or_de_Orgaz",
+        "https://campaners.com/clm/torrepdf.php?numer=4788",
+        "https://www.realacademiatoledo.es/downloads/publicaciones_cont1/1446/las-columnas-de-ceramica-vidriada-de-la-torre-de-santo-tome.pdf",
+        "https://santotome.org/el-greco/",
+        "https://dbe.rah.es/biografias/8663/jorge-manuel-theotocopuli",
+        "https://www.moncloa.com/2026/06/13/el-greco-pintor-toledo-siglo-xvi-3384633/",
+        "https://lamaletainquieta.com/iglesia-santo-tome/",
+        "https://es.wikipedia.org/wiki/El_Greco",
+        "https://santotome.org/tarifas-y-horarios/",
+        "https://toledomonumental.com/pulsera-turistica/"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/toledo/tol-santo-tome.webp",
+        "author": "Jose Luis Filpo Cabana",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iglesia_de_Santo_Tom%C3%A9_(Toledo)._Torre.jpg"
+      }
+    },
+    {
+      "id": "tol-transito",
+      "poiId": "sinagoga-transito",
+      "language": "es",
+      "title": "Sinagoga del Tránsito",
+      "transcript": "Estás en la calle de Samuel Leví, en plena judería de Toledo, delante de un edificio de muros sencillos. Por fuera no dice gran cosa. Por dentro es una de las salas más hermosas de la ciudad. Es la sinagoga del Tránsito, y hoy alberga el Museo Sefardí.\n\nLa mandó construir Samuel ha Leví a mediados del siglo catorce. Era el tesorero del rey Pedro el Primero de Castilla, el hombre que llevaba las finanzas del reino. Pero la suerte de Samuel cambió. Perdió el favor del rey al que servía y murió en Sevilla hacia 1360, pocos años después de terminar esta obra.\n\nSi entras, ve directo a la gran sala de oración. Es alta, alargada y blanca, y en cuanto cruzas la puerta los ojos se te van hacia arriba. El techo es una armadura de madera labrada que muchos comparan con un cielo estrellado. Bajo el techo, las paredes están cubiertas de yeserías: motivos vegetales y geométricos, tallados en yeso como si fueran encaje. Y entre ellos corren franjas de letras. Son inscripciones en hebreo y en árabe que hablan de la oración, del estudio de la Torá y del santuario.\n\nMira también hacia arriba en la pared larga. Detrás de unas celosías hay una galería. Era el lugar reservado a las mujeres, que seguían el rezo desde allí, separadas de los hombres.\n\nEntonces, ¿por qué se llama del Tránsito? Después de la expulsión de los judíos en 1492, el edificio pasó a la orden militar de Calatrava, que lo convirtió en iglesia y priorato dedicado a san Benito. En uno de sus altares colgaba un cuadro del pintor Juan Correa de Vivar sobre el Tránsito de la Virgen, es decir, su muerte y subida al cielo. El cuadro se hizo tan popular entre los toledanos que acabó dando nombre a la iglesia, y el nombre se quedó para siempre.\n\nDurante siglos, una sinagoga convertida en iglesia guardó, sin borrarlas, las letras hebreas de sus paredes. En 1964 el Estado creó aquí el Museo Sefardí, dedicado a la cultura de los judíos de España y a sus descendientes, los sefardíes.\n\nCuando salgas, mira otra vez este exterior tan discreto. Dentro has visto la memoria de una comunidad que vivió en estas calles durante siglos. Sigue bajando por la judería: al final de la calle te espera un monasterio con cadenas colgadas en los muros.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/toledo/tol-transito.m4a",
+      "audioSizeBytes": 1126497,
+      "sha256": "87746b736993982f46501723426d234630e03d8dacfc537960d0b0d239141f45",
+      "durationSeconds": 141,
+      "isPremium": true,
+      "latitude": 39.8558,
+      "longitude": -4.0293,
+      "geofenceRadiusMeters": 70,
+      "orderInCity": 5,
+      "lookFor": "Ya dentro, en la sala de oración, busca las franjas de letras hebreas entre las yeserías y, en lo alto de la pared larga, las celosías de la galería de las mujeres.",
+      "didYouKnow": "El cuadro que dio nombre al edificio, El Tránsito de la Virgen de Juan Correa de Vivar, está hoy en el Museo del Prado.",
+      "localTip": "La entrada es gratis los sábados desde las 14:00 y todos los domingos. Los lunes está cerrado.",
+      "localTipDate": "2026-11",
+      "openingHours": "Martes a sábado, de 9:30 a 20:00; domingos y festivos, de 10:00 a 15:00. La taquilla cierra 15 minutos antes. Cerrado los lunes, el 1 y 6 de enero, el 1 de mayo, el 24, 25 y 31 de diciembre y un festivo local.",
+      "price": "3 €; reducida 1,50 €. Gratis los sábados desde las 14:00, los domingos, menores de 18 y mayores de 65. Abono Museos de Toledo (Sefardí y Greco, cinco días): 5 €.",
+      "ticketUrl": "https://www.cultura.gob.es/msefardi/visita/tarifas.html",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Una sinagoga que acabó llamándose como un cuadro de la Virgen.",
+      "sources": [
+        "https://www.cultura.gob.es/cultura/mc/bellasartes/historia/proyectos-web-bellas-artes/exposicion-virtual-centenario/3tesoro-patrimonial/10sinagoga-transito.html",
+        "https://es.wikipedia.org/wiki/Sinagoga_del_Tr%C3%A1nsito",
+        "https://en.wikipedia.org/wiki/Samuel_HaLevi",
+        "https://www.JewishVirtualLibrary.org/samuel-ben-meir-abulafia",
+        "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/abulafia-samuel-ben-meir-ha-levi",
+        "https://www.cultura.gob.es/msefardi/visita/horario.html",
+        "https://www.ui1.es/node/10795",
+        "https://en.wikipedia.org/wiki/Synagogue_of_El_Tr%C3%A1nsito",
+        "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/toledo-visita-sinagoga-transito-museo-sefardi/",
+        "https://www.cultura.gob.es/msefardi/visita/tarifas.html"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/toledo/tol-transito.webp",
+        "author": "Fernando",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sinagoga_del_Tr%C3%A1nsito_-_Sala_Oraci%C3%B3n.jpg"
+      }
+    },
+    {
+      "id": "tol-san-juan",
+      "poiId": "san-juan-de-los-reyes",
+      "language": "es",
+      "title": "San Juan de los Reyes",
+      "transcript": "Estás en la calle de los Reyes Católicos, frente al monasterio de San Juan de los Reyes. Antes de fijarte en la arquitectura, mira los muros de piedra que tienes delante. ¿Ves esas cadenas de hierro colgadas por toda la pared, en filas, como si alguien las hubiera tendido a secar? No son un adorno cualquiera. Cada una de ellas tiene una historia.\n\nSon cadenas de cautivos cristianos. Durante la guerra de Granada, a mediados de la década de 1480, los ejércitos de los Reyes Católicos liberaron a los prisioneros que había en ciudades como Málaga. Muchos de aquellos cautivos trajeron sus cadenas hasta Toledo y las ofrecieron aquí, como agradecimiento a Dios y a su reina. Antes había todavía más. Las que ves son las que han llegado hasta hoy.\n\nPero el monasterio había empezado antes, con otra guerra. El 1 de marzo de 1476, las tropas de Isabel y Fernando ganaron la batalla de Toro. La reina Isabel quiso celebrarlo con un monasterio, y lo dedicó a san Juan. Puso al frente de la obra al arquitecto Juan Guas. Y tenía un plan para él: que fuera el lugar donde descansaran para siempre ella y su marido. Las cosas cambiaron, y los reyes no están enterrados aquí.\n\nLo que sí dejaron fue su firma por todas partes. Cuando entres, busca el yugo y las flechas, los emblemas de Fernando e Isabel, y el águila de san Juan. Este estilo, gótico pero lleno de detalle, tiene un nombre: gótico isabelino, por la reina. Y no te vayas sin pasear por el claustro.\n\nEl monasterio también sufrió. Durante la guerra de la Independencia, a partir de 1808, las tropas francesas lo dañaron gravemente, y un incendio destruyó parte del convento. Después llegaron décadas de abandono. Lo que ves hoy es fruto de una larga restauración, y desde mediados del siglo veinte vuelven a vivir aquí frailes franciscanos, como en tiempos de la reina.\n\nVuelve a mirar las cadenas antes de irte. Son lo primero que veía cualquiera que llegaba a este monasterio, y era justo lo que la reina quería que se viera: una victoria contada con hierro. Más de quinientos años después, siguen colgadas en el mismo muro, recordando a los que las llevaron puestas.\n\nDesde aquí, si bajas un poco por la calle, llegarás a la muralla y a la puerta del Cambrón, una de las antiguas entradas de la ciudad. Y detrás de ti queda la judería que acabas de recorrer.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/toledo/tol-san-juan.m4a",
+      "audioSizeBytes": 1151048,
+      "sha256": "b152c9352a6b546e951d6dec6c01ee8df1e4c0755c6913ed7fc9d249a37e51a6",
+      "durationSeconds": 144,
+      "isPremium": true,
+      "latitude": 39.8576,
+      "longitude": -4.031,
+      "geofenceRadiusMeters": 80,
+      "orderInCity": 6,
+      "lookFor": "En los muros exteriores de la iglesia, a los lados de los ventanales, busca las cadenas de hierro colgadas en filas: son de cautivos cristianos liberados.",
+      "didYouKnow": "Tras conquistar Granada en 1492, los Reyes Católicos cambiaron de planes y eligieron esa ciudad para enterrarse: descansan en su Capilla Real.",
+      "localTip": "Abre todos los días a las 10:00. Hasta finales de febrero cierra a las 17:45; desde el 1 de marzo, a las 18:45.",
+      "localTipDate": "2026-11",
+      "openingHours": "Todos los días. Del 1 de marzo al 15 de octubre, de 10:00 a 18:45; del 16 de octubre al 28 de febrero, de 10:00 a 17:45. Cerrado el 1 de enero y el 25 de diciembre; el 24 y el 31 de diciembre cierra a las 13:00.",
+      "price": "4 €; reducida 3 € (jubilados, estudiantes y Carnet Joven); gratis menores de 11 años. Incluido en la pulsera turística (14 €, siete monumentos).",
+      "ticketUrl": "https://tickets.toledomonumental.com/es",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Cadenas de cautivos colgadas en el muro, como una victoria contada con hierro.",
+      "sources": [
+        "https://www.sanjuandelosreyes.org/monumento/fachada/",
+        "https://es.wikipedia.org/wiki/Monasterio_de_San_Juan_de_los_Reyes",
+        "https://en.wikipedia.org/wiki/Monastery_of_San_Juan_de_los_Reyes",
+        "https://www.sanjuandelosreyes.org/monumento/vista-exterior/",
+        "https://es.wikipedia.org/wiki/Capilla_Real_de_Granada",
+        "https://guias-viajar.com/turismo-espana/visitar-castilla-la-mancha/toledo-visita-monasterio-san-juan-reyes/",
+        "https://lamaletainquieta.com/san-juan-de-los-reyes/",
+        "https://toledomonumental.com/mezquita-del-cristo-de-la-luz/",
+        "https://toledomonumental.com/pulsera-turistica/"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/toledo/tol-san-juan.webp",
+        "author": "Yair Haklai",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Church_of_the_Monastery_of_San_Juan_de_los_Reyes_(Toledo)-Chains.jpg"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "tol-ruta-medina",
+      "language": "es",
+      "title": "Mezquita, plaza y Catedral",
+      "description": "De una mezquita del año 999 a la plaza de Zocodover y a la Catedral, que cumple ochocientos años.",
+      "durationMinutes": 20,
+      "distanceMeters": 850,
+      "difficulty": "medium",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "tol-cristo-luz",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "tol-zocodover",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "tol-catedral",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "tol-ruta-juderia",
+      "language": "es",
+      "title": "La Judería",
+      "description": "Del Entierro del conde de Orgaz a la sinagoga del Tránsito y a las cadenas de San Juan de los Reyes.",
+      "durationMinutes": 20,
+      "distanceMeters": 600,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "tol-santo-tome",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "tol-transito",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "tol-san-juan",
+          "transitionAudioGuideId": null
+        }
+      ]
+    }
+  ],
+  "totalSizeBytes": 6945654
+}

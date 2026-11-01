@@ -1,0 +1,774 @@
+{
+  "cityId": "sevilla",
+  "name": "Sevilla",
+  "country": "ES",
+  "centerLatitude": 37.38583,
+  "centerLongitude": -5.99312,
+  "isPremium": false,
+  "revision": 1,
+  "summary": "Sevilla guarda en pocas calles ocho siglos de historia: una torre almohade convertida en campanario, la catedral gótica más grande del mundo, un palacio real que sigue en uso y el archivo de la América española. Todo se recorre a pie.",
+  "food": [
+    "Espinacas con garbanzos: guiso con especias y pan frito, de origen sefardí y muy de Semana Santa.",
+    "Montadito de pringá: panecillo relleno con las carnes desmigadas del puchero.",
+    "Cazón en adobo: dados de cazón marinados en vinagre, comino, orégano y ajo, y luego fritos.",
+    "Pescaíto frito: pescado pequeño enharinado y frito en aceite de oliva, servido en cucurucho.",
+    "Serranito: bocadillo de lomo de cerdo, jamón, tomate y pimiento frito."
+  ],
+  "funFacts": [
+    "La Giralda fue el alminar de la mezquita almohade. Se sube por unas 35 rampas, sin escaleras, y su nombre viene de la veleta de bronce que gira en lo alto.",
+    "La Catedral de Sevilla es la catedral gótica más grande del mundo por superficie.",
+    "El Real Alcázar está considerado el palacio real en uso más antiguo de Europa: la familia real se aloja en sus plantas altas.",
+    "El Archivo de Indias nació como lonja porque los mercaderes hacían negocios en las gradas de la catedral.",
+    "Murillo fue enterrado en 1682 en la iglesia de Santa Cruz. La derribaron en 1810 y sus restos nunca aparecieron."
+  ],
+  "coverImageUrl": "file:///android_asset/catalog/images/sevilla-cover.jpg",
+  "_coverCommons": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg",
+  "practicalGuide": {
+    "lastVerified": "11/2026",
+    "arrival": [
+      {
+        "mode": "Bus EA (Especial Aeropuerto)",
+        "price": "6 €",
+        "durationMin": 35,
+        "note": "Se paga con tarjeta en el bus; ida y vuelta en el día, 8 €. Acaba en Plaza de Armas y para en el Prado y la Torre del Oro."
+      },
+      {
+        "mode": "Taxi",
+        "price": "26 a 29 €",
+        "durationMin": 20,
+        "note": "Tarifa fija: 26 € laborables de 7:00 a 21:00; 29 € de noche, fines de semana y festivos."
+      }
+    ],
+    "monuments": [
+      {
+        "name": "Catedral y Giralda",
+        "price": "13 a 14 €",
+        "bookAheadDays": 0,
+        "note": "13 € online y 14 € en taquilla. Incluye la iglesia del Salvador. Gratis menores de 13 años.",
+        "bookingUrl": "https://tickets.catedraldesevilla.eu/"
+      },
+      {
+        "name": "Real Alcázar",
+        "price": "15,50 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 8 €. Gratis menores de 13 años acompañados. Mejor comprar antes en la web oficial.",
+        "bookingUrl": "https://alcazardesevilla.infoticketing.com/es"
+      },
+      {
+        "name": "Archivo de Indias",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Cierra los lunes. Domingos y festivos, solo de 10:00 a 14:00.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Torre del Oro (museo marítimo)",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Se pide una aportación voluntaria de 3 €.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Casa de Pilatos",
+        "price": "12 €",
+        "bookAheadDays": 0,
+        "note": "Planta baja con guía o audioguía. Gratis menores de 11 años acompañados.",
+        "bookingUrl": "https://shop.articketing.com/monuments/casa-de-pilatos/tickets"
+      },
+      {
+        "name": "Plaza de España",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Acceso libre, dentro del Parque de María Luisa.",
+        "bookingUrl": ""
+      }
+    ],
+    "luggage": [
+      {
+        "name": "Bounce",
+        "area": "Comercios junto a Santa Justa y el centro",
+        "price": "Según el local; la tarifa sale al reservar",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Radical Storage",
+        "area": "Comercios junto a Santa Justa y el centro",
+        "price": "Según el local; la tarifa sale al reservar",
+        "bookingUrl": ""
+      }
+    ],
+    "zones": [
+      {
+        "id": "mercado-triana-comer",
+        "kind": "comer",
+        "name": "Mercado de Triana",
+        "summary": "Mercado de abastos junto al puente de Triana, con puestos de producto fresco y bares de tapas dentro.",
+        "tags": [
+          "Tapas",
+          "Mercado"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde el centro, cruzando el puente de Triana",
+        "latitude": 37.38575,
+        "longitude": -6.00355
+      },
+      {
+        "id": "san-jacinto-comer",
+        "kind": "comer",
+        "name": "Triana: San Jacinto y Pagés del Corro",
+        "summary": "Calles de Triana con muchos bares de tapas y freidurías de pescado.",
+        "tags": [
+          "Tapas",
+          "Pescaíto frito"
+        ],
+        "bestTime": "",
+        "gettingThere": "Metro L1, parada Plaza de Cuba",
+        "latitude": 37.38472,
+        "longitude": -6.00382
+      },
+      {
+        "id": "alfalfa-comer",
+        "kind": "comer",
+        "name": "La Alfalfa",
+        "summary": "Plazas del centro para ir de tapas, como la Alfalfa y la del Pan, con bares clásicos.",
+        "tags": [
+          "Tapas",
+          "Bares clásicos"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Catedral",
+        "latitude": 37.39037,
+        "longitude": -5.99076
+      },
+      {
+        "id": "arenal-comer",
+        "kind": "comer",
+        "name": "El Arenal",
+        "summary": "Barrio entre la Catedral y el río con tabernas de toda la vida y freidurías, sobre todo en la calle Arfe.",
+        "tags": [
+          "Tapas",
+          "Pescaíto frito"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Torre del Oro",
+        "latitude": 37.38662,
+        "longitude": -5.99693
+      },
+      {
+        "id": "feria-comer",
+        "kind": "comer",
+        "name": "Mercado de Feria",
+        "summary": "Mercado de barrio en la calle Feria con una zona de restauración para comer y tapear.",
+        "tags": [
+          "Tapas",
+          "Mercado"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Alameda de Hércules",
+        "latitude": 37.39947,
+        "longitude": -5.99119
+      },
+      {
+        "id": "santa-cruz-comer",
+        "kind": "comer",
+        "name": "Barrio de Santa Cruz",
+        "summary": "Bodegas y tabernas clásicas entre las callejuelas de la antigua judería, cerca de la Catedral.",
+        "tags": [
+          "Tapas",
+          "Bodegas"
+        ],
+        "bestTime": "",
+        "gettingThere": "Tranvía T1, parada Archivo de Indias",
+        "latitude": 37.38519,
+        "longitude": -5.98846
+      },
+      {
+        "id": "sierpes-compras",
+        "kind": "compras",
+        "name": "Calle Sierpes y Tetuán",
+        "summary": "Calles peatonales del centro con tiendas de moda, abanicos y mantones. En verano, Sierpes se cubre con toldos.",
+        "tags": [
+          "Moda",
+          "Abanicos",
+          "Mantones"
+        ],
+        "bestTime": "",
+        "gettingThere": "Tranvía T1, parada Plaza Nueva",
+        "latitude": 37.39109,
+        "longitude": -5.99457
+      },
+      {
+        "id": "triana-ceramica-compras",
+        "kind": "compras",
+        "name": "Triana: calles Alfarería y Antillano Campos",
+        "summary": "Tiendas y talleres de cerámica hecha a mano en el barrio alfarero de Triana: azulejos, platos y jarrones.",
+        "tags": [
+          "Cerámica",
+          "Azulejos"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde el puente de Triana",
+        "latitude": 37.38585,
+        "longitude": -6.00553
+      },
+      {
+        "id": "el-jueves-compras",
+        "kind": "compras",
+        "name": "El Jueves, calle Feria",
+        "summary": "El mercadillo más antiguo de Sevilla: antigüedades, libros y objetos de segunda mano en plena calle.",
+        "tags": [
+          "Antigüedades",
+          "Libros",
+          "Segunda mano"
+        ],
+        "bestTime": "Solo los jueves por la mañana",
+        "gettingThere": "A pie desde la Alameda de Hércules",
+        "latitude": 37.39918,
+        "longitude": -5.9917
+      },
+      {
+        "id": "nervion-compras",
+        "kind": "compras",
+        "name": "Nervión",
+        "summary": "Grandes marcas y centros comerciales en las avenidas de Luis Montoto y Luis de Morales.",
+        "tags": [
+          "Centros comerciales",
+          "Moda"
+        ],
+        "bestTime": "",
+        "gettingThere": "Metro L1, parada Nervión",
+        "latitude": 37.38432,
+        "longitude": -5.9725
+      },
+      {
+        "id": "alameda-noche",
+        "kind": "noche",
+        "name": "Alameda de Hércules",
+        "summary": "Gran paseo arbolado lleno de bares, terrazas y salas con música en directo. Es una de las zonas con más vida de noche.",
+        "tags": [
+          "Copas",
+          "Terrazas",
+          "Música en directo"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde las Setas de la Encarnación",
+        "latitude": 37.39888,
+        "longitude": -5.99374
+      },
+      {
+        "id": "betis-noche",
+        "kind": "noche",
+        "name": "Calle Betis",
+        "summary": "Bares y terrazas en la orilla de Triana, frente al río y con la Torre del Oro enfrente.",
+        "tags": [
+          "Terrazas",
+          "Copas",
+          "Vistas al río"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde el centro, cruzando el puente de Triana",
+        "latitude": 37.3833,
+        "longitude": -5.99969
+      },
+      {
+        "id": "alfalfa-noche",
+        "kind": "noche",
+        "name": "La Alfalfa y Pérez Galdós",
+        "summary": "Bares de copas con ambiente joven en la calle Pérez Galdós y alrededores, sobre todo los fines de semana.",
+        "tags": [
+          "Copas",
+          "Bares"
+        ],
+        "bestTime": "Viernes y sábado por la noche",
+        "gettingThere": "A pie desde la Catedral",
+        "latitude": 37.3912,
+        "longitude": -5.99111
+      },
+      {
+        "id": "maria-luisa-plaza-espana",
+        "kind": "aire_libre",
+        "name": "Parque de María Luisa y Plaza de España",
+        "summary": "Más de 34 hectáreas de jardín, con estanques y la Isleta de los Patos. Se recorre a pie o en bici, y la Plaza de España es gratis.",
+        "tags": [
+          "Pasear",
+          "Bici",
+          "Con niños"
+        ],
+        "bestTime": "Abierto de 8:00 a 24:00",
+        "gettingThere": "Metro L1, parada Prado de San Sebastián o Puerta Jerez",
+        "latitude": 37.37477,
+        "longitude": -5.98879
+      },
+      {
+        "id": "jardines-murillo",
+        "kind": "aire_libre",
+        "name": "Jardines de Murillo",
+        "summary": "Jardín de sombra pegado a la muralla del Alcázar, con el monumento a Colón. Bueno para un paseo tranquilo.",
+        "tags": [
+          "Pasear",
+          "Sombra"
+        ],
+        "bestTime": "Invierno de 8:00 a 22:00; verano hasta las 24:00",
+        "gettingThere": "Metro L1 o tranvía, parada Prado de San Sebastián",
+        "latitude": 37.38368,
+        "longitude": -5.98783
+      },
+      {
+        "id": "parque-alamillo",
+        "kind": "aire_libre",
+        "name": "Parque del Alamillo",
+        "summary": "Parque enorme, de unas 120 hectáreas, en la isla de la Cartuja, con lagos y caminos para pasear. La entrada es gratis.",
+        "tags": [
+          "Pasear",
+          "Naturaleza",
+          "Bici"
+        ],
+        "bestTime": "",
+        "gettingThere": "",
+        "latitude": 37.4183,
+        "longitude": -5.99563
+      },
+      {
+        "id": "rio-muelle-sal",
+        "kind": "aire_libre",
+        "name": "Orillas del Guadalquivir",
+        "summary": "Paseo junto al río entre el puente de Triana y la Torre del Oro, con vistas a Triana y al puente.",
+        "tags": [
+          "Pasear",
+          "Vistas",
+          "Atardecer"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Torre del Oro",
+        "latitude": 37.38616,
+        "longitude": -6.00081
+      },
+      {
+        "id": "setas-mirador",
+        "kind": "aire_libre",
+        "name": "Mirador de las Setas",
+        "summary": "Pasarela sobre la plaza de la Encarnación con vistas de 360 grados sobre los tejados del centro. Se paga entrada.",
+        "tags": [
+          "Vistas",
+          "Atardecer"
+        ],
+        "bestTime": "",
+        "gettingThere": "A pie desde la Catedral, por la calle Sierpes",
+        "latitude": 37.39312,
+        "longitude": -5.99185
+      }
+    ],
+    "zoneNotes": {
+      "aire_libre": "Bici pública (Sevici): abono de 7 días por 13,33 € con los primeros 30 minutos de cada viaje gratis; luego 1,03 € la primera hora y 2,04 € cada hora más. Se deja una garantía de 150 € en la tarjeta."
+    },
+    "zonesLastVerified": "11/2026",
+    "nearbySearches": [
+      "Tapas",
+      "Pescaíto frito",
+      "Montaditos",
+      "Serranito"
+    ],
+    "dayCost": {
+      "items": [
+        {
+          "label": "Bus TUSSAM o tranvía, billete sencillo",
+          "price": "1,40 €",
+          "note": "Se paga al subir. El tranvía del centro cuesta lo mismo."
+        },
+        {
+          "label": "Metro, billete sencillo",
+          "price": "1,35 €",
+          "note": "Sin saltos de zona. El bono de un día cuesta 4,50 €."
+        },
+        {
+          "label": "Bus del aeropuerto (EA)",
+          "price": "6 €",
+          "note": "Ida y vuelta en el mismo día, 8 €. Se paga con tarjeta en el bus."
+        },
+        {
+          "label": "Menú del día",
+          "price": "13 a 15 €",
+          "note": "Media en Andalucía en 2026: 14 €."
+        },
+        {
+          "label": "Tapa en bar",
+          "price": "2 a 4 €",
+          "note": "En las zonas más turísticas, de 3 a 5 €."
+        },
+        {
+          "label": "Catedral y Giralda",
+          "price": "13 a 14 €",
+          "note": "13 € online y 14 € en taquilla. Incluye la iglesia del Salvador."
+        },
+        {
+          "label": "Real Alcázar",
+          "price": "15,50 €",
+          "note": "Gratis menores de 13 años acompañados."
+        }
+      ],
+      "days": [
+        {
+          "label": "Un día ajustado",
+          "price": "19,80 a 25,80 €",
+          "note": "Dos viajes en bus, menú del día, dos tapas y el Archivo de Indias, gratis."
+        },
+        {
+          "label": "Un día con monumentos",
+          "price": "50,30 a 58,30 €",
+          "note": "Dos buses, menú del día, tres tapas, Catedral online y Alcázar."
+        }
+      ]
+    }
+  },
+  "_coverCredit": {
+    "autor": "Carlos Delgado",
+    "licencia": "CC BY-SA 4.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_(Sevilla)_-_01.jpg"
+  },
+  "intro": {
+    "id": "sevilla-presentacion",
+    "title": "Sevilla en 2 minutos",
+    "transcript": "Sevilla se lee por capas. La torre más famosa de la ciudad empezó siendo el alminar de una mezquita almohade, y hoy es el campanario de la catedral gótica más grande del mundo. Cada época dejó su huella encima de la anterior, y casi todo lo que queda se recorre a pie en una mañana.\n\nEmpieza por la Giralda. Por dentro no tiene escaleras, sino rampas tan anchas que cabría alguien a caballo. En lo más alto gira una figura de bronce, la Fe victoriosa, y fue ella quien le dio nombre a la torre: la Giralda, la que gira. Bajo sus naves descansa Cristóbal Colón, llevado a hombros por cuatro heraldos de bronce.\n\nAl lado está el Real Alcázar, que nació como fortaleza musulmana hace mil años. Allí el rey Pedro primero levantó su palacio mudéjar, y el emperador Carlos quinto se casó con Isabel de Portugal. Está considerado el palacio real en uso más antiguo de Europa: la familia real todavía se aloja en sus plantas altas.\n\nLuego están los mercaderes. Durante siglos hicieron negocios en las gradas de la catedral, hasta que el rey Felipe segundo les dio una lonja diseñada por el arquitecto de El Escorial. Hoy es el Archivo de Indias, y sus estantes suman unos nueve kilómetros de papeles de la América española. Junto al río, la Torre del Oro vigila el Guadalquivir desde hace ochocientos años, y su oro nunca fue un tesoro: era el brillo de su revestimiento al sol.\n\nY está la Sevilla de las callejuelas. En la plaza de Santa Cruz, en la vieja judería, está enterrado Murillo, aunque nadie sabe dónde. Y la Casa de Pilatos debe su nombre a un noble que volvió de Jerusalén y trazó un vía crucis hasta la Cruz del Campo.\n\nSon seis lugares y dos paseos de veinte minutos. Cada historia suena sola cuando llegas, con el móvil en el bolsillo. La primera parada de cada paseo es gratis. Las demás te esperan en la calle.",
+    "audioUrl": "file:///android_asset/catalog/audio/sevilla/sevilla-presentacion.m4a",
+    "audioSizeBytes": 911670,
+    "sha256": "52a70ab4015f32dff44accb984bb9de6d06ea5303b743e2b0706a247e486cbc4",
+    "durationSeconds": 115,
+    "narrator": ""
+  },
+  "audios": [
+    {
+      "id": "sev-catedral",
+      "poiId": "catedral-giralda",
+      "language": "es",
+      "title": "Catedral y Giralda",
+      "transcript": "Estás en la plaza Virgen de los Reyes, a los pies de la Giralda. Piensa que esta torre no nació como campanario. Fue el alminar de la gran mezquita almohade de Sevilla, la torre desde la que se llamaba a la oración. Las obras empezaron en 1184, bajo el califa Abu Yaqub Yusuf. Las comenzó el arquitecto Ahmad ibn Baso, que levantó la base de piedra, y pocos años después Alí de Gómara siguió con el ladrillo.\n\nAhora sube la vista despacio. Casi toda su altura es la obra almohade. En 1198 la coronaron con unas grandes esferas de metal, pero el terremoto de 1356 las echó abajo. Por eso el remate que ves hoy es otro: el cuerpo de campanas renacentista que añadió Hernán Ruiz en el siglo dieciséis.\n\nSigue subiendo hasta lo más alto. Allí hay una figura de bronce de unos cuatro metros: una mujer que representa la Fe victoriosa. La colocaron en 1568 y la fundió Bartolomé Morel. Funciona como veleta y gira con el viento, y de ahí viene todo. A la estatua la llamaron Giralda, la que gira, y con el tiempo el nombre pasó a la torre entera. Hoy a la figura la conocemos como el Giraldillo.\n\nLo más curioso está dentro. Para subir no hay escaleras, sino unas treinta y cinco rampas, lo bastante anchas para que alguien suba a caballo. Se cuenta a menudo que así se hacía, aunque ningún documento lo demuestra. Solo al final, para llegar a las campanas, quedan diecisiete escalones.\n\nCuando Sevilla pasó a manos cristianas, en el lugar de la mezquita se levantó un templo gótico, y aquí nace una frase famosa. Dice la tradición que los canónigos acordaron hacer una iglesia tan grande que quienes la vieran terminada los tuvieran por locos. Es una leyenda. Lo que dicen las actas de 1401 es más sobrio: una iglesia tal y tan buena que no haya otra igual. Las obras se dieron por acabadas en 1506, y el resultado es la catedral gótica más grande del mundo por superficie. De la mezquita quedaron la torre, el patio de los Naranjos, donde los fieles se lavaban antes de rezar, y la puerta del Perdón, que era su entrada.\n\nDentro, cuatro heraldos de bronce llevan a hombros el sepulcro de Cristóbal Colón. Se hizo para La Habana, y los restos llegaron a Sevilla tras la independencia de Cuba. En 2024, un equipo de la Universidad de Granada anunció que el ADN confirma que son suyos.\n\nCuando quieras, camina hacia la avenida de la Constitución. Al otro lado de la catedral te espera un edificio que nació para que los mercaderes dejaran de hacer negocios en sus escalones.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/sevilla/sev-catedral.m4a",
+      "audioSizeBytes": 1257291,
+      "sha256": "0cffe7d433504a0a016db640e91d45d095a197497f50a4fd727f441e4d7e84f9",
+      "durationSeconds": 158,
+      "isPremium": false,
+      "latitude": 37.38603,
+      "longitude": -5.99206,
+      "geofenceRadiusMeters": 80,
+      "orderInCity": 1,
+      "lookFor": "En lo más alto de la torre, sobre el cuerpo de campanas, busca la figura de bronce que gira con el viento: es el Giraldillo, la Fe victoriosa, la estatua que dio nombre a la Giralda.",
+      "didYouKnow": "Dentro de la Giralda no hay escaleras: se sube por unas 35 rampas, tan anchas que cabría alguien a caballo. Solo los últimos 17 escalones llevan hasta las campanas.",
+      "localTip": "Compra la entrada en la web oficial: cuesta 13 € en lugar de los 14 € de la taquilla, e incluye la Catedral, la Giralda y la iglesia del Salvador.",
+      "localTipDate": "2026-11",
+      "openingHours": "Domingos de 14:30 a 19:00. De lunes a sábado el horario cambia según la temporada y los actos de culto, y las fuentes no coinciden: consúltalo en la web oficial de la Catedral antes de ir.",
+      "price": "General: 13 € online o 14 € en taquilla. Reducida: 7 € online u 8 € en taquilla (mayores de 65, estudiantes hasta 25 años y otros casos). Gratis menores de 13 años acompañados. Incluye Catedral, Giralda e iglesia del Salvador.",
+      "ticketUrl": "https://tickets.catedraldesevilla.eu/",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Una torre que se sube por rampas y una veleta que le dio nombre.",
+      "sources": [
+        "https://www.catedraldesevilla.es/horarios-y-tarifas/",
+        "https://www.catedraldesevilla.es/en/cultural-visit/schedules-and-rates/",
+        "https://www.catedraldesevilla.es/la-giralda/",
+        "https://visitasevilla.es/catedral-de-sevilla/",
+        "https://www.spain.info/es/lugares-interes/giralda/",
+        "https://www.correos.es/es/es/particulares/filatelia/productos-filatelicos/sellos/espana/2012/catedral-de-sevilla",
+        "https://audiala.com/es/espana/sevilla/giralda",
+        "https://www.barcelo.com/guia-turismo/es/espana/sevilla/que-ver/la-giralda/",
+        "https://es.catholic.net/op/articulos/71379/la-belleza-al-servicio-de-dios.html",
+        "https://memorials.rmg.co.uk/m3861",
+        "https://www.biobiochile.cl/noticias/sociedad/historia/2024/10/10/investigadores-confirman-que-restos-enterrados-en-la-catedral-de-sevilla-si-son-los-de-cristobal-colon.shtml",
+        "https://es.wikipedia.org/wiki/Giralda",
+        "https://en.wikipedia.org/wiki/Giralda",
+        "https://es.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_de_la_Sede_de_Sevilla",
+        "https://en.wikipedia.org/wiki/Seville_Cathedral",
+        "https://en.wikipedia.org/wiki/Tomb_of_Christopher_Columbus"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/sevilla/sev-catedral.webp",
+        "author": "CARLOS TEIXIDOR CADENAS",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arriba_de_la_Giralda_se_encuentra_la_escultura_del_Giraldillo,_Sevilla,_Espa%C3%B1a,_Spain.JPG"
+      }
+    },
+    {
+      "id": "sev-indias",
+      "poiId": "archivo-indias",
+      "language": "es",
+      "title": "Archivo de Indias",
+      "transcript": "Estás en la avenida de la Constitución, frente al Archivo General de Indias. Mira este edificio cuadrado y sobrio, y luego vuelve un momento la vista hacia la catedral que acabas de dejar. Entre los dos hay una historia de mercaderes sin casa.\n\nDurante siglos, los comerciantes de Sevilla no tuvieron un edificio propio para cerrar sus tratos. Así que hacían negocios donde podían: en las gradas, los escalones que rodean la catedral. Era una costumbre que venía de la Edad Media. Imagina a los mercaderes discutiendo precios y cargamentos en las escaleras de un templo, entre fieles que entraban y salían.\n\nEl rey Felipe segundo decidió darles su propia casa: una lonja de mercaderes. Para dibujarla eligió nada menos que a Juan de Herrera, el arquitecto de El Escorial. Su proyecto compitió con otro, de Asensio de Maeda, y ganó Herrera. Las obras las dirigió Juan de Minjares desde 1584, y antes de que acabara aquel siglo una parte del edificio ya estaba en uso. La terminó Pedro Sánchez Falconete a mediados del siglo diecisiete. Y todo se levantó para un cliente muy concreto: el Consulado de Cargadores a Indias, el gremio de los mercaderes que comerciaban con América, fundado en 1543.\n\nAhora fíjate en la fachada. Dos pisos, ventanas ordenadas y casi ninguna escultura. Es el estilo de Herrera: severo, de líneas rectas, sin adornos que distraigan. Nada de santos ni de escudos que llamen la atención. Sube la vista hasta el tejado. Por todo el borde corre una balaustrada de piedra, y en las esquinas se alzan unos obeliscos. Son casi el único adorno que se permitió el edificio, y los puso Sánchez Falconete al acabarlo.\n\nLa lonja tuvo una segunda vida. En 1785, el rey Carlos tercero decidió convertirla en archivo. Lo impulsó el ministro José de Gálvez y lo llevó a cabo el historiador Juan Bautista Muñoz. Ese mismo mes de octubre llegaron los primeros documentos, desde el archivo de Simancas.\n\nDesde entonces, aquí se guardan los papeles de la América española. Hoy son unos cuarenta y tres mil legajos, con cerca de ochenta millones de páginas y unos ocho mil mapas y dibujos. Sus estantes, puestos uno detrás de otro, sumarían unos nueve kilómetros. Piensa en eso la próxima vez que alguien te diga que tiene mucho papeleo.\n\nEn 1987, la UNESCO declaró Patrimonio de la Humanidad este archivo junto con la catedral y el Real Alcázar. Tres edificios vecinos, separados por apenas unos pasos, que cuentan juntos buena parte de la historia de Sevilla.\n\nSi quieres, entra: es gratis. Y cuando salgas, baja hacia el río. Allí te espera una torre que vigilaba los barcos.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/sevilla/sev-indias.m4a",
+      "audioSizeBytes": 1352312,
+      "sha256": "67980958c46b1fb733d27bdccc5acc238df08aac897b4460d9ffd20d119e4861",
+      "durationSeconds": 170,
+      "isPremium": true,
+      "latitude": 37.3847,
+      "longitude": -5.9938,
+      "geofenceRadiusMeters": 70,
+      "orderInCity": 2,
+      "lookFor": "Sube la vista hasta el borde del tejado: una balaustrada de piedra recorre todo el edificio y en cada esquina se alza un obelisco. Fuera de eso, la fachada casi no tiene esculturas.",
+      "didYouKnow": "Sus estantes suman unos 9 km y guardan unos 43.000 legajos, con cerca de 80 millones de páginas y unos 8.000 mapas y dibujos.",
+      "localTip": "La entrada es gratis, pero los lunes cierra y los domingos solo abre por la mañana, de 10:00 a 14:00.",
+      "localTipDate": "2026-11",
+      "openingHours": "Martes a sábado, de 9:30 a 17:00 (último acceso 16:30). Domingos y festivos, de 10:00 a 14:00 (último acceso 13:30). Lunes, cerrado.",
+      "price": "Gratis",
+      "ticketUrl": "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/agi/portada.html",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Los mercaderes que hacían negocios en las escaleras de la catedral.",
+      "sources": [
+        "https://www.juntadeandalucia.es/cultura/agendaculturaldeandalucia/espacios/archivo-de-indias",
+        "https://www.guiasevilla.com/archivo-indias",
+        "https://artsandculture.google.com/story/VgWxSE1IA2T5LQ",
+        "https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/agi/portada.html",
+        "https://www.correos.es/es/es/particulares/filatelia/productos-filatelicos/sellos/espana/2012/catedral-de-sevilla",
+        "https://es.wikipedia.org/wiki/Archivo_General_de_Indias",
+        "https://en.wikipedia.org/wiki/General_Archive_of_the_Indies"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/sevilla/sev-indias.webp",
+        "author": "Miguel Hermoso Cuesta",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Archivo_de_Indias._Fachada._01.JPG"
+      }
+    },
+    {
+      "id": "sev-torre-oro",
+      "poiId": "torre-del-oro",
+      "language": "es",
+      "title": "Torre del Oro",
+      "transcript": "Estás en el paseo de Cristóbal Colón, junto al Guadalquivir, frente a la Torre del Oro. Hace unos ochocientos años que esta torre vigila el río, y sigue aquí, plantada en la orilla, como si esperara barcos.\n\nLa levantaron los almohades entre 1220 y 1221, por orden del gobernador Abu l-Ulà. Su trabajo era defender la ciudad y controlar el río: ver quién llegaba y cerrarle el paso si hacía falta.\n\nMírala de abajo arriba, porque en realidad son tres torres en una. La base, la más ancha, tiene doce lados. Esa es la parte almohade. Encima hay un segundo cuerpo, más estrecho, que se añadió en el siglo catorce, en tiempos del rey Pedro primero. Y arriba del todo, ese remate cilíndrico con una pequeña cúpula es mucho más joven. Se puso en 1760, después de que el terremoto de Lisboa de 1755 dañara la torre, y lo construyó Sebastián Van der Borcht. En total mide unos treinta y seis metros.\n\n¿Y por qué del Oro? Aquí hay casi tantas teorías como visitantes. Se ha dicho que estaba cubierta de azulejos dorados, y también que el rey Pedro guardaba aquí su tesoro. Son leyendas. La respuesta apareció en la restauración de 2005. La torre estaba revestida con un mortero de cal y paja prensada, y ese revestimiento daba un brillo dorado al sol, reflejado en el río. El oro, al final, estaba en la luz.\n\nAhora mira el agua. En 1248, el rey Fernando tercero de Castilla tenía sitiada Sevilla. La ciudad estaba unida a Triana, al otro lado, por un puente hecho con barcas. El almirante Ramón de Bonifaz lanzó la flota castellana río arriba y rompió ese puente. Sevilla quedó aislada y acabó rindiéndose.\n\nDice la leyenda que desde esta torre salía una gran cadena que cruzaba el río hasta otra torre en la orilla de enfrente, para cerrar el paso a los barcos. Las fuentes no se ponen de acuerdo, y para algunos esa cadena no es más que un mito. Lo que sí está documentado es el puente de barcas que rompió Bonifaz.\n\nDespués de la conquista, la torre siguió teniendo oficio. Fue prisión para nobles y más tarde oficina del puerto. Desde 1944 alberga un museo marítimo. La entrada es gratis, aunque se pide una aportación voluntaria de tres euros.\n\nAntes de irte, da unos pasos por la orilla y mira la torre con el río detrás. Piensa en aquel brillo dorado sobre el agua, y en los barcos que, durante siglos, la vieron como lo primero de Sevilla.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/sevilla/sev-torre-oro.m4a",
+      "audioSizeBytes": 1213952,
+      "sha256": "ae7c94ab3a62ab398cd4e4bb677ef59097fab6127169c8457bb330f411f18c83",
+      "durationSeconds": 153,
+      "isPremium": true,
+      "latitude": 37.38265,
+      "longitude": -5.99615,
+      "geofenceRadiusMeters": 80,
+      "orderInCity": 3,
+      "lookFor": "Mira la torre de abajo arriba: la base ancha de doce lados es almohade, el cuerpo más estrecho de encima es del siglo XIV y el remate cilíndrico con su pequeña cúpula es de 1760.",
+      "didYouKnow": "El nombre no viene de ningún tesoro: la restauración de 2005 descubrió que la torre estaba revestida de mortero de cal y paja prensada, que brillaba dorado al sol.",
+      "localTip": "Dentro hay un museo marítimo con entrada gratuita y una aportación voluntaria de 3 €. El último acceso es a las 18:30.",
+      "localTipDate": "2026-11",
+      "openingHours": "Lunes a viernes, de 9:30 a 19:00 (último acceso 18:30). Sábados y domingos abre a las 10:30.",
+      "price": "Gratis, con aportación voluntaria de 3 €.",
+      "ticketUrl": "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--09museosfiliales--05museotoro--01informacion-general",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "El oro de esta torre nunca fue un tesoro: estaba en la luz.",
+      "sources": [
+        "https://armada.defensa.gob.es/ArmadaPortal/page/Portal/ArmadaEspannola/cienciaorgano/prefLang-es/01cienciamuseo--09museosfiliales--05museotoro--01informacion-general",
+        "https://sevilla.guiajando.com/museo-maritimo/",
+        "https://www.barcelo.com/guia-turismo/es/espana/sevilla/que-ver/torre-del-oro/",
+        "https://es.wikipedia.org/wiki/Torre_del_Oro",
+        "https://en.wikipedia.org/wiki/Torre_del_Oro",
+        "https://es.wikipedia.org/wiki/Museo_Mar%C3%ADtimo_de_la_Torre_del_Oro"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/sevilla/sev-torre-oro.webp",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_del_Oro,_Sevilla,_Espa%C3%B1a,_2015-12-06,_DD_71.JPG"
+      }
+    },
+    {
+      "id": "sev-alcazar",
+      "poiId": "real-alcazar",
+      "language": "es",
+      "title": "Real Alcázar",
+      "transcript": "Estás en la plaza del Triunfo, frente a la puerta del León, la entrada al Real Alcázar de Sevilla. Detrás de esta muralla hay mil años de palacios, construidos unos sobre otros.\n\nMira primero arriba, sobre el arco. Ese león de azulejo no es tan antiguo como parece. Se colocó en 1892, en el sitio donde antes había un león pintado. Lo diseñó Manuel Tortosa, con el consejo del historiador José Gestoso, y lo hizo la fábrica de cerámica Mensaque. Es un león de estilo gótico. Fíjate en lo que lleva: una cruz en la garra derecha y una bandera bajo la izquierda. Y en el pecho, una cinta con dos palabras en latín: ad utrumque. Es el comienzo de un lema que quiere decir preparado para lo uno y para lo otro.\n\nEl Alcázar nació en el siglo diez como fortaleza musulmana. En el siglo once, el rey al-Mutamid lo amplió. En 1248, Fernando tercero conquistó Sevilla y los reyes de Castilla se quedaron con el palacio. Desde entonces, cada uno fue añadiendo su parte.\n\nEl que dejó la huella más grande fue Pedro primero. En el siglo catorce mandó levantar un palacio mudéjar, y en su fachada, ya dentro del recinto, una inscripción lo dice con toda claridad: el rey mandó hacer estos alcázares, estos palacios y estas portadas. La fecha que lleva corresponde a 1364.\n\nLuego llegaron más capítulos. En 1503, los Reyes Católicos crearon aquí la Casa de Contratación, el organismo que controlaba el comercio con las Indias. Y en 1526, el emperador Carlos quinto se casó en este palacio con Isabel de Portugal.\n\nLo más sorprendente es que el Alcázar sigue vivo. Está considerado el palacio real en uso más antiguo de Europa, y cuando la familia real viene a Sevilla se aloja en sus plantas altas. En 1987, la UNESCO lo declaró Patrimonio de la Humanidad, junto con la catedral y el Archivo de Indias.\n\nY si te suena de algo, puede que sea del cine. Aquí se rodaron escenas de Lawrence de Arabia y de El reino de los cielos. En octubre de 2014, el Alcázar cerró sus puertas al público durante varias semanas para rodar la quinta temporada de Juego de tronos, en la que hizo de reino de Dorne.\n\nDentro te esperan también los llamados baños de doña María de Padilla, unas salas abovedadas bajo el patio del Crucero. Llevan su nombre, pero en realidad no tienen nada que ver con ella. Es uno de esos nombres que se quedan aunque la historia diga otra cosa.\n\nCuando salgas, lo harás por el patio de Banderas. Desde allí, las callejuelas de la vieja judería te llevan a la siguiente parada.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/sevilla/sev-alcazar.m4a",
+      "audioSizeBytes": 1280982,
+      "sha256": "7d54f9b1db313d0ac216d3a31830b817853e4a8f54638187d98fe799940fafac",
+      "durationSeconds": 160,
+      "isPremium": false,
+      "latitude": 37.3846,
+      "longitude": -5.99217,
+      "geofenceRadiusMeters": 70,
+      "orderInCity": 4,
+      "lookFor": "Sobre el arco de la puerta, busca el panel de azulejos con un león gótico: sujeta una cruz con la garra derecha, tiene una bandera bajo la izquierda y en el pecho una cinta que dice Ad utrumque.",
+      "didYouKnow": "Está considerado el palacio real en uso más antiguo de Europa: cuando la familia real visita Sevilla, se aloja en sus plantas altas.",
+      "localTip": "Se entra por esta puerta y se sale por el patio de Banderas. Compra antes la entrada en la web oficial para ahorrarte la cola.",
+      "localTipDate": "2026-11",
+      "openingHours": "Del 1 de octubre al 31 de marzo, de 9:30 a 17:00. Del 1 de abril al 30 de septiembre, de 9:30 a 19:00. Cerrado el 1 y 6 de enero, Viernes Santo y 25 de diciembre.",
+      "price": "General: 15,50 €. Reducida: 8 €, con acreditación. Gratis menores de 13 años acompañados y nacidos o residentes en Sevilla (con reserva).",
+      "ticketUrl": "https://alcazardesevilla.infoticketing.com/es",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Un palacio de mil años donde todavía duerme la familia real.",
+      "sources": [
+        "https://alcazarsevilla.org/prepara-la-visita/",
+        "https://www.alcazarsevilla.org/",
+        "https://alcazardesevilla.infoticketing.com/es/faqs",
+        "https://alcazarsevilla.org/wp-content/uploads/2025/02/BOP-ORDENANZA-PATRONATO-2025.pdf",
+        "https://visitasevilla.es/real-alcazar/",
+        "https://whichmuseum.com/museum/real-alcazar-seville-6502/tickets-prices",
+        "https://www.formulatv.com/noticias/40383/alcazar-sevilla-cierra-sus-puertas-recibir-juego-de-tronos/",
+        "https://www.periodicodeibiza.es/vips/television/2014/10/09/313686/real-alcazar-sevilla-convierte-dorne-uno-reinos-juego-tronos.html",
+        "https://es.wikipedia.org/wiki/Real_Alc%C3%A1zar_de_Sevilla",
+        "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Seville"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/sevilla/sev-alcazar.webp",
+        "author": "José Luis Filpo Cabana",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puerta_del_Le%C3%B3n,_Real_Alc%C3%A1zar_de_Sevilla.jpg"
+      }
+    },
+    {
+      "id": "sev-santa-cruz",
+      "poiId": "plaza-santa-cruz",
+      "language": "es",
+      "title": "Plaza de Santa Cruz",
+      "transcript": "Estás en la plaza de Santa Cruz, en el corazón del barrio del mismo nombre. Antes de que existiera esta plaza, aquí había una iglesia. Y en ella estaba enterrado uno de los grandes pintores de Sevilla.\n\nEmpecemos por el barrio. Estas calles fueron la judería de Sevilla. Tras la conquista cristiana de 1248, el rey Fernando tercero reunió aquí a la población judía. Todo cambió en 1391, con una violenta revuelta contra los judíos. Las sinagogas se convirtieron en iglesias, y una de ellas fue la de Santa Cruz, que estaba justo donde tú estás ahora. Lo que fue la judería es hoy el barrio de Santa Cruz y sus vecinos, Santa María la Blanca y San Bartolomé.\n\nEn 1682 enterraron en esa iglesia a Bartolomé Esteban Murillo. Pero en 1810, durante la ocupación francesa, la iglesia se derribó, y con ella se perdieron sus restos. Nadie sabe dónde están. Puede que siga bajo tus pies. Busca en la fachada del lado oeste de la plaza una lápida que lo recuerda. Tiene una curiosidad: habla de sus cenizas, aunque a Murillo nunca lo incineraron.\n\nAhora mira al centro del jardín. Esa cruz de hierro forjado es la Cruz de la Cerrajería. La hizo en 1692 el maestro Sebastián Conde, y no nació para esta plaza. Durante casi siglo y medio estuvo en la calle Sierpes, en la esquina con la calle Rioja, hasta que en 1840 la desmontaron porque estorbaba el paso. Llegó aquí tras la reforma de la plaza que proyectó Juan Talavera en 1918. Algunos historiadores dicen que su nombre correcto no es de la Cerrajería, sino de la Sierpes. Y cada Martes Santo, una réplica hecha en 1998 abre la procesión de la Hermandad de Santa Cruz.\n\nMuy cerca, el callejón del Agua corre pegado a la muralla de los jardines del Alcázar. Se llama así por las cañerías que iban dentro del muro, llevando el agua de los Caños de Carmona hasta el palacio. Y en la plaza de Doña Elvira, cuenta la tradición, estaba la casa del comendador don Gonzalo de Ulloa, el del Don Juan Tenorio de Zorrilla.\n\nHay otra leyenda más oscura, la de la calle Susona. Cuentan que Susona, hija del converso Diego Susón, delató la conjura que preparaba su padre por amor a un caballero cristiano. Dice la leyenda que su calavera acabó colgada en la puerta de su casa, y que más tarde la cambiaron por un azulejo. Hoy, en el número diez de esa calle, unos azulejos recuerdan la historia.\n\nCuando quieras, sigue por estas callejuelas hacia el norte. Te espera un palacio que tomó su nombre de un viaje a Jerusalén.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/sevilla/sev-santa-cruz.m4a",
+      "audioSizeBytes": 1270586,
+      "sha256": "3931101b2b5e69d290bedd271098102d597cfc883a9902715278810edff815e2",
+      "durationSeconds": 159,
+      "isPremium": true,
+      "latitude": 37.38519,
+      "longitude": -5.98846,
+      "geofenceRadiusMeters": 60,
+      "orderInCity": 5,
+      "lookFor": "En el centro del jardín de la plaza, busca la cruz de hierro forjado con sus faroles: es la Cruz de la Cerrajería, hecha en 1692. Luego mira la fachada del lado oeste: allí está la lápida de Murillo.",
+      "didYouKnow": "La cruz no nació aquí: estuvo en la calle Sierpes, esquina con Rioja, hasta que en 1840 la desmontaron porque estorbaba el paso.",
+      "localTip": "Para llegar desde el Alcázar, ve por el callejón del Agua, pegado a la muralla de sus jardines. Es el camino natural hasta esta plaza.",
+      "localTipDate": "2026-11",
+      "openingHours": "Plaza pública, abierta siempre.",
+      "price": "Gratis",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Murillo está enterrado bajo esta plaza, y nadie sabe dónde.",
+      "sources": [
+        "https://visitasevilla.es/en/?p=1512",
+        "https://visitasevilla.es/en/enter-the-alleyways-of-seville/",
+        "https://visitasevilla.es/en/?p=1509",
+        "https://www.timeout.com/es/sevilla/que-hacer/plaza-de-donya-elvira",
+        "https://www.hoteles.net/sevilla/calle-mas-bonita-sevilla.html",
+        "https://es.wikipedia.org/wiki/Plaza_de_Santa_Cruz_(Sevilla)",
+        "https://es.wikipedia.org/wiki/Barrio_de_Santa_Cruz_(Sevilla)",
+        "https://en.wikipedia.org/wiki/Santa_Cruz,_Seville",
+        "https://es.wikipedia.org/wiki/Murallas_de_Sevilla",
+        "https://en.wikipedia.org/wiki/Susana_Ben_Sus%C3%B3n"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/sevilla/sev-santa-cruz.webp",
+        "author": "CarlosVdeHabsburgo",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cruz_de_la_Cerrajer%C3%ADa.jpg"
+      }
+    },
+    {
+      "id": "sev-pilatos",
+      "poiId": "casa-pilatos",
+      "language": "es",
+      "title": "Casa de Pilatos",
+      "transcript": "Estás en la plaza de Pilatos, frente a la puerta de la Casa de Pilatos. El nombre suena a Evangelio, pero la historia de este palacio empieza con un matrimonio sevillano y sigue con una peregrinación.\n\nEn 1483, Pedro Enríquez y su esposa, Catalina de Ribera, adelantados mayores de Andalucía, compraron aquí unas casas. Pedro murió diez años después y fue Catalina quien dirigió las primeras obras, hasta su muerte en 1505.\n\nSu hijo, Fadrique Enríquez de Ribera, primer marqués de Tarifa, hizo el viaje de su vida. A finales de 1518 salió hacia Jerusalén y no volvió a Sevilla hasta 1520. Por el camino pasó por Italia, y regresó con el gusto del Renacimiento en la cabeza. A la vuelta quiso traer a Sevilla un pedazo de Tierra Santa: organizó un vía crucis de doce estaciones que salía de su palacio y llegaba a la Cruz del Campo. Es el origen del vía crucis de Sevilla.\n\nY de ahí viene el nombre. Según la tradición, la distancia entre este palacio y la Cruz del Campo era la misma que había en Jerusalén entre la casa de Pilatos y el Gólgota. Lo curioso es que el nombre de Casa de Pilatos no aparece en los documentos hasta mediados del siglo dieciocho. Antes de entrar, mira la fachada: en ella se ve todavía la primera estación de aquel vía crucis.\n\nAhora fíjate en la portada de mármol. Es renacentista y se encargó en 1529 a Antonio María Aprile, un artista genovés. Sube la vista hasta el remate. Allí verás tres cruces de Jerusalén, el recuerdo en piedra de aquella peregrinación.\n\nDentro, el palacio mezcla dos mundos: el Renacimiento italiano y la tradición mudéjar. Por eso se le considera el prototipo del palacio andaluz. Sus azulejos los hicieron en la década de 1530 los hermanos Diego y Juan Pulido, ceramistas de Triana. Más tarde, Per Afán de Ribera, virrey de Nápoles, trajo una colección de arte con esculturas romanas y reformó la casa para lucirla. Y en 1603, Francisco Pacheco, el maestro de Velázquez, pintó uno de sus techos.\n\nEl palacio sigue siendo hoy residencia de los duques de Medinaceli, y lo gestiona su fundación. Fue declarado Monumento Nacional en 1931.\n\nSi te parece que ya lo has visto antes, puede que sea en el cine. Aquí se rodaron escenas de Lawrence de Arabia, de 1492, de El reino de los cielos y de Noche y día.\n\nEntra si tienes tiempo. Detrás de esta puerta, en un mismo patio, conviven Italia, Triana y aquel viaje a Jerusalén que le dio nombre a la casa.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/sevilla/sev-pilatos.m4a",
+      "audioSizeBytes": 1268822,
+      "sha256": "0f279e6b10dd855420b1ca2dd204f3ce4f7dff28bb600bf221d21e2381186015",
+      "durationSeconds": 158,
+      "isPremium": true,
+      "latitude": 37.38972,
+      "longitude": -5.98702,
+      "geofenceRadiusMeters": 60,
+      "orderInCity": 6,
+      "lookFor": "Mira la portada de mármol renacentista, encargada en 1529 a un artista genovés, y sube la vista hasta el remate: allí hay tres cruces de Jerusalén, recuerdo de la peregrinación de 1518 a 1520.",
+      "didYouKnow": "El nombre de Casa de Pilatos no aparece en los documentos hasta mediados del siglo XVIII, más de dos siglos después del vía crucis que lo inspiró.",
+      "localTip": "Abre todos los días de 9:00 a 18:00. La entrada incluye guía o audioguía, y en temporada alta conviene comprarla online.",
+      "localTipDate": "2026-11",
+      "openingHours": "Todos los días, de 9:00 a 18:00.",
+      "price": "Planta baja: 12 €. Planta alta: 6 € más. Gratis menores de 11 años acompañados.",
+      "ticketUrl": "https://shop.articketing.com/monuments/casa-de-pilatos/tickets",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Un vía crucis que medía lo mismo que el camino de Pilatos al Gólgota.",
+      "sources": [
+        "https://www.fundacionmedinaceli.org/monumentos/pilatos/",
+        "https://fundacionmedinaceli.org/en/?p=223850",
+        "https://visitasevilla.es/en/pilatos-house/",
+        "https://visitasevilla.es/en/pilates-house/",
+        "https://www.vanupied.com/seville/monument-seville/seville-casa-de-pilatos.html",
+        "https://www.ticketlens.com/es/p22237213/sevilla/casa-de-pilatos",
+        "https://www.barcelo.com/guia-turismo/es/espana/sevilla/que-ver/casa-de-pilatos/",
+        "https://sevilla5.com/monuments/pilatos.html",
+        "https://es.wikipedia.org/wiki/Casa_de_Pilatos_(Sevilla)",
+        "https://en.wikipedia.org/wiki/Casa_de_Pilatos"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/sevilla/sev-pilatos.webp",
+        "author": "Anual",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fachada_Casa_Pilatos_2008001.jpg"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "sev-ruta-catedral",
+      "language": "es",
+      "title": "Catedral y río",
+      "description": "De la Giralda al Archivo de Indias y a la Torre del Oro, la torre almohade que vigilaba el Guadalquivir.",
+      "durationMinutes": 20,
+      "distanceMeters": 700,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "sev-catedral",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "sev-indias",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "sev-torre-oro",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "sev-ruta-alcazar",
+      "language": "es",
+      "title": "Alcázar, judería y Pilatos",
+      "description": "Del Real Alcázar a la plaza donde se perdió la tumba de Murillo y al palacio que nació de un viaje a Jerusalén.",
+      "durationMinutes": 20,
+      "distanceMeters": 1350,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "sev-alcazar",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "sev-santa-cruz",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "sev-pilatos",
+          "transitionAudioGuideId": null
+        }
+      ]
+    }
+  ],
+  "totalSizeBytes": 7643945
+}

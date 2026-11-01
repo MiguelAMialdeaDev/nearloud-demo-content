@@ -11,5 +11,44 @@
     "audios": [],
     "routes": [],
     "coverImageUrl": "file:///android_asset/catalog/images/valencia-cover.jpg"
+  },
+  {
+    "cityId": "sevilla",
+    "name": "Sevilla",
+    "country": "ES",
+    "centerLatitude": 37.38583,
+    "centerLongitude": -5.99312,
+    "isPremium": false,
+    "totalSizeBytes": 7643945,
+    "revision": 1,
+    "audios": [],
+    "routes": [],
+    "coverImageUrl": "file:///android_asset/catalog/images/sevilla-cover.jpg"
+  },
+  {
+    "cityId": "toledo",
+    "name": "Toledo",
+    "country": "ES",
+    "centerLatitude": 39.8581,
+    "centerLongitude": -4.0245,
+    "isPremium": false,
+    "totalSizeBytes": 6945654,
+    "revision": 1,
+    "audios": [],
+    "routes": [],
+    "coverImageUrl": "file:///android_asset/catalog/images/toledo-cover.jpg"
+  },
+  {
+    "cityId": "catarroja",
+    "name": "Catarroja",
+    "country": "ES",
+    "centerLatitude": 39.4031,
+    "centerLongitude": -0.4043,
+    "isPremium": false,
+    "totalSizeBytes": 6924200,
+    "revision": 1,
+    "audios": [],
+    "routes": [],
+    "coverImageUrl": "file:///android_asset/catalog/images/catarroja-cover.jpg"
   }
 ]

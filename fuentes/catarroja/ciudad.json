@@ -1,0 +1,248 @@
+{
+  "cityId": "catarroja",
+  "name": "Catarroja",
+  "country": "ES",
+  "centerLatitude": 39.4031,
+  "centerLongitude": -0.4043,
+  "isPremium": false,
+  "revision": 1,
+  "summary": "Catarroja vive entre la huerta y l'Albufera: un centro con un palacio barroco, un mercado de 1926 y la iglesia que pagaron los pescadores, y un Port de barcas tradicionales, vela latina y all i pebre.",
+  "food": [
+    "All i pebre: anguila de l'Albufera con patata, ajo y pimentón. Catarroja se llama a sí misma su cuna.",
+    "Arròs amb fesols i naps: arroz con alubias y nabos, un clásico de la cocina del pueblo.",
+    "Paella y arroz negro, en los restaurantes del Port.",
+    "Concurs d'Allipebre: cada septiembre en el Port, con degustación gratis para más de 2.000 personas."
+  ],
+  "funFacts": [
+    "Catarroja recibió su Carta Pobla el 28 de mayo de 1355.",
+    "El motín que empezó en Catarroja el 17 de septiembre de 1801 se extendió por tierras valencianas hasta el 2 de octubre.",
+    "Los restos más antiguos del pueblo salieron del fondo del canal del Port cuando se dragó.",
+    "El ravatxol, la barca de pasajeros del Port, cruzó el lago hasta El Palmar y El Perelló hasta mediados del siglo XX.",
+    "La iglesia de Sant Miquel se renovó con dinero de los pescadores, y las obras terminaron en 1701."
+  ],
+  "coverImageUrl": "file:///android_asset/catalog/images/catarroja-cover.jpg",
+  "_coverCommons": "https://commons.wikimedia.org/wiki/File:Port_de_Catarroja,_10.jpg",
+  "practicalGuide": {
+    "lastVerified": "11/2026",
+    "arrival": [
+      {
+        "mode": "Tren de Cercanías (C1 y C2)",
+        "price": "Según zonas",
+        "durationMin": 20,
+        "note": "Desde València Nord. La estación está en el pueblo; el Port queda a unos 3 km."
+      },
+      {
+        "mode": "Coche",
+        "price": "",
+        "durationMin": 15,
+        "note": "A unos 8 km de València. Al Port se llega por el Camí del Port."
+      }
+    ],
+    "monuments": [
+      {
+        "name": "Paseo en barca desde el Port",
+        "price": "Consultar",
+        "bookAheadDays": 0,
+        "note": "Salen del embarcador por el canal, entre arrozales. Precio y hora, con el barquero.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Tancat de la Pipa",
+        "price": "Consultar",
+        "bookAheadDays": 2,
+        "note": "Reserva de 40 hectáreas junto al lago. Solo con visita concertada antes.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Mercat de Catarroja",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Mercado de 1926. Mercadillo en la plaza los martes y viernes por la mañana.",
+        "bookingUrl": ""
+      }
+    ],
+    "luggage": [],
+    "zones": [
+      {
+        "id": "port-catarroja-comer",
+        "kind": "comer",
+        "name": "Port de Catarroja",
+        "summary": "Restaurantes del Port con cocina de l'Albufera: all i pebre de anguila y arroces de todo tipo.",
+        "tags": [
+          "All i pebre",
+          "Arroces"
+        ],
+        "bestTime": "",
+        "gettingThere": "En coche por el Camí del Port, a unos 3 km del centro del pueblo",
+        "latitude": 39.3925,
+        "longitude": -0.375
+      },
+      {
+        "id": "el-palmar-comer",
+        "kind": "comer",
+        "name": "El Palmar (L'Albufera)",
+        "summary": "Pedanía en plena Albufera con muchos restaurantes. Se viene a comer paella y all i pebre, un guiso de anguila con patata.",
+        "tags": [
+          "Paella",
+          "All i pebre"
+        ],
+        "bestTime": "",
+        "gettingThere": "Bus EMT 24 desde la Porta de la Mar, en València",
+        "latitude": 39.3116,
+        "longitude": -0.31768
+      },
+      {
+        "id": "mercat-compras",
+        "kind": "compras",
+        "name": "Mercat de Catarroja",
+        "summary": "Mercado municipal de 1926, con seis puertas. Los martes y viernes por la mañana se suma el mercadillo de la plaza.",
+        "tags": [
+          "Mercado",
+          "Mercadillo"
+        ],
+        "bestTime": "Mercadillo: martes y viernes por la mañana",
+        "gettingThere": "A unos 300 m a pie de la estación de Cercanías de Catarroja",
+        "latitude": 39.40255,
+        "longitude": -0.40131
+      },
+      {
+        "id": "port-tancat-ruta",
+        "kind": "aire_libre",
+        "name": "Del Port al Tancat de la Pipa",
+        "summary": "Camino de 3,7 km entre arrozales hasta la desembocadura del barranco en el lago. A pie o en bici, ida y vuelta, con muchas aves.",
+        "tags": [
+          "Pasear",
+          "Bici",
+          "Aves"
+        ],
+        "bestTime": "De finales de octubre a marzo y de mayo a septiembre",
+        "gettingThere": "Sale del Port de Catarroja",
+        "latitude": 39.3899,
+        "longitude": -0.3716
+      },
+      {
+        "id": "port-atardecer",
+        "kind": "aire_libre",
+        "name": "Atardecer en el Port",
+        "summary": "Pasarela de madera junto al canal y las barcas amarradas. Los barqueros ofrecen salidas en barca para ver la puesta de sol.",
+        "tags": [
+          "Atardecer",
+          "Pasear",
+          "Barca"
+        ],
+        "bestTime": "Al atardecer",
+        "gettingThere": "Al final del Camí del Port, a unos 3 km del centro del pueblo",
+        "latitude": 39.39153,
+        "longitude": -0.3737
+      },
+      {
+        "id": "tancat-de-la-pipa",
+        "kind": "aire_libre",
+        "name": "Tancat de la Pipa",
+        "summary": "Reserva de 40 hectáreas con lagunas y humedales que limpian el agua antes de llegar al lago. La visita se concierta antes.",
+        "tags": [
+          "Aves",
+          "Naturaleza"
+        ],
+        "bestTime": "Solo con visita concertada",
+        "gettingThere": "A pie o en bici desde el Port, 3,7 km entre arrozales",
+        "latitude": 39.3638,
+        "longitude": -0.3463
+      },
+      {
+        "id": "camino-del-cid-port",
+        "kind": "aire_libre",
+        "name": "Camino del Cid por el Port",
+        "summary": "Las rutas a pie y en bicicleta de montaña del Camino del Cid pasan por el Port, en el tramo entre Sedaví y Silla.",
+        "tags": [
+          "Bici",
+          "Senderismo"
+        ],
+        "bestTime": "",
+        "gettingThere": "Pasa por el Port de Catarroja",
+        "latitude": 39.3925,
+        "longitude": -0.3748
+      },
+      {
+        "id": "albufera-el-palmar",
+        "kind": "aire_libre",
+        "name": "La Albufera desde El Palmar",
+        "summary": "Lago rodeado de arrozales. Desde el embarcadero de El Palmar salen barcas por el lago, y el paseo más recomendado es al atardecer.",
+        "tags": [
+          "Atardecer",
+          "Vistas"
+        ],
+        "bestTime": "Al atardecer",
+        "gettingThere": "Bus EMT 24 desde Porta de la Mar hasta El Palmar",
+        "latitude": 39.31201,
+        "longitude": -0.31968
+      },
+      {
+        "id": "devesa-del-saler",
+        "kind": "aire_libre",
+        "name": "Devesa de El Saler",
+        "summary": "Pinar y dunas entre el mar y la Albufera. Su playa, de casi 5 km, no tiene edificios.",
+        "tags": [
+          "Bici",
+          "Nadar",
+          "Pasear"
+        ],
+        "bestTime": "Baño vigilado solo en julio y agosto",
+        "gettingThere": "Bus EMT 24 o 25 desde Porta de la Mar, en València",
+        "latitude": 39.34186,
+        "longitude": -0.31508
+      }
+    ],
+    "zoneNotes": {
+      "aire_libre": "El Port está dentro del Parc Natural de l'Albufera: sigue los caminos y consulta las épocas de caza antes de salir por el marjal."
+    },
+    "zonesLastVerified": "11/2026",
+    "nearbySearches": [
+      "All i pebre",
+      "Arroz",
+      "Esmorzaret",
+      "Paella"
+    ],
+    "dayCost": {
+      "items": [
+        {
+          "label": "Menú del día entre semana",
+          "price": "14 a 16 €",
+          "note": "Media de la Comunitat Valenciana en 2026: 15,20 €."
+        },
+        {
+          "label": "Café con leche en bar",
+          "price": "1,40 a 2,40 €",
+          "note": "Precio de referencia del área de València."
+        },
+        {
+          "label": "Caña de cerveza en bar",
+          "price": "1,50 a 3 €",
+          "note": "Precio de referencia del área de València."
+        },
+        {
+          "label": "Ruta del Port al Tancat de la Pipa",
+          "price": "Gratis",
+          "note": "3,7 km entre arrozales, a pie o en bici."
+        }
+      ],
+      "days": [
+        {
+          "label": "Un día en el Port",
+          "price": "16,90 a 21,40 €",
+          "note": "Ruta al Tancat, menú del día, café y caña. Sin contar el transporte."
+        },
+        {
+          "label": "Un día por el centro",
+          "price": "15,40 a 18,40 €",
+          "note": "Paseo por el centro, menú del día y café. Sin contar el transporte."
+        }
+      ]
+    }
+  },
+  "_coverCredit": {
+    "autor": "Vicenç Salvador Torres Guerola",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Port_de_Catarroja,_10.jpg"
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "cityId": "catarroja",
+  "name": "Catarroja",
+  "country": "ES",
+  "centerLatitude": 39.4031,
+  "centerLongitude": -0.4043,
+  "isPremium": false,
+  "revision": 1,
+  "summary": "Catarroja vive entre la huerta y l'Albufera: un centro con un palacio barroco, un mercado de 1926 y la iglesia que pagaron los pescadores, y un Port de barcas tradicionales, vela latina y all i pebre.",
+  "food": [
+    "All i pebre: anguila de l'Albufera con patata, ajo y pimentón. Catarroja se llama a sí misma su cuna.",
+    "Arròs amb fesols i naps: arroz con alubias y nabos, un clásico de la cocina del pueblo.",
+    "Paella y arroz negro, en los restaurantes del Port.",
+    "Concurs d'Allipebre: cada septiembre en el Port, con degustación gratis para más de 2.000 personas."
+  ],
+  "funFacts": [
+    "Catarroja recibió su Carta Pobla el 28 de mayo de 1355.",
+    "El motín que empezó en Catarroja el 17 de septiembre de 1801 se extendió por tierras valencianas hasta el 2 de octubre.",
+    "Los restos más antiguos del pueblo salieron del fondo del canal del Port cuando se dragó.",
+    "El ravatxol, la barca de pasajeros del Port, cruzó el lago hasta El Palmar y El Perelló hasta mediados del siglo XX.",
+    "La iglesia de Sant Miquel se renovó con dinero de los pescadores, y las obras terminaron en 1701."
+  ],
+  "coverImageUrl": "file:///android_asset/catalog/images/catarroja-cover.jpg",
+  "_coverCommons": "https://commons.wikimedia.org/wiki/File:Port_de_Catarroja,_10.jpg",
+  "practicalGuide": {
+    "lastVerified": "11/2026",
+    "arrival": [
+      {
+        "mode": "Tren de Cercanías (C1 y C2)",
+        "price": "Según zonas",
+        "durationMin": 20,
+        "note": "Desde València Nord. La estación está en el pueblo; el Port queda a unos 3 km."
+      },
+      {
+        "mode": "Coche",
+        "price": "",
+        "durationMin": 15,
+        "note": "A unos 8 km de València. Al Port se llega por el Camí del Port."
+      }
+    ],
+    "monuments": [
+      {
+        "name": "Paseo en barca desde el Port",
+        "price": "Consultar",
+        "bookAheadDays": 0,
+        "note": "Salen del embarcador por el canal, entre arrozales. Precio y hora, con el barquero.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Tancat de la Pipa",
+        "price": "Consultar",
+        "bookAheadDays": 2,
+        "note": "Reserva de 40 hectáreas junto al lago. Solo con visita concertada antes.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Mercat de Catarroja",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Mercado de 1926. Mercadillo en la plaza los martes y viernes por la mañana.",
+        "bookingUrl": ""
+      }
+    ],
+    "luggage": [],
+    "zones": [
+      {
+        "id": "port-catarroja-comer",
+        "kind": "comer",
+        "name": "Port de Catarroja",
+        "summary": "Restaurantes del Port con cocina de l'Albufera: all i pebre de anguila y arroces de todo tipo.",
+        "tags": [
+          "All i pebre",
+          "Arroces"
+        ],
+        "bestTime": "",
+        "gettingThere": "En coche por el Camí del Port, a unos 3 km del centro del pueblo",
+        "latitude": 39.3925,
+        "longitude": -0.375
+      },
+      {
+        "id": "el-palmar-comer",
+        "kind": "comer",
+        "name": "El Palmar (L'Albufera)",
+        "summary": "Pedanía en plena Albufera con muchos restaurantes. Se viene a comer paella y all i pebre, un guiso de anguila con patata.",
+        "tags": [
+          "Paella",
+          "All i pebre"
+        ],
+        "bestTime": "",
+        "gettingThere": "Bus EMT 24 desde la Porta de la Mar, en València",
+        "latitude": 39.3116,
+        "longitude": -0.31768
+      },
+      {
+        "id": "mercat-compras",
+        "kind": "compras",
+        "name": "Mercat de Catarroja",
+        "summary": "Mercado municipal de 1926, con seis puertas. Los martes y viernes por la mañana se suma el mercadillo de la plaza.",
+        "tags": [
+          "Mercado",
+          "Mercadillo"
+        ],
+        "bestTime": "Mercadillo: martes y viernes por la mañana",
+        "gettingThere": "A unos 300 m a pie de la estación de Cercanías de Catarroja",
+        "latitude": 39.40255,
+        "longitude": -0.40131
+      },
+      {
+        "id": "port-tancat-ruta",
+        "kind": "aire_libre",
+        "name": "Del Port al Tancat de la Pipa",
+        "summary": "Camino de 3,7 km entre arrozales hasta la desembocadura del barranco en el lago. A pie o en bici, ida y vuelta, con muchas aves.",
+        "tags": [
+          "Pasear",
+          "Bici",
+          "Aves"
+        ],
+        "bestTime": "De finales de octubre a marzo y de mayo a septiembre",
+        "gettingThere": "Sale del Port de Catarroja",
+        "latitude": 39.3899,
+        "longitude": -0.3716
+      },
+      {
+        "id": "port-atardecer",
+        "kind": "aire_libre",
+        "name": "Atardecer en el Port",
+        "summary": "Pasarela de madera junto al canal y las barcas amarradas. Los barqueros ofrecen salidas en barca para ver la puesta de sol.",
+        "tags": [
+          "Atardecer",
+          "Pasear",
+          "Barca"
+        ],
+        "bestTime": "Al atardecer",
+        "gettingThere": "Al final del Camí del Port, a unos 3 km del centro del pueblo",
+        "latitude": 39.39153,
+        "longitude": -0.3737
+      },
+      {
+        "id": "tancat-de-la-pipa",
+        "kind": "aire_libre",
+        "name": "Tancat de la Pipa",
+        "summary": "Reserva de 40 hectáreas con lagunas y humedales que limpian el agua antes de llegar al lago. La visita se concierta antes.",
+        "tags": [
+          "Aves",
+          "Naturaleza"
+        ],
+        "bestTime": "Solo con visita concertada",
+        "gettingThere": "A pie o en bici desde el Port, 3,7 km entre arrozales",
+        "latitude": 39.3638,
+        "longitude": -0.3463
+      },
+      {
+        "id": "camino-del-cid-port",
+        "kind": "aire_libre",
+        "name": "Camino del Cid por el Port",
+        "summary": "Las rutas a pie y en bicicleta de montaña del Camino del Cid pasan por el Port, en el tramo entre Sedaví y Silla.",
+        "tags": [
+          "Bici",
+          "Senderismo"
+        ],
+        "bestTime": "",
+        "gettingThere": "Pasa por el Port de Catarroja",
+        "latitude": 39.3925,
+        "longitude": -0.3748
+      },
+      {
+        "id": "albufera-el-palmar",
+        "kind": "aire_libre",
+        "name": "La Albufera desde El Palmar",
+        "summary": "Lago rodeado de arrozales. Desde el embarcadero de El Palmar salen barcas por el lago, y el paseo más recomendado es al atardecer.",
+        "tags": [
+          "Atardecer",
+          "Vistas"
+        ],
+        "bestTime": "Al atardecer",
+        "gettingThere": "Bus EMT 24 desde Porta de la Mar hasta El Palmar",
+        "latitude": 39.31201,
+        "longitude": -0.31968
+      },
+      {
+        "id": "devesa-del-saler",
+        "kind": "aire_libre",
+        "name": "Devesa de El Saler",
+        "summary": "Pinar y dunas entre el mar y la Albufera. Su playa, de casi 5 km, no tiene edificios.",
+        "tags": [
+          "Bici",
+          "Nadar",
+          "Pasear"
+        ],
+        "bestTime": "Baño vigilado solo en julio y agosto",
+        "gettingThere": "Bus EMT 24 o 25 desde Porta de la Mar, en València",
+        "latitude": 39.34186,
+        "longitude": -0.31508
+      }
+    ],
+    "zoneNotes": {
+      "aire_libre": "El Port está dentro del Parc Natural de l'Albufera: sigue los caminos y consulta las épocas de caza antes de salir por el marjal."
+    },
+    "zonesLastVerified": "11/2026",
+    "nearbySearches": [
+      "All i pebre",
+      "Arroz",
+      "Esmorzaret",
+      "Paella"
+    ],
+    "dayCost": {
+      "items": [
+        {
+          "label": "Menú del día entre semana",
+          "price": "14 a 16 €",
+          "note": "Media de la Comunitat Valenciana en 2026: 15,20 €."
+        },
+        {
+          "label": "Café con leche en bar",
+          "price": "1,40 a 2,40 €",
+          "note": "Precio de referencia del área de València."
+        },
+        {
+          "label": "Caña de cerveza en bar",
+          "price": "1,50 a 3 €",
+          "note": "Precio de referencia del área de València."
+        },
+        {
+          "label": "Ruta del Port al Tancat de la Pipa",
+          "price": "Gratis",
+          "note": "3,7 km entre arrozales, a pie o en bici."
+        }
+      ],
+      "days": [
+        {
+          "label": "Un día en el Port",
+          "price": "16,90 a 21,40 €",
+          "note": "Ruta al Tancat, menú del día, café y caña. Sin contar el transporte."
+        },
+        {
+          "label": "Un día por el centro",
+          "price": "15,40 a 18,40 €",
+          "note": "Paseo por el centro, menú del día y café. Sin contar el transporte."
+        }
+      ]
+    }
+  },
+  "_coverCredit": {
+    "autor": "Vicenç Salvador Torres Guerola",
+    "licencia": "CC BY-SA 3.0",
+    "pagina": "https://commons.wikimedia.org/wiki/File:Port_de_Catarroja,_10.jpg"
+  },
+  "intro": {
+    "id": "catarroja-presentacion",
+    "title": "Catarroja en 2 minutos",
+    "transcript": "Catarroja es un pueblo entre la huerta y el agua. A unos kilómetros de Valencia, su término llega hasta l'Albufera, y durante siglos su gente vivió de dos cosas: el arroz de los campos y la pesca del lago.\n\nEmpieza en la Plaça Major, frente al Palau de Vivanco, una casa barroca del siglo dieciocho que hoy es el Ayuntamiento. Catarroja recibió su Carta Pobla en 1355, plantó cara a su señor en los tribunales y, en 1801, encendió un motín que se extendió por tierras valencianas.\n\nA unos pasos está el mercado de 1926, con sus esquinas en chaflán y sus seis puertas. Y más abajo, en el barrio de pescadores de les Barraques, la iglesia de Sant Miquel, cuyas obras pagaron los propios pescadores hasta terminarlas en 1701. De ella sale cada junio Sant Pere en romería hacia el Port, y acaba en una barca en mitad del lago, donde se celebra una misa.\n\nLuego está el Port, una de las puertas de entrada a l'Albufera. Del fondo de su canal salieron los restos más antiguos del pueblo. Desde su embarcador partía el ravatxol, la barca que llevaba viajeros hasta El Palmar y El Perelló. Hoy siguen amarradas las barcas de fondo plano y, cada septiembre, las velas latinas vuelven a izarse sobre el agua. Su navegación y la pesca artesanal del lago son Bien de Interés Cultural desde 2016.\n\nAl final del canal, en las casas antiguas del Port, se come el plato del pueblo: el all i pebre, anguila con ajo, pimentón y patata. Catarroja se llama a sí misma su cuna, y cada septiembre lo celebra con un concurso y una degustación para más de dos mil personas.\n\nY está la memoria reciente. La riada del 29 de octubre de 2024 golpeó el pueblo y el Port, y la recuperación sigue en marcha.\n\nSon seis lugares y dos paseos cortos, uno en el centro y otro en el Port. La primera parada de cada paseo es gratis.",
+    "audioUrl": "file:///android_asset/catalog/audio/catarroja/catarroja-presentacion.m4a",
+    "audioSizeBytes": 979030,
+    "sha256": "a4e98569575af3dcb5f07c42f429009b52350fb9fa148c554ebd2e35209f85b1",
+    "durationSeconds": 122,
+    "narrator": ""
+  },
+  "audios": [
+    {
+      "id": "cat-vivanco",
+      "poiId": "palau-vivanco",
+      "language": "es",
+      "title": "Palau de Vivanco y Plaça Major",
+      "transcript": "Estás en la Plaça Major de Catarroja, frente al Ayuntamiento. El edificio que tienes delante es el Palau de Vivanco, una casa señorial del siglo dieciocho que hoy es la casa consistorial del pueblo. Antes de mirarlo despacio, piensa en lo que lo rodea: a un lado la huerta, al otro el lago de l'Albufera. Durante siglos, la vida de Catarroja se repartió entre esas dos cosas, la tierra y el agua.\n\nCatarroja empezó siendo una alquería musulmana. Tras la conquista cristiana, el rey Jaime I la donó a un caballero, y en el siglo catorce pasó a manos de la familia Dalmau. Uno de ellos, Berenguer Dalmau, se negó a pagar el diezmo a la Iglesia de Valencia, con el apoyo del pueblo, y acabó excomulgado. Bajo esa misma familia, el 28 de mayo de 1355, Catarroja recibió su Carta Pobla, el documento que fijaba los derechos y las obligaciones de sus vecinos. Después, el señorío pasó a los Sangonera en el siglo quince y a los Calatayud en el dieciséis.\n\nEl carácter del pueblo se ve en sus pleitos. En 1631 el rey Felipe IV concedió a su señor, Ximén Pérez de Calatayud, el poder de juzgar todas las causas del lugar. Los vecinos se opusieron, pleitearon, y el proceso acabó dándoles la razón. Y el 17 de septiembre de 1801 empezó aquí un motín, seguramente por los derechos que se pagaban al señor, que se extendió por tierras valencianas hasta el 2 de octubre.\n\nAhora mira el palacio. Es una casa barroca del siglo dieciocho, el mismo siglo en que se levantó el puente de piedra sobre el barranco, en 1767. Fíjate en el balcón principal, donde ondean las banderas, y en cómo la casa domina la plaza con su fachada clara y sus rejas. Está protegida como Bien de Interés Cultural, la máxima protección del patrimonio.\n\nEste edificio guarda también una memoria reciente. El 29 de octubre de 2024, el barranco del Poyo se desbordó y el agua entró en las calles de Catarroja. El pueblo perdió a vecinos, y muchas casas y garajes quedaron dañados. El puente de 1767 que une Catarroja con Massanassa sufrió daños graves. Desde entonces, la reconstrucción marca la vida municipal: para hacer frente a los daños, el presupuesto de 2025 creció en unos diez millones de euros, hasta superar los treinta y ocho millones.\n\nCuando quieras, camina hacia la plaza del Mercat. Allí te espera un edificio de los años veinte con seis puertas.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/catarroja/cat-vivanco.m4a",
+      "audioSizeBytes": 1232850,
+      "sha256": "7d2a9c55ead8de21257bed38c7799b057f5fb0ec578ba629a1e3d3d48feaf864",
+      "durationSeconds": 155,
+      "isPremium": false,
+      "latitude": 39.4031,
+      "longitude": -0.4043,
+      "geofenceRadiusMeters": 80,
+      "orderInCity": 1,
+      "lookFor": "En la fachada del Palau de Vivanco, busca el balcón principal con las banderas: es el centro de la casa señorial que hoy ocupa el Ayuntamiento.",
+      "didYouKnow": "El motín que empezó en Catarroja el 17 de septiembre de 1801 se extendió por tierras valencianas y no terminó hasta el 2 de octubre.",
+      "localTip": "El Ayuntamiento está en el Camí Reial, 22, con entrada por la Plaça Major. Desde aquí, el Port queda a unos tres kilómetros por el Camí del Port.",
+      "localTipDate": "2026-11",
+      "openingHours": "",
+      "price": "Gratis: se ve desde la plaza.",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Un pueblo que pleiteó contra su señor y ganó, y un palacio barroco hoy Ayuntamiento.",
+      "sources": [
+        "https://www.catarroja.es/va/pagina/historia-catarroja",
+        "https://turisme.dival.es/en/destino/catarroja/",
+        "https://es.wikipedia.org/wiki/Catarroja",
+        "https://ca.wikipedia.org/wiki/Catarroja",
+        "https://www.comunitatvalenciana.com/valencia/catarroja",
+        "https://www.eldiario.es/comunitat-valenciana/noche-ano-duro-alcaldesa-catarroja-durante-riada-ayuntamiento-refugio_1_12702385.html",
+        "https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/la-alcaldesa-de-catarroja-lamenta-que-el-dia-a-dia-no-es-nada-normal-medio-ano-despues-de-la-dana",
+        "https://www.elperiodic.com/catarroja/ayuntamiento-catarroja-aprueba-presupuesto-millones-euros-centrados-recuperacion-tras-dana_994496",
+        "https://valencianews.es/comarcas/la-generalitat-reabre-el-puente-que-une-catarroja-con-massanassa-tras-invertir-500-000-euros/",
+        "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Palau+de+Vivanco,+Catarroja"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/catarroja/cat-vivanco.webp",
+        "author": "Zarateman",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catarroja_-_Ayuntamiento_1.jpg"
+      }
+    },
+    {
+      "id": "cat-mercat",
+      "poiId": "mercat",
+      "language": "es",
+      "title": "Mercat de Catarroja",
+      "transcript": "Estás en la plaza del Mercat, delante del mercado municipal de Catarroja. Míralo con calma antes de entrar. El edificio es de 1926 y tiene una planta rectangular con las esquinas cortadas en chaflán. En la esquina que tienes delante se abre una puerta bajo un gran arco. En total, el mercado tiene seis puertas. Cuéntalas mientras le das la vuelta: es la mejor manera de entender su forma.\n\nFíjate también en los colores. Las paredes claras contrastan con el rojo oscuro de los pilares y los zócalos, y en lo alto de las esquinas hay pequeños remates con tejado.\n\nEste mercado nació en un pueblo hecho de barrios con oficios muy distintos. A principios del siglo veinte, Catarroja tenía unas mil setecientas casas repartidas en tres barriadas. En les Barraques vivían sobre todo los pescadores de l'Albufera. En el Centre, la gente del campo. Y en el Raval se fabricaban escobas y se comerciaba con tela. Cada barrio tenía su vida, y la compra los juntaba a todos.\n\nLo que más pesaba en la mesa era el arroz. En el siglo dieciocho el pueblo creció, y con él los aterraments, los rellenos con los que se le ganaba tierra al lago para sembrar arroz. Así nació buena parte del paisaje de marjal que rodea Catarroja. Catarroja sigue siendo uno de los municipios que más arroz aporta a la Denominación de Origen Arròs de València. Por eso en sus cocinas mandan los arroces: la paella, el arroz con alubias y nabos, que aquí llaman arròs amb fesols i naps, y el arroz negro. Y por encima de todos, un guiso que no lleva arroz: el all i pebre, de anguila, ajo, pimentón y patata. Catarroja lo considera suyo, y tiene registrada la marca que la llama cuna del all i pebre.\n\nLos martes y los viernes por la mañana la plaza cambia. Alrededor del edificio se monta el mercadillo semanal en la plaza. Si vienes uno de esos días, date una vuelta entre los puestos antes de seguir.\n\nY si entras en el mercado, fíjate en los puestos de verdura y de pescado. Son el mismo paisaje que verás luego en la huerta y en el lago, pero colocado en cajas.\n\nLa siguiente parada está muy cerca. Camina hacia el sur, hacia el barrio más antiguo del pueblo, les Barraques. Allí, en una plaza pequeña, te espera la iglesia de Sant Miquel, la que pagaron los pescadores.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/catarroja/cat-mercat.m4a",
+      "audioSizeBytes": 1122645,
+      "sha256": "8d02782b17f52c1fa53c43f33dace2cfafc37aaf16336e8443160cf31407ec8e",
+      "durationSeconds": 141,
+      "isPremium": true,
+      "latitude": 39.40255,
+      "longitude": -0.40131,
+      "geofenceRadiusMeters": 70,
+      "orderInCity": 2,
+      "lookFor": "Busca una de las esquinas en chaflán: la puerta se abre bajo un gran arco, entre pilares de color rojo oscuro.",
+      "didYouKnow": "A principios del siglo XX Catarroja tenía 1.723 casas en tres barriadas: Barraques, de pescadores; Centre, de labradores; y Raval, de escobas y telas.",
+      "localTip": "Los martes y los viernes por la mañana hay mercadillo en la plaza. Si quieres verlo con ambiente, ven esos días antes del mediodía.",
+      "localTipDate": "2026-11",
+      "openingHours": "Mercadillo en la plaza: martes y viernes por la mañana.",
+      "price": "Entrada libre.",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Un mercado de 1926 con seis puertas y las esquinas cortadas en chaflán.",
+      "sources": [
+        "https://es.wikipedia.org/wiki/Catarroja",
+        "https://turisme.dival.es/en/destino/catarroja/",
+        "https://www.urbipedia.org/hoja/Catarroja",
+        "https://www.comunitatvalenciana.com/en/valencia/catarroja/where-to-go-shopping/mercat-de-catarroja",
+        "https://mercadillos.org/es/catarroja/mercadillo-catarroja",
+        "https://www.catarroja.es/va/pagina/historia-catarroja",
+        "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+        "https://www.catarroja.es/va/pagina/port-que-fer",
+        "https://portdecatarroja.com/conociendo-el-port/",
+        "https://portdecatarroja.com/gastronomia/",
+        "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Mercat+Municipal,+Catarroja"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/catarroja/cat-mercat.webp",
+        "author": "Enrique Íñiguez Rodríguez (Qoan)",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catarroja._Mercat_1.jpg"
+      }
+    },
+    {
+      "id": "cat-sant-miquel",
+      "poiId": "sant-miquel",
+      "language": "es",
+      "title": "Iglesia de Sant Miquel",
+      "transcript": "Estás en la plaza de la Llotgeta, frente a la iglesia de Sant Miquel. A tu alrededor está les Barraques, el barrio más antiguo de Catarroja, el de los pescadores. Durante siglos, de estas calles salía la gente que vivía del lago.\n\nEsa forma de vida tiene papeles muy antiguos. En 1250, el rey Jaime I autorizó la pesca en l'Albufera. Hoy siguen existiendo en el lago tres comunidades de pescadores: la de El Palmar, la de Silla y la de Catarroja.\n\nLa iglesia que tienes delante es obra suya en más de un sentido. Aquí hubo un templo anterior. A finales del siglo diecisiete empezaron las obras para renovarlo. Las pagaron los pescadores de Catarroja, y terminaron en 1701. Piénsalo un momento: la pesca de todo un barrio convertida en piedra.\n\nMira la portada. Es de piedra labrada, y en lo alto, sobre la puerta, hay una hornacina con una pequeña figura. Luego busca el campanario. Asoma por encima de los tejados del barrio, y desde las calles de alrededor se ve aparecer entre las casas bajas.\n\nLa comunidad de pescadores es la asociación más antigua de Catarroja, y su santo es Sant Pere. Esta plaza es el punto de partida de una de las fiestas más queridas del pueblo. Cada año, a finales de junio, por Sant Pere, el santo de los pescadores, la imagen sale de esta iglesia en romería y recorre los caminos de siempre hasta el Port. Allí la suben a una barca y la llevan hasta el centro de l'Albufera, donde se celebra una misa. Quien quiere asistir, llega también en barca. Y el 30 de junio, el barrio entero celebra el Dia del Gos, con paellas y disfraces por la calle.\n\nEn septiembre le toca al patrón, Sant Miquel. Sus fiestas coinciden con el final de la siega del arroz, y son también las de Moros y Cristianos: embajadas, bandas de música y la gran entrada por las calles del pueblo, que es el acto que más gente reúne.\n\nAsí, esta iglesia une los dos mundos de Catarroja. La fiesta del santo patrón llega con la cosecha de los campos, y la del santo de los pescadores termina en mitad del lago.\n\nAquí acaba el paseo por el centro. Si quieres ver de dónde venía todo esto, el Port de Catarroja está a unos tres kilómetros, al final del Camí del Port, entre arrozales.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/catarroja/cat-sant-miquel.m4a",
+      "audioSizeBytes": 1107045,
+      "sha256": "b28b919fd8baa593320df6c83380b417ee94cde31664708f7830b7c0313b1988",
+      "durationSeconds": 139,
+      "isPremium": true,
+      "latitude": 39.4003,
+      "longitude": -0.402,
+      "geofenceRadiusMeters": 70,
+      "orderInCity": 3,
+      "lookFor": "Sobre la puerta de piedra labrada, busca la hornacina con una pequeña figura. Luego levanta la vista hacia el campanario.",
+      "didYouKnow": "La romería de Sant Pere sale de esta iglesia y termina en el centro de l'Albufera, con una misa a la que se llega en barca.",
+      "localTip": "Si vienes a finales de junio, pregunta por la romería de Sant Pere: la imagen sale de esta iglesia hacia el Port y el barrio celebra el Dia del Gos.",
+      "localTipDate": "2026-11",
+      "openingHours": "",
+      "price": "Gratis.",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "La iglesia que pagaron los pescadores, de donde Sant Pere sale cada junio al lago.",
+      "sources": [
+        "https://www.catarroja.es/va/pagina/historia-catarroja",
+        "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+        "https://turisme.dival.es/en/destino/catarroja/",
+        "https://es.wikipedia.org/wiki/Catarroja",
+        "https://ca.wikipedia.org/wiki/Catarroja",
+        "https://www.elperiodic.com/val/catarroja/catarroja-celebra-sant-pere-port-homenatge-anys-comu-pescadors-lalbufera_1080755",
+        "https://www.catarroja.es/va/pagina/port-que-fer",
+        "https://portdecatarroja.com/eventos-singulares/sant-pere/",
+        "https://portdecatarroja.com/eventos-singulares/concurso-de-allipebre/",
+        "https://www.eltemps.cat/documents/el-temps_1999_07_0787_0056_0060.pdf",
+        "https://www.eltemps.cat/documents/el-temps_1998_07_0733_0036_0038.pdf",
+        "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera",
+        "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Esglesia+de+Sant+Miquel,+Catarroja"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/catarroja/cat-sant-miquel.webp",
+        "author": "Enrique Íñiguez Rodríguez (Qoan)",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catarroja._Esgl%C3%A9sia_de_Sant_Miquel._Portada.jpg"
+      }
+    },
+    {
+      "id": "cat-embarcador",
+      "poiId": "embarcador-port",
+      "language": "es",
+      "title": "Embarcador del Port",
+      "transcript": "Estás en el embarcador del Port de Catarroja, sobre la pasarela de madera que bordea el canal. Mira el agua. Este canal es una de las puertas de entrada a l'Albufera, el gran lago de agua dulce rodeado de arrozales. Durante siglos, cuando los caminos de tierra no daban para más, Catarroja se comunicaba con los pueblos del lago por agua, y este puerto era el lugar donde todo se encontraba.\n\nEl puerto es muy antiguo. Hubo uno anterior, más pequeño, que se quedó corto. En el siglo dieciséis se proyectó el Camí del Port, el camino por el que seguramente has llegado, y el puerto quedó en este canal, que corre casi paralelo al barranco.\n\nBajo el agua está lo más viejo de Catarroja. Cuando se dragó el canal, del fondo salieron los restos más antiguos que se conocen del pueblo. Hoy se exponen en el centro de interpretación del parque natural de l'Albufera.\n\nDurante siglos, por aquí salió buena parte de la pesca y del arroz de l'Albufera. Y a finales del siglo diecinueve el puerto ganó otro oficio. Desde este embarcador partían barcas de pasajeros y de mercancías hacia otros pueblos de la orilla. La más conocida era el ravatxol, que hasta mediados del siglo veinte cruzaba el lago hasta El Palmar y El Perelló. Imagina el muelle con sacos de arroz, cestas de pescado y viajeros esperando su barca.\n\nEste lugar también ha vivido días muy duros. El 29 de octubre de 2024, la riada del barranco del Poyo llegó hasta l'Albufera cargada de plásticos y de restos de todo tipo, y el Port fue una de las zonas afectadas. Durante muchos meses hubo máquinas trabajando para limpiar los canales y las orillas.\n\nHoy el embarcador es el eje del Port y de su paseo. Por aquí pasan también las rutas del Camino del Cid, a pie y en bicicleta de montaña. De aquí salen las barcas que llevan a los visitantes por el canal, entre arrozales, hacia el lago. Si quieres subir a una, pregunta a los barqueros del Port: ellos te dirán cuándo salen y cuánto cuesta. Y si puedes, quédate hasta el atardecer. Con el sol bajo, el canal se vuelve un espejo y las barcas parecen flotar sobre el cielo.\n\nAhora sigue la pasarela canal abajo. Unos metros más allá, las barcas tradicionales esperan amarradas en fila, y cada una tiene su forma por algo.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/catarroja/cat-embarcador.m4a",
+      "audioSizeBytes": 1108549,
+      "sha256": "3951b6ee7e8e17df4b6d2b50c11acb64786de5dfd8d6b502a8d5dc3bfdaaf869",
+      "durationSeconds": 140,
+      "isPremium": false,
+      "latitude": 39.39153,
+      "longitude": -0.3737,
+      "geofenceRadiusMeters": 80,
+      "orderInCity": 4,
+      "lookFor": "Busca la pasarela de madera que corre junto al canal: desde aquí salen las barcas que llevan a los visitantes hacia el lago.",
+      "didYouKnow": "El ravatxol, la barca de pasajeros del Port, cruzó el lago hasta El Palmar y El Perelló desde finales del siglo XIX hasta mediados del XX.",
+      "localTip": "Para subir a una barca, habla con los barqueros del Port y pregunta el precio antes de salir. Al atardecer, el paseo por la pasarela es muy tranquilo.",
+      "localTipDate": "2026-11",
+      "openingHours": "",
+      "price": "Gratis. Los paseos en barca se pagan aparte, a los barqueros.",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "La puerta de Catarroja a l'Albufera, de donde salía el ravatxol hacia El Palmar.",
+      "sources": [
+        "https://www.catarroja.es/va/seccion/el-puerto-de-catarroja",
+        "https://www.catarroja.es/va/pagina/port-que-fer",
+        "https://www.catarroja.es/va/pagina/historia-catarroja",
+        "https://portdecatarroja.com/conociendo-el-port/",
+        "https://portdecatarroja.com/paseos-en-barca/",
+        "https://es.wikipedia.org/wiki/Catarroja",
+        "https://ca.wikipedia.org/wiki/Catarroja",
+        "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+        "https://www.comunitatvalenciana.com/valencia/catarroja",
+        "https://turisme.dival.es/en/destino/catarroja/",
+        "https://donporque.com/investigan-un-vertido-en-catarroja/",
+        "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera",
+        "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+        "https://www.komoot.com/highlight/4489802",
+        "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Embarcadero+Port+de+Catarroja"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/catarroja/cat-embarcador.webp",
+        "author": "Vicenç Salvador Torres Guerola",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_de_Catarroja.jpg"
+      }
+    },
+    {
+      "id": "cat-barques",
+      "poiId": "barques-vela-llatina",
+      "language": "es",
+      "title": "Barcas y vela latina",
+      "transcript": "Estás junto a los amarres del Port, donde las barcas tradicionales esperan en fila. Acércate al borde y mira una de cerca. Fíjate en el fondo: es casi plano y no tiene quilla. No es un capricho. L'Albufera es un lago muy poco profundo, y una barca con quilla tocaría el fondo enseguida.\n\nEn l'Albufera la vida no se entendía sin barca. Servía para pescar, para cazar, para llevar la cosecha y para ir de un pueblo a otro. Según el trabajo se construían barcas distintas, y sus nombres todavía se oyen en el Port: la barca, el barquet, el barquetot, el marimatxo y el ravatxol.\n\nAlrededor de ellas vivían varios oficios. El carpintero de ribera, al que aquí llaman mestre d'aixa, daba forma a la madera. El calafat sellaba las juntas para que no entrara el agua. Y estaban también el velero, que cosía las velas, y el cordelero. Con el tiempo llegaron las carreteras y las barcas dejaron de ser el transporte de todos. Hoy esos oficios están en manos de muy pocos, que los conservan por herencia o por pura afición.\n\nBusca una barca con un palo largo apoyado encima. Es la perxa, la pértiga con la que se empuja la barca apoyándola en el fondo. Desde fuera parece fácil, pero hace falta mucha práctica. Entre los aparejos de pesca del lago están también los mornells, unas nasas para atrapar anguilas.\n\nPero la barca más bonita del lago es la de vela latina, con su vela triangular. Hay noticias de esta forma de navegar en l'Albufera desde el siglo dieciséis. Cada septiembre, la exhibición de vela latina del Port abre de manera oficiosa las fiestas de Sant Miquel. Llegan barcas de Silla, de El Palmar y del propio Catarroja, y navegan por categorías: desde las barcas de más de ocho metros y medio hasta los barquets, los más pequeños, que exigen más habilidad al patrón. Imagina decenas de velas triangulares izándose a la vez sobre el agua.\n\nDesde 2016, la pesca artesanal y la navegación a vela latina en l'Albufera son Bien de Interés Cultural Inmaterial. Es el reconocimiento a algo que aquí nunca se dejó de hacer, y que se ha ido enseñando de padres a hijos.\n\nLa riada de 2024 también llegó a estos canales, y limpiarlos ha costado muchos meses de trabajo. Que las barcas sigan aquí, amarradas y listas, es parte de esa recuperación.\n\nSigue la pasarela hasta el final del canal. Allí se conservan las casas más antiguas del Port.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/catarroja/cat-barques.m4a",
+      "audioSizeBytes": 1190031,
+      "sha256": "f96937f99d45540aa6720b5f724299619290d2179e33c687a6291d03ef86e4a1",
+      "durationSeconds": 149,
+      "isPremium": true,
+      "latitude": 39.39034,
+      "longitude": -0.3729,
+      "geofenceRadiusMeters": 60,
+      "orderInCity": 5,
+      "lookFor": "Busca una barca con una pértiga larga apoyada encima: es la perxa. Fíjate también en el fondo plano, sin quilla.",
+      "didYouKnow": "La pesca artesanal y la navegación a vela latina en l'Albufera son Bien de Interés Cultural Inmaterial desde 2016.",
+      "localTip": "Si vienes en septiembre, busca la fecha de la exhibición de vela latina del Port: abre de manera oficiosa las fiestas de Sant Miquel.",
+      "localTipDate": "2026-11",
+      "openingHours": "",
+      "price": "Gratis.",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Barcas sin quilla, pértigas y velas latinas que son patrimonio desde 2016.",
+      "sources": [
+        "https://www.catarroja.es/va/pagina/port-tradicions",
+        "https://www.catarroja.es/va/pagina/port-que-fer",
+        "https://portdecatarroja.com/paseos-en-barca/",
+        "https://portdecatarroja.com/vela-latina/",
+        "https://es.wikipedia.org/wiki/Catarroja",
+        "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera",
+        "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+        "https://boe.es/boe/dias/2016/12/07/pdfs/BOE-A-2016-11664.pdf",
+        "https://donporque.com/investigan-un-vertido-en-catarroja/"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/catarroja/cat-barques.webp",
+        "author": "Vicenç Salvador Torres Guerola",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_de_Catarroja,_5.jpg"
+      }
+    },
+    {
+      "id": "cat-cases-port",
+      "poiId": "cases-port",
+      "language": "es",
+      "title": "Las casas del Port",
+      "transcript": "Estás al final del paseo del Port, junto a las casas más antiguas del canal. Mira a tu alrededor. Aquí se conservan Casa Sulema, Casa Baina y Casa Primitiva, tres edificios que se salvaron de la especulación. De las tres, la que mejor guarda su aspecto singular es Casa Sulema.\n\nHoy el Port es también un lugar para comer, y tiene todo el sentido. El plato que se asocia a este canal es el all i pebre, un guiso de anguila con patata en el que mandan dos ingredientes, el ajo y el pimentón. Era cocina de pescadores, hecha con lo que daba el lago. Aquí también se cocinan arroces de todo tipo, desde la paella hasta el arroz negro.\n\nCatarroja se llama a sí misma cuna del all i pebre, y lo celebra cada año. En septiembre, durante las fiestas de Sant Miquel, el Port acoge el Concurs d'Allipebre, que se celebra desde hace más de cuarenta y cinco años. Se presentan unos ciento cincuenta concursantes, y el jurado lo forman los miembros de la comunidad de pescadores, herederos de quienes crearon el plato. Ese día, el Ayuntamiento ofrece una degustación gratuita para más de dos mil personas.\n\nAhora mira más allá de las casas, hacia el horizonte. Los campos que ves son marjal, tierra ganada al lago durante siglos para cultivar arroz. El paisaje cambia con las estaciones. En invierno los campos están inundados y reflejan el cielo. En mayo se siembra el arroz, y en junio todo es verde. Al final del verano se siega, y en septiembre el Port celebra la fiesta de la siega del arroz, con demostraciones de cómo se segaba y se trillaba antes.\n\nDesde el Port sale una ruta de 3,7 kilómetros entre arrozales hasta la desembocadura del barranco en el lago, junto al Tancat de la Pipa. El Tancat es una reserva de cuarenta hectáreas, con lagunas y humedales que limpian el agua antes de que llegue a l'Albufera. La ruta se puede hacer a pie o en bici, y es de ida y vuelta por el mismo camino. Lleva prismáticos: en el marjal hay muchas aves. Si quieres entrar en el Tancat, tendrás que concertar la visita antes.\n\nY si vienes a finales de junio, quizá veas pasar por este canal la barca que lleva a Sant Pere hasta el centro del lago. Es la misma imagen que salió de la iglesia de Sant Miquel, en el barrio de los pescadores. El pueblo y el lago, unidos por el mismo camino de agua.\n\nAquí termina el paseo. Quédate un rato mirando el canal: el lago empieza donde acaba la vista.",
+      "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/main/audio/catarroja/cat-cases-port.m4a",
+      "audioSizeBytes": 1163080,
+      "sha256": "6e0312302a138e6e2b3c5e9304b53a3c7155816b3b1187ccf01a19f8841d1409",
+      "durationSeconds": 146,
+      "isPremium": true,
+      "latitude": 39.38985,
+      "longitude": -0.3716,
+      "geofenceRadiusMeters": 70,
+      "orderInCity": 6,
+      "lookFor": "Al fondo, donde el canal se abre entre la vegetación y los campos, empieza el camino de agua hacia el lago.",
+      "didYouKnow": "El Concurs d'Allipebre de Catarroja reúne cada septiembre a unos 150 concursantes, y el jurado son los pescadores del pueblo.",
+      "localTip": "Para entrar en el Tancat de la Pipa hay que concertar la visita antes. Si haces la ruta, lleva prismáticos y agua: después del Port hay muy poca sombra.",
+      "localTipDate": "2026-11",
+      "openingHours": "",
+      "price": "Gratis.",
+      "ticketUrl": "",
+      "author": "",
+      "reviewedAt": "2026-11-01",
+      "narrator": "",
+      "teaser": "Las casas del Port que se salvaron, y el all i pebre del pueblo que se llama su cuna.",
+      "sources": [
+        "https://turisme.dival.es/en/destino/catarroja/",
+        "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+        "https://es.wikipedia.org/wiki/Catarroja",
+        "https://ca.wikipedia.org/wiki/Catarroja",
+        "https://www.catarroja.es/va/pagina/port-que-fer",
+        "https://www.catarroja.es/va/pagina/port-tradicions",
+        "https://portdecatarroja.com/gastronomia/",
+        "https://portdecatarroja.com/eventos-singulares/concurso-de-allipebre/",
+        "https://portdecatarroja.com/rutas-y-senderismo/",
+        "https://portdecatarroja.com/tancat-de-la-pipa/",
+        "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+        "https://www.elperiodic.com/val/catarroja/catarroja-celebra-sant-pere-port-homenatge-anys-comu-pescadors-lalbufera_1080755",
+        "https://www.catarroja.es/va/pagina/historia-catarroja"
+      ],
+      "verifiedOnSite": false,
+      "image": {
+        "url": "file:///android_asset/catalog/images/catarroja/cat-cases-port.webp",
+        "author": "Carlesmari",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%27albufera_al_Port_de_Catarroja_VLC.JPG"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "id": "cat-ruta-centro",
+      "language": "es",
+      "title": "El centro de Catarroja",
+      "description": "Del Palau de Vivanco al mercado de 1926 y a la iglesia que pagaron los pescadores de les Barraques.",
+      "durationMinutes": 15,
+      "distanceMeters": 650,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "cat-vivanco",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "cat-mercat",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "cat-sant-miquel",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "cat-ruta-port",
+      "language": "es",
+      "title": "El Port y sus barcas",
+      "description": "Del embarcador del que salía el ravatxol a las barcas de vela latina y las casas antiguas del Port.",
+      "durationMinutes": 10,
+      "distanceMeters": 350,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "cat-embarcador",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "cat-barques",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "cat-cases-port",
+          "transitionAudioGuideId": null
+        }
+      ]
+    }
+  ],
+  "totalSizeBytes": 6924200
+}

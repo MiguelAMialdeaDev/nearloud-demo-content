@@ -1,0 +1,662 @@
+{
+  "verifiedOn": "2026-11-01",
+  "lugares": {
+    "cat-vivanco": [
+      {
+        "fact": "El Palau de Vivanco (Camí Reial, 22, acceso por la Plaça Major) es hoy el Ayuntamiento.",
+        "urls": [
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://www.catarroja.es/va/seccion/el-puerto-de-catarroja",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Palau+de+Vivanco,+Catarroja"
+        ]
+      },
+      {
+        "fact": "Casa barroca del siglo XVIII (la casa senyorial de Vivanco se construyó en el XVIII).",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://ca.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Declarada Bien de Interés Cultural.",
+        "urls": [
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://ca.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Alquería donada por Jaime I a Pelegrí d'Atrossillo; en el siglo XIV pasó a Berenguer Dalmau.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Berenguer Dalmau, apoyado por el pueblo, se negó a pagar el diezmo y fue excomulgado.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Carta Pobla del 28 de mayo de 1355.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Señorío de los Sangonera en el siglo XV y de los Calatayud en el XVI.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "1631: Felipe IV concede a Ximén Pérez de Calatayud el Privilegio del Mero y Mixto Imperio; el pleito se decanta a favor del pueblo.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Motín del 17 de septiembre al 2 de octubre de 1801, posiblemente por los derechos señoriales.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Puente de piedra de 1767 sobre el barranco entre Catarroja y Massanassa, con daños graves en la DANA.",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://valencianews.es/comarcas/la-generalitat-reabre-el-puente-que-une-catarroja-con-massanassa-tras-invertir-500-000-euros/",
+          "https://turisme.dival.es/en/destino/catarroja/"
+        ]
+      },
+      {
+        "fact": "29 de octubre de 2024: el barranco del Poyo se desbordó e inundó Catarroja.",
+        "urls": [
+          "https://www.eldiario.es/comunitat-valenciana/noche-ano-duro-alcaldesa-catarroja-durante-riada-ayuntamiento-refugio_1_12702385.html",
+          "https://donporque.com/investigan-un-vertido-en-catarroja/",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "El pueblo perdió a vecinos (24 víctimas según elDiario.es; Valencia Plaza habla de pérdidas humanas sin cifra).",
+        "urls": [
+          "https://www.eldiario.es/comunitat-valenciana/noche-ano-duro-alcaldesa-catarroja-durante-riada-ayuntamiento-refugio_1_12702385.html",
+          "https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/la-alcaldesa-de-catarroja-lamenta-que-el-dia-a-dia-no-es-nada-normal-medio-ano-despues-de-la-dana"
+        ]
+      },
+      {
+        "fact": "Garajes y viviendas dañados; garajes sin rehabilitar meses después.",
+        "urls": [
+          "https://www.eldiario.es/comunitat-valenciana/noche-ano-duro-alcaldesa-catarroja-durante-riada-ayuntamiento-refugio_1_12702385.html",
+          "https://valenciaplaza.com/valenciaplaza/comarca-y-empresa/la-alcaldesa-de-catarroja-lamenta-que-el-dia-a-dia-no-es-nada-normal-medio-ano-despues-de-la-dana"
+        ]
+      },
+      {
+        "fact": "Presupuesto municipal de 2025: 38.145.030,25 €, 10 millones más que el previsto, por la DANA.",
+        "urls": [
+          "https://www.elperiodic.com/catarroja/ayuntamiento-catarroja-aprueba-presupuesto-millones-euros-centrados-recuperacion-tras-dana_994496",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      }
+    ],
+    "cat-mercat": [
+      {
+        "fact": "Mercado municipal de 1926 en la plaza del Mercat (la Viquipèdia en catalán dice 1927; se usa 1926, que dan las otras dos).",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://www.urbipedia.org/hoja/Catarroja"
+        ]
+      },
+      {
+        "fact": "Planta rectangular con esquinas en chaflán y seis puertas.",
+        "urls": [
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://www.urbipedia.org/hoja/Catarroja"
+        ]
+      },
+      {
+        "fact": "Mercadillo en la plaza los martes y viernes por la mañana (Comunitat Valenciana añade el jueves y abre a las 7:00; Mercadillos.org, de 8:00 a 14:00; se dejan solo los días y la franja en que coinciden).",
+        "urls": [
+          "https://www.comunitatvalenciana.com/en/valencia/catarroja/where-to-go-shopping/mercat-de-catarroja",
+          "https://mercadillos.org/es/catarroja/mercadillo-catarroja"
+        ]
+      },
+      {
+        "fact": "A principios del siglo XX, 1.723 casas y tres barriadas: Barraques (pesca), Centre (agricultura), Raval (escobas y tela).",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas"
+        ]
+      },
+      {
+        "fact": "Aterraments del siglo XVIII para ganar tierra al lago y cultivar arroz.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Catarroja es de los municipios que más arroz aportan a la DO Arròs de València.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/conociendo-el-port/"
+        ]
+      },
+      {
+        "fact": "Paella, arròs amb fesols i naps y arròs negre; all i pebre de anguila, ajo, pimentón y patata.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/gastronomia/",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Marca registrada 'Catarroja, Bressol de l'Allipebre'.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/eventos-singulares/concurso-de-allipebre/"
+        ]
+      }
+    ],
+    "cat-sant-miquel": [
+      {
+        "fact": "La iglesia está en la plaza de la Llotgeta, en el barrio de les Barraques, el más antiguo, de pescadores.",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Esglesia+de+Sant+Miquel,+Catarroja",
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "1250: Jaime I autoriza la pesca en l'Albufera.",
+        "urls": [
+          "https://www.eltemps.cat/documents/el-temps_1999_07_0787_0056_0060.pdf",
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera"
+        ]
+      },
+      {
+        "fact": "Tres comunidades de pescadores en el lago: El Palmar, Silla y Catarroja.",
+        "urls": [
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera",
+          "https://www.eltemps.cat/documents/el-temps_1998_07_0733_0036_0038.pdf"
+        ]
+      },
+      {
+        "fact": "Obras de la iglesia, empezadas en el siglo XVII sobre un templo anterior, pagadas por los pescadores y terminadas en 1701.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "La comunidad de pescadores es la asociación más antigua de Catarroja.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/eventos-singulares/concurso-de-allipebre/"
+        ]
+      },
+      {
+        "fact": "Romería de Sant Pere: la imagen sale de Sant Miquel / del casco antiguo hacia el Port, se lleva en barca al centro del lago y allí se dice misa; se asiste en barca.",
+        "urls": [
+          "https://www.elperiodic.com/val/catarroja/catarroja-celebra-sant-pere-port-homenatge-anys-comu-pescadors-lalbufera_1080755",
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://portdecatarroja.com/eventos-singulares/sant-pere/"
+        ]
+      },
+      {
+        "fact": "Sant Pere el 29 de junio y Dia del Gos el 30, con paellas y disfraces; última semana de junio.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://portdecatarroja.com/eventos-singulares/sant-pere/"
+        ]
+      },
+      {
+        "fact": "Fiestas de Sant Miquel en septiembre, con la siega del arroz, y Moros y Cristianos con embajadas, bandas y la Gran Entrada, el acto más multitudinario.",
+        "urls": [
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://ca.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "El Port está a unos 3 km del centro (medido entre la plaza y el embarcador en OpenStreetMap).",
+        "urls": [
+          "https://www.openstreetmap.org/",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Port+de+Catarroja"
+        ]
+      }
+    ],
+    "cat-embarcador": [
+      {
+        "fact": "El Port es uno de los principales accesos a l'Albufera; el embarcador es el eje del Port y del paseo.",
+        "urls": [
+          "https://www.catarroja.es/va/seccion/el-puerto-de-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://www.comunitatvalenciana.com/valencia/catarroja"
+        ]
+      },
+      {
+        "fact": "Puerto de agua dulce, con pasarela de madera junto al canal.",
+        "urls": [
+          "https://www.comunitatvalenciana.com/valencia/catarroja",
+          "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+          "https://www.komoot.com/highlight/4489802"
+        ]
+      },
+      {
+        "fact": "El Camí del Port se proyectó en el siglo XVI, cuando el puerto original se quedó pequeño.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "El canal corre casi paralelo al barranco de Xiva.",
+        "urls": [
+          "https://ca.wikipedia.org/wiki/Catarroja",
+          "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas"
+        ]
+      },
+      {
+        "fact": "Los restos más antiguos de Catarroja salieron del dragado del canal y se exponen en el centro de interpretación del parque.",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas"
+        ]
+      },
+      {
+        "fact": "De aquí salía gran parte de la pesca y el arroz de l'Albufera.",
+        "urls": [
+          "https://portdecatarroja.com/conociendo-el-port/",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Ravatxol: barcas de pasajeros y mercancías hasta El Palmar y El Perelló, de finales del XIX a mediados del XX.",
+        "urls": [
+          "https://portdecatarroja.com/conociendo-el-port/",
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://www.catarroja.es/va/pagina/port-tradicions"
+        ]
+      },
+      {
+        "fact": "La riada del 29-O llevó a l'Albufera plásticos y restos; el Port fue zona afectada y durante meses hubo máquinas limpiando canales y orillas.",
+        "urls": [
+          "https://donporque.com/investigan-un-vertido-en-catarroja/",
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera"
+        ]
+      },
+      {
+        "fact": "Desde el Port salen paseos en barca por el canal.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/paseos-en-barca/",
+          "https://www.comunitatvalenciana.com/valencia/catarroja"
+        ]
+      },
+      {
+        "fact": "Las rutas a pie y BTT del Camino del Cid pasan por el Port.",
+        "urls": [
+          "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+          "https://www.openstreetmap.org/"
+        ]
+      }
+    ],
+    "cat-barques": [
+      {
+        "fact": "Barcas de fondo plano y sin quilla porque el lago es poco profundo.",
+        "urls": [
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera",
+          "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+          "https://www.catarroja.es/va/pagina/port-tradicions"
+        ]
+      },
+      {
+        "fact": "Tipos de barca: barca, barquet, barquetot, marimatxo, ravatxol.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-tradicions",
+          "https://portdecatarroja.com/paseos-en-barca/"
+        ]
+      },
+      {
+        "fact": "Oficios: mestre d'aixa, calafat, veler y cordeller; hoy en manos de pocos, por herencia o afición, tras la llegada de las carreteras.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-tradicions",
+          "https://portdecatarroja.com/paseos-en-barca/",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "La perxa sirve para empujar la barca.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera"
+        ]
+      },
+      {
+        "fact": "Mornells: nasas para anguilas.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-tradicions",
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera"
+        ]
+      },
+      {
+        "fact": "Datos históricos de la vela latina desde el siglo XVI.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/vela-latina/"
+        ]
+      },
+      {
+        "fact": "Exhibición de vela latina en septiembre con barcas de Silla, El Palmar y Catarroja, que abre oficiosamente las fiestas de Sant Miquel; categorías desde más de 8,5 m hasta los barquets.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/vela-latina/"
+        ]
+      },
+      {
+        "fact": "Decreto 164/2016: pesca artesanal y navegación a vela latina en l'Albufera, BIC Inmaterial.",
+        "urls": [
+          "https://boe.es/boe/dias/2016/12/07/pdfs/BOE-A-2016-11664.pdf",
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera"
+        ]
+      },
+      {
+        "fact": "La riada llegó a los canales y su limpieza duró meses.",
+        "urls": [
+          "https://valenciaplaza.com/revistaplaza/volver-a-navegar-lalbufera",
+          "https://donporque.com/investigan-un-vertido-en-catarroja/"
+        ]
+      }
+    ],
+    "cat-cases-port": [
+      {
+        "fact": "Casa Sulema, Casa Baina y Casa Primitiva se conservan, salvadas de la especulación; Casa Sulema es la más singular.",
+        "urls": [
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+          "https://ca.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "En el Port hay restaurantes de cocina de l'Albufera (all i pebre y arroces); Wikipedia dice que las tres casas son restaurantes, pero OpenStreetMap marca Casa Sulema como casa museo, así que el texto no lo afirma.",
+        "urls": [
+          "https://es.wikipedia.org/wiki/Catarroja",
+          "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124"
+        ]
+      },
+      {
+        "fact": "All i pebre: anguila y patata, con ajo y pimentón; cocina de pescadores.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/gastronomia/",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Concurs d'Allipebre cada septiembre desde hace más de 45 años, unos 150 concursantes, jurado de la comunidad de pescadores, degustación gratis para más de 2.000 personas.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/eventos-singulares/concurso-de-allipebre/"
+        ]
+      },
+      {
+        "fact": "Aterraments para ganar tierra al lago y cultivar arroz.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Ciclo del arroz: campos inundados en invierno, siembra en mayo, verdes en junio, siega a final de verano.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-tradicions",
+          "https://es.wikipedia.org/wiki/Catarroja"
+        ]
+      },
+      {
+        "fact": "Fiesta de la siega del arroz en septiembre en el Port, con artes antiguas de siega y trilla.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/eventos-singulares/siega-del-arroz/"
+        ]
+      },
+      {
+        "fact": "Ruta de 3,7 km del Port a la desembocadura del barranco junto al Tancat de la Pipa; a pie o en bici; ida y vuelta; con prismáticos; poca sombra.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/rutas-y-senderismo/"
+        ]
+      },
+      {
+        "fact": "Tancat de la Pipa: 40 ha, lagunas y humedales que mejoran el agua; visitas concertadas antes.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/tancat-de-la-pipa/"
+        ]
+      }
+    ]
+  },
+  "presentacion": "Cada dato sale de las seis historias y lleva las fuentes de su lugar.",
+  "ciudad": {
+    "summary_food_funFacts": "Mismas fuentes que los lugares: Carta Pobla y motín (cat-vivanco), mercado (cat-mercat), Sant Miquel (cat-sant-miquel), restos del canal y ravatxol (cat-embarcador), all i pebre y concurso (cat-cases-port).",
+    "cover": [
+      "https://commons.wikimedia.org/wiki/File:Port_de_Catarroja,_10.jpg"
+    ],
+    "arrival": [
+      {
+        "fact": "Cercanías C1 y C2 paran en Catarroja desde València Nord.",
+        "urls": [
+          "https://www.redtransporte.com/valencia/transporte-publico-catarroja.html",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_C-2_(Cercan%C3%ADas_Valencia)"
+        ]
+      },
+      {
+        "fact": "Unos 20 minutos de viaje (Omio 18 a 24 min; Trip.com 17 a 26 min).",
+        "urls": [
+          "https://www.omio.es/trenes/valencia/catarroja-qc5zt",
+          "https://uk.trip.com/trains/spain/route/valencia-estacio-del-nord-to-catarroja"
+        ]
+      },
+      {
+        "fact": "Billete por zonas (Renfe cobra según las zonas recorridas). No se pudo confirmar en qué zona está Catarroja, así que no se da precio.",
+        "urls": [
+          "https://www.renfe.com/es/es/cercanias/cercanias-valencia/tarifas",
+          "https://www.redtransporte.com/valencia/cercanias-renfe/linea-c-1.html"
+        ]
+      },
+      {
+        "fact": "Catarroja está a unos 8 km de València; el Port, a unos 15 minutos del centro de València.",
+        "urls": [
+          "https://turisme.dival.es/en/destino/catarroja/",
+          "https://portdecatarroja.com/conociendo-el-port/"
+        ]
+      },
+      {
+        "fact": "Al Port se llega por el Camí del Port.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/historia-catarroja",
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Cami+del+Port,+Catarroja"
+        ]
+      }
+    ],
+    "monuments": [
+      {
+        "fact": "Hay paseos en barca desde el Port.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/paseos-en-barca/"
+        ]
+      },
+      {
+        "fact": "Tancat de la Pipa, 40 ha, visita concertada con unos días de antelación.",
+        "urls": [
+          "https://www.catarroja.es/va/pagina/port-que-fer",
+          "https://portdecatarroja.com/tancat-de-la-pipa/"
+        ]
+      }
+    ],
+    "zones": {
+      "port-catarroja-comer": [
+        {
+          "fact": "Restaurantes de cocina albuferenca en el Port: all i pebre y arroces.",
+          "urls": [
+            "https://www.catarroja.es/va/pagina/port-que-fer",
+            "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+            "https://www.inclusion.gob.es/web/cartaespana/w/catarroja-naranjas-arrozales-y-huertas",
+            "https://es.wikipedia.org/wiki/Catarroja"
+          ]
+        }
+      ],
+      "el-palmar-comer": [
+        {
+          "fact": "Mismas fuentes que la zona el-palmar-comer de Valencia (fuentes/valencia/zonas-fuentes.json).",
+          "urls": [
+            "https://www.visitvalencia.com/que-ver-valencia/el-palmar",
+            "https://es.wikipedia.org/wiki/El_Palmar_(Valencia)"
+          ]
+        }
+      ],
+      "mercat-compras": [
+        {
+          "fact": "Mercado de 1926, seis puertas; mercadillo martes y viernes por la mañana.",
+          "urls": [
+            "https://turisme.dival.es/en/destino/catarroja/",
+            "https://www.urbipedia.org/hoja/Catarroja",
+            "https://www.comunitatvalenciana.com/en/valencia/catarroja/where-to-go-shopping/mercat-de-catarroja",
+            "https://mercadillos.org/es/catarroja/mercadillo-catarroja"
+          ]
+        },
+        {
+          "fact": "Distancia a la estación medida en OpenStreetMap.",
+          "urls": [
+            "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Estacio+de+Catarroja",
+            "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Mercat+Municipal,+Catarroja"
+          ]
+        }
+      ],
+      "port-tancat-ruta": [
+        {
+          "fact": "3,7 km, a pie o en bici, ida y vuelta, aves; época recomendada de finales de octubre a principios de marzo y de mayo a septiembre.",
+          "urls": [
+            "https://www.catarroja.es/va/pagina/port-que-fer",
+            "https://portdecatarroja.com/rutas-y-senderismo/"
+          ]
+        }
+      ],
+      "port-atardecer": [
+        {
+          "fact": "Pasarela de madera junto al canal; paseo al atardecer; salidas en barca para ver la puesta de sol.",
+          "urls": [
+            "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+            "https://www.komoot.com/highlight/4489802",
+            "https://portdecatarroja.com/paseos-en-barca/"
+          ]
+        }
+      ],
+      "tancat-de-la-pipa": [
+        {
+          "fact": "Reserva de 40 ha con lagunas y humedales; visita concertada.",
+          "urls": [
+            "https://www.catarroja.es/va/pagina/port-que-fer",
+            "https://portdecatarroja.com/tancat-de-la-pipa/"
+          ]
+        }
+      ],
+      "camino-del-cid-port": [
+        {
+          "fact": "Rutas a pie y BTT del Camino del Cid por el Port, entre Sedaví y Silla.",
+          "urls": [
+            "http://www.caminodelcid.org/en/servicios/port-of-catarroja-2718124",
+            "https://www.openstreetmap.org/search?query=GR%20160%20Camino%20del%20Cid%20BTT"
+          ]
+        }
+      ],
+      "albufera-el-palmar": [
+        {
+          "fact": "Mismas fuentes que la zona albufera-el-palmar de Valencia.",
+          "urls": [
+            "https://www.visitvalencia.com/que-ver-valencia/el-palmar",
+            "https://es.wikipedia.org/wiki/Albufera_de_Valencia"
+          ]
+        }
+      ],
+      "devesa-del-saler": [
+        {
+          "fact": "Mismas fuentes que la zona devesa-del-saler de Valencia.",
+          "urls": [
+            "https://www.visitvalencia.com/va/que-veure-valencia/el-saler",
+            "https://es.wikipedia.org/wiki/Dehesa_del_Saler"
+          ]
+        }
+      ],
+      "zoneNotes.aire_libre": [
+        {
+          "fact": "El Port está en el Parc Natural; consultar épocas de caza y normas del parque.",
+          "urls": [
+            "https://www.catarroja.es/va/pagina/port-que-fer",
+            "https://www.komoot.com/highlight/4489802"
+          ]
+        }
+      ]
+    },
+    "dayCost": {
+      "Menú del día entre semana": [
+        "https://www.xataka.com/magnet/hosteleros-han-subido-menu-dia-rozar-15-euros-no-esta-claro-que-eso-vaya-a-salvarlo-su-crisis-existencial",
+        "https://www.menorca.info/balears/noticias/2025/11/25/2518907/extremadura-galicia-estas-son-comunidades-menu-del-dia-mas-barato.html"
+      ],
+      "Café con leche en bar": [
+        "https://valenciamove.com/valencia-coffee-guide/",
+        "https://www.numbeo.com/cost-of-living/in/Valencia"
+      ],
+      "Caña de cerveza en bar": [
+        "https://radicalstorage.com/travel/is-valencia-expensive/",
+        "https://m.centralbar.es/bedidas"
+      ],
+      "Ruta del Port al Tancat de la Pipa": [
+        "https://www.catarroja.es/va/pagina/port-que-fer",
+        "https://portdecatarroja.com/rutas-y-senderismo/"
+      ],
+      "_arithmetic": "Estimación propia, no es un dato publicado. Un día en el Port: menú 14 a 16 + café 1,40 a 2,40 + caña 1,50 a 3 + ruta 0 = 16,90 a 21,40 €. Un día por el centro: menú 14 a 16 + café 1,40 a 2,40 = 15,40 a 18,40 €. Café y caña son precios del área de València, no de Catarroja."
+    }
+  },
+  "descartados": [
+    "Precio de los paseos en barca desde el Port: solo lo da el Club de Producte, en páginas de 2023 que no coinciden (60 o 70 € por barca, 6 a 8 € por persona en grupos de 10).",
+    "Precio del tren: Renfe cobra por zonas y no se pudo confirmar la zona de Catarroja.",
+    "Metrovalencia: Catarroja no tiene metro; se llega en Cercanías Renfe C1 y C2.",
+    "Líneas de autobús MetroBus a Catarroja y al Port: las noticias no coinciden en recorridos.",
+    "Aparcamiento en el Port: solo aparece en OpenStreetMap.",
+    "El Ayuntamiento como refugio de más de 200 personas la noche de la DANA, y la cifra de 24 víctimas en Catarroja: solo elDiario.es.",
+    "Reconstrucción del puente de 1767 terminada en junio de 2025 por 500.000 €: solo Valencia News.",
+    "Limpieza de más de 109.000 toneladas de residuos en Catarroja, terminada en mayo de 2026: solo Don Porque.",
+    "Palau de Vivanco: propiedad de Viuda de Vivanco y Ortiz hasta 1914 (solo Wikipedia); construido para comerciar con seda, aceite y vino, y fachada neoclásica (solo Diputació de València).",
+    "Sant Miquel: autores Felipe Serrano y Bernardo Pons, destrucción en la Guerra Civil y reconstrucción desde 1940 (solo Wikipedia); una sola nave con pilastras corintias (solo Carta de España); el catálogo municipal la fecha en 1730.",
+    "Mercado: 1.491 m² (solo Wikipedia en castellano); la Viquipèdia lo da como modernista de 1927.",
+    "Port romano de hace casi 2.000 años (solo el Club de Producte) y vela latina desde el siglo II a. C. (el Club copia el texto municipal; no se incluye).",
+    "Fósiles de moluscos de unos 8.000 años en el canal: solo Wikipedia.",
+    "Exhibición de vela latina a 10 € por persona y curso de 80 €: solo el Club de Producte.",
+    "Mercadillo: horario de 7:00 o de 8:00 a 14:00 y si abre el jueves; las fuentes no coinciden.",
+    "775 años del Comú de Pescadors celebrados en 2026: no cuadra con 1250 y solo lo da El Periòdic.",
+    "Horario del Tancat de la Pipa: solo el Club de Producte.",
+    "Menú de 31 € del Port y precio del all i pebre: sin segunda fuente.",
+    "Concurso de Allipebre desde 1971 (solo Wikipedia; el Ayuntamiento dice más de 45 años).",
+    "Moros y Cristianos como Fiesta de Interés Turístico Local desde 2019: solo Viquipèdia.",
+    "Duración en coche de unos 15 minutos: solo el Club de Producte (se deja, con la distancia de 8 km de la Diputació)."
+  ]
+}
