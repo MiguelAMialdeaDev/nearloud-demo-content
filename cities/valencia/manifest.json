@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 12,
+  "revision": 13,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. La valenciana no lleva marisco; la de marisco es otro plato.",
@@ -895,7 +895,7 @@
       "audioSizeBytes": 1493660,
       "sha256": "2ba3d4a95abdc3e96ed2251c7285e66bce828ad0a383956185ec7ac92e04c0e2",
       "durationSeconds": 188,
-      "isPremium": true,
+      "isPremium": false,
       "latitude": 39.47457,
       "longitude": -0.37895,
       "geofenceRadiusMeters": 50,
@@ -1028,7 +1028,7 @@
       "audioSizeBytes": 1471915,
       "sha256": "6cecdf2398f71822f0f2cc0bb4cd366e887a532e6649c208e20e60ec14716bc9",
       "durationSeconds": 186,
-      "isPremium": true,
+      "isPremium": false,
       "latitude": 39.47283,
       "longitude": -0.37467,
       "geofenceRadiusMeters": 50,
@@ -1319,7 +1319,7 @@
       "audioSizeBytes": 1487820,
       "sha256": "b04ad09291f1358e76af4c72983dd9cec77118c87dbcb9673fb0b8a063f78e84",
       "durationSeconds": 187,
-      "isPremium": true,
+      "isPremium": false,
       "latitude": 39.47026,
       "longitude": -0.36395,
       "geofenceRadiusMeters": 50,
@@ -1466,7 +1466,7 @@
       "audioSizeBytes": 1480196,
       "sha256": "690ffb8abecbcee5e64f4cd276e992b5da7e7937d3aab34086435e7c9539ac23",
       "durationSeconds": 187,
-      "isPremium": true,
+      "isPremium": false,
       "latitude": 39.47132,
       "longitude": -0.32986,
       "geofenceRadiusMeters": 50,
@@ -2196,7 +2196,7 @@
       "audioSizeBytes": 1492860,
       "sha256": "c0ab0f0fd60cee81bcb07e652290eccfd9bb1adbb322a4229193629d9790f28d",
       "durationSeconds": 188,
-      "isPremium": true,
+      "isPremium": false,
       "latitude": 39.47692,
       "longitude": -0.37685,
       "geofenceRadiusMeters": 50,
@@ -2797,9 +2797,9 @@
       "id": "val-ruta-seda",
       "language": "es",
       "title": "Seda, mercado y muralla",
-      "description": "Del Mercado Central a la Lonja de la Seda y a las Torres de Quart, que aún guardan las marcas de los cañones de 1808.",
-      "durationMinutes": 30,
-      "distanceMeters": 850,
+      "description": "Del Mercado Central a la Lonja, la seda y las Torres de Quart, y al final el Jardín Botánico y el Museo de Prehistoria.",
+      "durationMinutes": 45,
+      "distanceMeters": 1770,
       "difficulty": "easy",
       "coverImageUrl": null,
       "isPremium": false,
@@ -2816,7 +2816,197 @@
         },
         {
           "orderIndex": 2,
+          "audioGuideId": "val-museo-seda",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 3,
           "audioGuideId": "val-quart",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 4,
+          "audioGuideId": "val-jardin-botanico",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 5,
+          "audioGuideId": "val-museo-prehistoria",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "val-ruta-plazas",
+      "language": "es",
+      "title": "Plazas escondidas",
+      "description": "De los Santos Juanes a la Plaza Redonda, la torre de Santa Catalina y un palacio con un circo romano en el sótano.",
+      "durationMinutes": 30,
+      "distanceMeters": 670,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "val-santos-juanes",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "val-plaza-redonda",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "val-santa-catalina",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 3,
+          "audioGuideId": "val-san-juan-hospital",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 4,
+          "audioGuideId": "val-hortensia-herrero",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "val-ruta-palacios",
+      "language": "es",
+      "title": "Palacios y estaciones",
+      "description": "Del palacio de Dos Aguas al Patriarca, la plaza del Ayuntamiento, la Estación del Norte y el Mercado de Colón.",
+      "durationMinutes": 40,
+      "distanceMeters": 1500,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "val-dos-aguas",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "val-patriarca",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "val-plaza-ayuntamiento",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 3,
+          "audioGuideId": "val-estacion-norte",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 4,
+          "audioGuideId": "val-mercado-colon",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "val-ruta-carmen",
+      "language": "es",
+      "title": "El Carmen y la muralla",
+      "description": "Del Palau de la Generalitat a San Nicolás, la muralla árabe, las Rocas del Corpus y el Museo de Bellas Artes.",
+      "durationMinutes": 35,
+      "distanceMeters": 960,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "val-palau-generalitat",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "val-san-nicolas",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "val-carmen-muralla",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 3,
+          "audioGuideId": "val-casa-rocas",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 4,
+          "audioGuideId": "val-bellas-artes",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "val-ruta-turia",
+      "language": "es",
+      "title": "Por el viejo cauce",
+      "description": "Por el jardín del Turia, del Puente del Mar a la Ciudad de las Artes y las Ciencias y el Oceanogràfic.",
+      "durationMinutes": 60,
+      "distanceMeters": 2710,
+      "difficulty": "medium",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "val-turia",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "val-puentes-turia",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 2,
+          "audioGuideId": "val-museo-fallero",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 3,
+          "audioGuideId": "val-ciudad-artes",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 4,
+          "audioGuideId": "val-oceanografic",
+          "transitionAudioGuideId": null
+        }
+      ]
+    },
+    {
+      "id": "val-ruta-mar",
+      "language": "es",
+      "title": "El mar",
+      "description": "Las casas de azulejo del Cabanyal y las Atarazanas, cinco naves góticas junto al mar.",
+      "durationMinutes": 25,
+      "distanceMeters": 1150,
+      "difficulty": "easy",
+      "coverImageUrl": null,
+      "isPremium": false,
+      "points": [
+        {
+          "orderIndex": 0,
+          "audioGuideId": "val-cabanyal",
+          "transitionAudioGuideId": null
+        },
+        {
+          "orderIndex": 1,
+          "audioGuideId": "val-atarazanas",
           "transitionAudioGuideId": null
         }
       ]
