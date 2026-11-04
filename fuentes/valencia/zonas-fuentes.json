@@ -53,6 +53,13 @@
           "https://nominatim.openstreetmap.org/search?format=jsonv2&q=El+Palmar,+Valencia",
           "https://es.wikipedia.org/wiki/El_Palmar_(Valencia)"
         ]
+      },
+      {
+        "fact": "Revisión del 1 de noviembre de 2026: se pone 'EMT 24 o 25 desde la Porta de la Mar' (comparten tramo hasta el desvío de El Palmar). Confirmar en emtvalencia.es",
+        "urls": [
+          "https://www.valencia.es/es/-/refuerzo-emt-pobles-del-sud-val%C3%A8ncia",
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar"
+        ]
       }
     ],
     "arenas-malvarrosa-comer": [
@@ -87,6 +94,30 @@
         ]
       },
       {
+        "fact": "Coordenadas: Platja del Cabanyal (Las Arenas)",
+        "urls": [
+          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Playa+de+las+Arenas,+Valencia",
+          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa"
+        ]
+      }
+    ],
+    "cabanyal-comer": [
+      {
+        "fact": "El Cabanyal es el barrio marinero de casas de azulejo, junto a la playa del Cabanyal",
+        "urls": [
+          "https://www.visitvalencia.com/que-ver-valencia/poblados-maritimos-playas-y-marina-real/barrio-cabanal",
+          "https://es.wikipedia.org/wiki/El_Caba%C3%B1al"
+        ]
+      },
+      {
+        "fact": "Casa Montaña (Bodega Casa Montaña) está en el Cabanyal, calle José Benlliure 69, no en primera línea; se fundó en 1836",
+        "urls": [
+          "https://www.valenciabonita.es/2017/01/08/casa-montana-valencia/",
+          "https://www.visitvalencia.com/que-ver-valencia/poblados-maritimos-playas-y-marina-real/barrio-cabanal",
+          "https://elespanol.com/cocinillas/actualidad-gastronomica/20231108/mejor-bar-vinos-espana-encuentra-taberna-centenaria-valencia/807919499_0.html"
+        ]
+      },
+      {
         "fact": "'Bodega Montaña' figura en el listado oficial de comercios emblemáticos (distrito Poblats Marítims)",
         "urls": [
           "https://sede.valencia.es/sede/descarga/doc/DOCUMENT_1_20250008120704",
@@ -101,10 +132,31 @@
         ]
       },
       {
-        "fact": "Coordenadas: Platja del Cabanyal (Las Arenas)",
+        "fact": "Vermut en el Cabanyal: fiestas del vermut del barrio en febrero y abril de 2026",
         "urls": [
-          "https://nominatim.openstreetmap.org/search?format=jsonv2&q=Playa+de+las+Arenas,+Valencia",
-          "https://es.wikipedia.org/wiki/Playa_de_la_Malvarrosa"
+          "https://www.valenciabonita.es/2026/04/20/fiesta-del-vermut-cabanyal-abril-2026/",
+          "https://www.valenciabonita.es/2026/02/05/fiesta-del-vermut-cabanyal-febrero-2026/"
+        ]
+      },
+      {
+        "fact": "Clóchinas solo en temporada (de mayo a agosto según unas fuentes, desde abril según otras: CONFLICTO, por eso el texto dice 'en temporada')",
+        "urls": [
+          "https://blog.visitvalencia.com/en/clochina-season-is-here",
+          "https://www.valenciabonita.es/2026/04/06/clochina-de-valencia-temporada-2026/"
+        ]
+      },
+      {
+        "fact": "Tranvía L4 y L6 hacia la playa, con parada en Cabanyal",
+        "urls": [
+          "https://www.metrovalencia.es/es/consulta-estaciones/",
+          "https://es.wikipedia.org/wiki/L%C3%ADnea_6_(Metrovalencia)"
+        ]
+      },
+      {
+        "fact": "Coordenadas del barrio del Cabanyal (Wikipedia, recogidas en la revisión del 1 de noviembre de 2026)",
+        "urls": [
+          "https://es.wikipedia.org/wiki/El_Caba%C3%B1al",
+          "https://www.visitvalencia.com/que-ver-valencia/poblados-maritimos-playas-y-marina-real/barrio-cabanal"
         ]
       }
     ],
@@ -1014,6 +1066,13 @@
         "urls": [
           "https://nominatim.openstreetmap.org/search?q=Embarcadero%20El%20Palmar%20Valencia&format=json"
         ]
+      },
+      {
+        "fact": "Revisión del 1 de noviembre de 2026: gettingThere pasa a 'EMT 24 o 25', igual que la zona el-palmar-comer",
+        "urls": [
+          "https://www.valencia.es/es/-/refuerzo-emt-pobles-del-sud-val%C3%A8ncia",
+          "https://www.visitvalencia.com/que-ver-valencia/el-palmar"
+        ]
       }
     ]
   },
@@ -1166,7 +1225,7 @@
         "mode": "Metro (líneas 3 y 5)",
         "price": "4,80 €",
         "durationMin": 25,
-        "note": "Billete AB+, más 1,10 € de la tarjeta de cartón la primera vez. Pasa cada 15 o 20 min.",
+        "note": "Billete AB+, más 1,10 € de la tarjeta de cartón la primera vez. Pasa cada 15 o 20 min. Con la Valencia Tourist Card va incluido.",
         "sources": [
           "https://www.metrovalencia.es/es/nuestras-tarifas/",
           "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-llegar/conexiones-aereas",
@@ -1174,7 +1233,8 @@
           "https://www.aena.es/es/valencia/como-llegar/metro.html",
           "https://www.spain.info/es/avion/aeropuerto-valencia/",
           "https://www.airporttransferportal.com/airport-guides/vlc/cost-to-city",
-          "https://www.cestee.es/aueropuerto/valencia-vlc/como-llegar"
+          "https://www.cestee.es/aueropuerto/valencia-vlc/como-llegar",
+          "https://www.visitvalencia.com/shop/valencia-tourist-card/valencia-tourist-card"
         ],
         "supuesto": false
       },
@@ -1198,14 +1258,15 @@
         "mode": "Bus metropolitano 150",
         "price": "4,80 €",
         "durationMin": 50,
-        "note": "Billete en el bus. Acaba en Av. de l'Oest. No circula domingos ni festivos; de noche va la 150N.",
+        "note": "Billete en el bus. Acaba en Av. de l'Oest. No circula domingos ni festivos; de noche va la 150N. Incluido en la Valencia Tourist Card.",
         "sources": [
           "https://transviago.com/tarifas-fernanbus/",
           "https://www.aena.es/es/valencia/como-llegar/autobus.html",
           "https://www.spain.info/es/avion/aeropuerto-valencia/",
           "https://metgovalencia.com/wp-content/uploads/2026/07/Linea_150-con-verano.pdf",
           "https://metgovalencia.com/wp-content/uploads/2025/09/Linea-150N-v2.pdf",
-          "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-llegar/conexiones-aereas"
+          "https://www.visitvalencia.com/planifica-tu-viaje-a-valencia/como-llegar/conexiones-aereas",
+          "https://www.visitvalencia.com/shop/valencia-tourist-card/valencia-tourist-card"
         ],
         "supuesto": false
       }
@@ -1214,33 +1275,34 @@
       {
         "name": "Radical Storage",
         "area": "Comercios junto a Joaquín Sorolla, Estació del Nord y el centro",
-        "price": "3,40 € al día por maleta",
+        "price": "Desde unos 2 a 4 € por maleta y día",
         "sources": [
           "https://radicalstorage.com/es/consigna-equipaje/valencia",
           "https://radicalstorage.com/es/consigna-equipaje/valencia/valencia-joaquin-sorolla"
         ],
-        "supuesto": false
+        "supuesto": true
       },
       {
         "name": "Bounce",
         "area": "Comercios del centro y junto a Estació del Nord",
-        "price": "3,50 € al día por maleta",
+        "price": "Desde unos 2 a 4 € por maleta y día",
         "sources": [
           "https://es.bounce.com/luggage-storage/valencia",
           "https://es.bounce.com/luggage-storage/valencia/valencia-nord"
         ],
-        "supuesto": false
+        "supuesto": true
       }
     ],
     "notes": "METRO: 4,90 € pasa a 4,80 € (billete sencillo AB+, tabla oficial de metrovalencia.es) más 1,10 € de la tarjeta SUMA de cartón, que se compra una sola vez y es recargable (la de plástico cuesta 2,20 €). La reducción del 40 % hasta el 31/12/2026 no afecta al billete sencillo, solo a SUMA 10 y abonos. Duración: 25 min se mantiene (unos 21 min hasta Xàtiva según cestee y visitvalencia, 25 según aeropuertosdelmundo y airporttransferportal). Frecuencia 15 min laborables y 20 min fines de semana (Aena y spain.info). TAXI: el texto actual es FALSO. No existe tarifa fija ni cerrada aeropuerto y centro: la Orden 8/2025 (DOGV 11/09/2025) solo fija tarifas de taxímetro y la Resolución de 18/12/2025 (DOGV 30/12/2025) actualiza importes para 2026: tarifa 1 (laborables 7 a 21 h) 2,00 € de bajada y 1,36 €/km; tarifa 2 (noches, fines de semana y festivos) 2,60 € y 1,48 €/km; mínimo desde el aeropuerto 12,50 €. Suplemento por salir del aeropuerto 5,40 € (Orden 8/2025 y spain.info). Hay que quitar el consejo de \"si el taxímetro marca mucho más, recuérdalo\". El rango 20 a 30 € es estimación (aeropuertos.net 20 a 30, cestee unos 30, y cuadra con las tarifas oficiales para unos 10 a 12 km); visitvalencia dice unos 35 €, que parece alto. Tiempo 15 a 25 min (aeropuertos.net y airporttransferportal). BUS: no es EMT. Es la línea metropolitana 150 (marca Metrobus, ahora web MetGo, operada por Fernanbús). Precio 4,80 € y no 1,50 € (lo confirman la tabla de la operadora en transviago.com, Aena y spain.info; el 4,80 de spain.info era correcto). Ya no es la opción más barata: cuesta lo mismo que el metro y tarda el doble, así que la nota \"la más barata\" debe irse. Horario oficial MetGo actualizado el 15/07/2026: sin servicio domingos ni festivos en ambos sentidos (Aena coincide para el sentido al aeropuerto); visitvalencia aún dice domingos de 7:35 a 22:15, parece desfasado. Trayecto aeropuerto a Av. de l'Oest: 44 a 55 min según hora (visitvalencia dice unos 45). Nocturno 150N cada 45 min de domingo a jueves desde las 23:00, y de madrugada viernes y sábados. No hay ninguna línea EMT al aeropuerto (redtransporte habla de \"150 de EMT\", error). La 106 Torrent y Aeroport no va al centro. MALETAS: la \"Consigna Estación Joaquín Sorolla\" se elimina. No hay fuente oficial accesible (adif.es devuelve 403) y las demás se contradicen: Ouigo (junio 2026) y Stasher dicen que no hay consigna oficial dentro; Movelia y highspeedtrains dicen que sí, con horarios distintos. Ninguna da precio, así que el \"4 a 6 €/día\" no se sostiene. Estació del Nord: Stasher dice que no tiene taquillas y Radical Storage solo dice que \"puede haber\"; tampoco confirmado. Si se quiere una entrada de la estación, habría que confirmarlo en persona o en adif.es. Bounce y Radical Storage van por separado: Radical cobra 3,40 € por maleta y día en casi todos sus puntos (uno a 1,60 € y su guía menciona 5 €); Bounce anuncia \"desde 1,95 €/día\" pero sus tiendas en Valencia muestran desde 3,50 €/día. Las dos fuentes de cada una son páginas de la propia empresa (precio oficial suyo, pero no independientes). Stasher, alternativa, desde 1,49 €."
   },
   "oceanografic": [
+    "https://www.oceanografic.org/planifica-tu-visita/tarifas-y-horarios/",
     "https://www.oceanografic.org/en/planifica-tu-visita-al-oceanografic-de-valencia/prices-and-schedules/",
     "https://www.disfrutalia.com/que-hacer-en-valencia/entradas-oceanografic"
   ],
   "notes": {
     "aire_libre": "Precio Valenbisi confirmado en la web oficial (valenbisi.es/es/offers/groups/list, leída el 31 de octubre de 2026) y en Valencia Secreta (agosto de 2025) y Guruwalk (actualizado en agosto de 2026). Diari València publicó que el bono diario se mantendría hasta 2029 o 2030 (las dos noticias no coinciden y una ya da error 410), así que no se incluye esa fecha. Fuera de la lista: Parc Central (menos interés para una visita de 2 a 4 días, sin verificar a fondo), la Patacona (está en Alboraia, al norte de la Malvarrosa; solo la menciona Wikipedia) y cualquier interior de museos de la Ciudad de las Artes. Datos que no cuadran: Wikipedia da 8,5 km al Jardín del Turia y Visit València más de 9 km; el circuito de running está en obras de ampliación (700 m abiertos en junio de 2026 y segunda fase prevista para otoño de 2026), por eso el texto no da su longitud total. Bandera Azul: el Cabanyal la perdió en 2026 y no se pudo confirmar la de la Malvarrosa ni las del sur en el listado oficial, así que no se menciona. Temporada de socorristas 2026 ya terminada (15 de septiembre; Devesa 31 de agosto). La Devesa tuvo varios cierres del bosque por riesgo de incendio y un incendio en El Saler el 28 de agosto de 2026; conviene avisar al usuario en verano. Transporte: varias páginas de Visit València están desfasadas (dicen 'metro L6, L7, L8' para la playa, cuando son tranvías 4, 6 y 8, y bus 25 a El Palmar, cuando la EMT ya rotula la 24 como El Saler / El Palmar). Las líneas urbanas de la EMT están cambiando con el Plan Director 2025-2030, por eso solo se citan la 24 y la 25, confirmadas en emtvalencia.es en 2026. La nota de valencia.es sobre el refuerzo de la 24 y la 25 (5 de junio de 2026) devolvió error 403 al abrirla; su contenido se tomó del índice del buscador. El artículo de Metrovalencia sobre tranvías a la playa es de 2024; las líneas se contrastaron con Wikipedia y el listado de estaciones de metrovalencia.es. lamarinadevalencia.com no respondía (conexión rechazada) el 31 de octubre de 2026, así que la Marina se verificó con Visit València, Comunitat Valenciana y Metrovalencia. Las distancias a pie salen de coordenadas de OpenStreetMap (línea recta al centro de cada zona), no de una fuente oficial. Coordenadas: Wikipedia para Turia, Malvarrosa y Devesa; Nominatim de OpenStreetMap para el resto.",
-    "ciudad": "Fuentes consultadas el 2026-10-31. Comercios emblemáticos tomados SOLO del anexo de la Ordenanza del ICIO de València aplicable desde 2025 (PDF de sede.valencia.es, misma lista que normatia.com). Bodega Montaña: el listado dice 'Bodega Montaña' (Poblats Marítims) y visitvalencia cita 'Bodega Casa Montaña'; se asume que es el mismo local, conviene confirmarlo. Horchatería El Siglo (también en el listado, plaza de Santa Catalina) NO se nombra: en 2016 un hotel ocupó el edificio donde estaba y no se ha podido confirmar que siga abierta. Fecha de fundación de la Horchatería Santa Catalina omitida: las fuentes no coinciden (1835, 1836, 'dos siglos', 'más de 100 años'). Mercado Central: la web oficial del mercado y otras guías dicen 7:30 a 15:00; visitvalencia dice 7:00 a 15:00. Se usa 7:30. El Palmar: Wikipedia dice que lo une la línea 24; visitvalencia y Valencia Plaza dicen la 25, y una nota del Ayuntamiento (jun 2026) dice que 24 y 25 comparten tramo desde Porta de la Mar hasta el desvío de El Palmar. Se pone solo la 25. El turismo de El Palmar cayó tras la DANA de octubre de 2024; un artículo de mayo de 2026 vuelve a recomendarlo, pero no hay datos de recuperación. No se da distancia (20 km solo en visitvalencia). Líneas de autobús EMT a playas, Plaza Redonda o Colón no se usan: las listas de visitvalencia y otras guías no coinciden y la web de la EMT no expone los recorridos en texto. Horario comercial: spain.info (Turespaña) dice que muchas tiendas abren seguido de 10:00 a 21:00 y algunas cierran de 14:00 a 17:00; otras fuentes no oficiales dan horario partido. Por eso no se fija hora en bestTime de compras. Domingos: según la Resolución de 10-sep-2025 (DOGV) en 2026 solo se habilitan 11 domingos y festivos en toda la Comunitat; las zonas de gran afluencia turística (ZGAT) pueden abrir más, pero no se ha podido verificar qué ZGAT tiene València en 2026. Ruzafa: el Ayuntamiento declaró la Zona Acústicamente Saturada (anunciada el 22-abr-2026, aprobada en pleno según Diari València y Officialpress): terrazas hasta las 00:30 (01:30 viernes, sábados y vísperas) de marzo a octubre y menos en invierno, sin nuevas terrazas ni locales, y discotecas del barrio hasta las 3:30 (4:30 fines de semana). No se pone en el resumen. Pubs 3:30 y discotecas 7:30: Orden 3/2025 de horarios para 2026 (municipios de más de 50.000 habitantes); el Ayuntamiento de València no ha ampliado a las 4:00. Poeta Querol: Valencia Plaza (2022) cuenta que Louis Vuitton y Loewe dejaron la calle; visitvalencia aún las cita. El resumen evita nombrar marcas. Cánovas: solo fuentes antiguas (valencia.es 2016, eldiario 2022) y blogs; se mantiene porque sigue apareciendo en guías de 2026, pero conviene revisarlo. gettingThere vacío porque no hay fuente clara de metro o bus. Descartado: Avenida de Aragón y Blasco Ibáñez (una columna de Valencia Plaza de 2023 da la zona de copas de Aragón por perdida; solo blogs la siguen citando), Juan Llorens (solo blogs), Alboraia para horchata (fuera del término de València; El Español 2024 la llama epicentro de la horchata y los fartons, con metro L3 y L9 en Alboraia Palmaret y Alboraia Peris Aragó, por si se quiere añadir), Don Juan de Austria (solo datos de rentas de 2019). Las Provincias y Levante-EMV no se pudieron consultar (acceso bloqueado al buscador); se usaron Valencia Plaza, El Español y eldiario.es como prensa. En sources, los textos 'posible desfase' marcan fuentes anteriores a 2023. Solo un hecho va marcado como SUPUESTO (horario comercial habitual, solo spain.info); el resto tiene al menos 2 URL, aunque en algunos la segunda es un blog o una guía privada.",
+    "ciudad": "Fuentes consultadas el 2026-10-31. Comercios emblemáticos tomados SOLO del anexo de la Ordenanza del ICIO de València aplicable desde 2025 (PDF de sede.valencia.es, misma lista que normatia.com). Bodega Montaña: el listado dice 'Bodega Montaña' (Poblats Marítims) y visitvalencia cita 'Bodega Casa Montaña'; se asume que es el mismo local, conviene confirmarlo. Revisión del 1 de noviembre de 2026: está en el Cabanyal (calle José Benlliure 69), no en el paseo, así que pasa a la zona cabanyal-comer con el nombre Casa Montaña. Horchatería El Siglo (también en el listado, plaza de Santa Catalina) NO se nombra: en 2016 un hotel ocupó el edificio donde estaba y no se ha podido confirmar que siga abierta. Fecha de fundación de la Horchatería Santa Catalina omitida: las fuentes no coinciden (1835, 1836, 'dos siglos', 'más de 100 años'). Mercado Central: la web oficial del mercado y otras guías dicen 7:30 a 15:00; visitvalencia dice 7:00 a 15:00. Se usa 7:30. El Palmar: Wikipedia dice que lo une la línea 24; visitvalencia y Valencia Plaza dicen la 25, y una nota del Ayuntamiento (jun 2026) dice que 24 y 25 comparten tramo desde Porta de la Mar hasta el desvío de El Palmar. Revisión del 1 de noviembre de 2026: se pone 'EMT 24 o 25'. El turismo de El Palmar cayó tras la DANA de octubre de 2024; un artículo de mayo de 2026 vuelve a recomendarlo, pero no hay datos de recuperación. No se da distancia (20 km solo en visitvalencia). Líneas de autobús EMT a playas, Plaza Redonda o Colón no se usan: las listas de visitvalencia y otras guías no coinciden y la web de la EMT no expone los recorridos en texto. Horario comercial: spain.info (Turespaña) dice que muchas tiendas abren seguido de 10:00 a 21:00 y algunas cierran de 14:00 a 17:00; otras fuentes no oficiales dan horario partido. Por eso no se fija hora en bestTime de compras. Domingos: según la Resolución de 10-sep-2025 (DOGV) en 2026 solo se habilitan 11 domingos y festivos en toda la Comunitat; las zonas de gran afluencia turística (ZGAT) pueden abrir más, pero no se ha podido verificar qué ZGAT tiene València en 2026. Ruzafa: el Ayuntamiento declaró la Zona Acústicamente Saturada (anunciada el 22-abr-2026, aprobada en pleno según Diari València y Officialpress): terrazas hasta las 00:30 (01:30 viernes, sábados y vísperas) de marzo a octubre y menos en invierno, sin nuevas terrazas ni locales, y discotecas del barrio hasta las 3:30 (4:30 fines de semana). No se pone en el resumen. Pubs 3:30 y discotecas 7:30: Orden 3/2025 de horarios para 2026 (municipios de más de 50.000 habitantes); el Ayuntamiento de València no ha ampliado a las 4:00. Poeta Querol: Valencia Plaza (2022) cuenta que Louis Vuitton y Loewe dejaron la calle; visitvalencia aún las cita. El resumen evita nombrar marcas. Cánovas: solo fuentes antiguas (valencia.es 2016, eldiario 2022) y blogs; se mantiene porque sigue apareciendo en guías de 2026, pero conviene revisarlo. gettingThere vacío porque no hay fuente clara de metro o bus. Descartado: Avenida de Aragón y Blasco Ibáñez (una columna de Valencia Plaza de 2023 da la zona de copas de Aragón por perdida; solo blogs la siguen citando), Juan Llorens (solo blogs), Alboraia para horchata (fuera del término de València; El Español 2024 la llama epicentro de la horchata y los fartons, con metro L3 y L9 en Alboraia Palmaret y Alboraia Peris Aragó, por si se quiere añadir), Don Juan de Austria (solo datos de rentas de 2019). Las Provincias y Levante-EMV no se pudieron consultar (acceso bloqueado al buscador); se usaron Valencia Plaza, El Español y eldiario.es como prensa. En sources, los textos 'posible desfase' marcan fuentes anteriores a 2023. Solo un hecho va marcado como SUPUESTO (horario comercial habitual, solo spain.info); el resto tiene al menos 2 URL, aunque en algunos la segunda es un blog o una guía privada.",
     "coste": "Consulta hecha el 31/10/2026. La web metrovalencia.es no cargó (error de certificado y conexión rechazada), así que el billete de metro se verificó en visitvalencia.com y en guías de 2026; la EMT sí se verificó en su web (tabla a 2,00 €, aunque otra parte de la misma página aún dice 1,50 €). Cambios recientes: el sencillo de la EMT pasó de 1,50 a 2 € el 1 de enero de 2025, y la Generalitat prorrogó sus rebajas en bonos y pases hasta el 31/12/2026; el billete sencillo de metro no tiene rebaja. SUMA T1 va como SUPUESTO: dos guías de 2026 dan 4,50 € con rebaja, otra da 8 € sin ella y no se pudo leer la tarifa oficial. Valenbisi semanal va como SUPUESTO: 13,30 € en dos guías de 2022 y 2025, sin confirmación oficial ni de 2026. Bar y restaurante: no se encontró estudio de OCU, Facua ni noticia de prensa con precio de Valencia ciudad para café, caña, paella u horchata en 2025 o 2026. Los rangos salen de guías locales de 2026, Numbeo (actualizado el 31/10/2026: capuchino 2,41 € de media, cerveza de 0,5 l 3 €), la carta de Central Bar en el Mercado Central (caña 2,80 €, café con leche 2,40 €) y un reportaje de The Guardian de julio de 2026 republicado en AOL (horchata de 1,95 a 4 € y farton de 0,80 a 1,55 €). No se pudo confirmar que valencia-trip.com y valenciamove.com sean editores independientes; otras guías dan paella más barata (12 a 20 € o 14 a 18 € en sitios económicos). El menú del día usa la media autonómica de Hostelería de España y Edenred (15,20 €), no un dato del centro. Gratuidad: la ordenanza municipal (BOP de 5/5/2022) hace gratis los domingos y festivos la Lonja, las Torres de Serranos y el resto de monumentos municipales; además la Lonja es gratis el 16 de noviembre y todos los monumentos el 18 de abril. La visita cultural de la Catedral no tiene día gratis; el templo es de acceso libre solo en horario de culto (7:30 a 9:30 y 18:30 a 20:30) y la visita cierra el 1 y 6 de enero, 19 de marzo, Domingo de Ramos, Viernes Santo, 9 de octubre, 8 y 25 de diciembre. La Tourist Card de 24 h incluye la Lonja y las Torres gratis y un 20 % de descuento en la Catedral, pero no el Miguelete. Se omite la gratuidad por edad porque la ordenanza de 2022 dice menores de 16 y visitvalencia.com indica tarifa reducida de 7 a 12 años en las Torres. Los totales del día son una estimación construida con estos precios, no un dato con fuente."
   }
 }

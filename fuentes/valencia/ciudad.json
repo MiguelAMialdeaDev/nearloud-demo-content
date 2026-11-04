@@ -8,17 +8,17 @@
   "revision": 1,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
-    "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. Nada de marisco.",
+    "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. La valenciana no lleva marisco; la de marisco es otro plato.",
     "Horchata de chufa con fartons, mejor en una horchatería histórica del centro.",
     "Agua de Valencia: cóctel de cava, zumo de naranja, vodka y ginebra nacido en 1959.",
     "Esgarraet: pimiento asado con bacalao, ajo y buen aceite. Una tapa clásica de barra.",
     "All i pebre de anguila, el plato de la Albufera."
   ],
   "funFacts": [
-    "El río Turia ya no pasa por Valencia: tras la riada de 1957 se desvió entero y su cauce es hoy un jardín de 9 km que cruza la ciudad.",
-    "La Catedral custodia el Santo Cáliz, el cáliz que la tradición (y el Vaticano en dos visitas papales) identifica con el de la Última Cena.",
-    "El Tribunal de las Aguas se reúne cada jueves a las 12 en la Puerta de los Apóstoles desde hace más de mil años: es la institución de justicia más antigua de Europa en funcionamiento.",
-    "Las Torres de Quart conservan los impactos de los cañones de Napoleón de 1808. Se dejaron a propósito, como cicatriz de guerra.",
+    "El río Turia ya no pasa por el centro de Valencia: tras la riada de 1957 se desvió por el sur de la ciudad y su antiguo cauce es hoy un jardín de unos 9 km.",
+    "La Catedral custodia el Santo Cáliz, la copa que la tradición identifica con la de la Última Cena. Juan Pablo II (1982) y Benedicto XVI (2006) celebraron misa con él.",
+    "El Tribunal de las Aguas se reúne cada jueves a las 12 en la Puerta de los Apóstoles. Se considera la institución de justicia más antigua de Europa y es Patrimonio Inmaterial de la UNESCO desde 2009. Si el jueves es festivo, normalmente se adelanta al miércoles.",
+    "Las Torres de Quart aún muestran los impactos de los cañones de Napoleón de 1808: se conservaron en la restauración.",
     "Subir al Miguelete son 207 escalones, y arriba tienes la mejor vista del casco antiguo."
   ],
   "coverImageUrl": "file:///android_asset/catalog/images/valencia-cover.jpg",
@@ -29,7 +29,7 @@
         "mode": "Metro (líneas 3 y 5)",
         "price": "4,80 €",
         "durationMin": 25,
-        "note": "Billete AB+, más 1,10 € de la tarjeta de cartón la primera vez. Pasa cada 15 o 20 min."
+        "note": "Billete AB+, más 1,10 € de la tarjeta de cartón la primera vez. Pasa cada 15 o 20 min. Con la Valencia Tourist Card va incluido."
       },
       {
         "mode": "Taxi",
@@ -41,7 +41,7 @@
         "mode": "Bus metropolitano 150",
         "price": "4,80 €",
         "durationMin": 50,
-        "note": "Billete en el bus. Acaba en Av. de l'Oest. No circula domingos ni festivos; de noche va la 150N."
+        "note": "Billete en el bus. Acaba en Av. de l'Oest. No circula domingos ni festivos; de noche va la 150N. Incluido en la Valencia Tourist Card."
       }
     ],
     "monuments": [
@@ -49,14 +49,14 @@
         "name": "Catedral y museo",
         "price": "12 €",
         "bookAheadDays": 0,
-        "note": "Reducida 6 €, gratis menores de 8 años. Dentro está el Santo Cáliz.",
+        "note": "Reducida 6 €, gratis menores de 8 años. Dentro está el Santo Cáliz. De octubre a junio: lunes a viernes de 10:30 a 18:30, sábados de 10:30 a 17:30 y domingos de 14:00 a 17:30. De julio a septiembre: lunes a sábado de 10:30 a 18:30 y domingos de 14:00 a 18:30. Sin visita el 1 y 6 de enero, 19 de marzo, Domingo de Ramos, Viernes Santo, 9 de octubre, 8 y 25 de diciembre.",
         "bookingUrl": "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/"
       },
       {
         "name": "Torre del Miguelete",
         "price": "3 €",
         "bookAheadDays": 0,
-        "note": "Se paga aparte, al pie de la torre. Reducida 2 €. Son 207 escalones.",
+        "note": "Se paga aparte. Reducida 2 €. Todos los días de 10:00 a 18:45; no entra en la Tourist Card. Son 207 escalones, sin ascensor.",
         "bookingUrl": "https://catedraldevalencia.es/visita-cultural/horarios-y-tarifas/"
       },
       {
@@ -70,35 +70,42 @@
         "name": "Torres de Serranos",
         "price": "2 €",
         "bookAheadDays": 0,
-        "note": "Gratis domingos y festivos. Las mejores vistas del casco antiguo.",
+        "note": "Gratis domingos y festivos. Las mejores vistas del casco antiguo. Sin ascensor: hasta el 10 de enero de 2027, enfrente está el centro de interpretación accesible Més que unes Torres.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Torres de Quart",
+        "price": "2 €",
+        "bookAheadDays": 0,
+        "note": "Gratis domingos y festivos. Con lluvia cierran por seguridad.",
         "bookingUrl": ""
       },
       {
         "name": "Mercado Central",
         "price": "Gratis",
         "bookAheadDays": 0,
-        "note": "Uno de los mercados modernistas más grandes de Europa. Cierra a media tarde.",
+        "note": "Uno de los mercados modernistas más grandes de Europa. Lunes a sábado de 7:30 a 15:00. Domingos y festivos, cerrado.",
         "bookingUrl": ""
       },
       {
         "name": "Oceanogràfic (Ciudad de las Artes)",
-        "price": "36 a 43 €",
+        "price": "35,90 a 43,05 €",
         "bookAheadDays": 2,
-        "note": "Varía según el día. En finde y verano, compra online o hay colas largas.",
-        "bookingUrl": ""
+        "note": "Adulto, según temporada baja, media o alta. Niños de 4 a 12 años y mayores de 65, de 26,65 a 31,95 €. En finde y verano, compra online o hay colas largas.",
+        "bookingUrl": "https://www.oceanografic.org/planifica-tu-visita/tarifas-y-horarios/"
       }
     ],
     "luggage": [
       {
         "name": "Radical Storage",
         "area": "Comercios junto a Joaquín Sorolla, Estació del Nord y el centro",
-        "price": "3,40 € al día por maleta",
+        "price": "Desde unos 2 a 4 € por maleta y día",
         "bookingUrl": ""
       },
       {
         "name": "Bounce",
         "area": "Comercios del centro y junto a Estació del Nord",
-        "price": "3,50 € al día por maleta",
+        "price": "Desde unos 2 a 4 € por maleta y día",
         "bookingUrl": ""
       }
     ],
@@ -113,7 +120,7 @@
           "All i pebre"
         ],
         "bestTime": "",
-        "gettingThere": "Bus EMT 24 desde la Porta de la Mar",
+        "gettingThere": "Bus EMT 24 o 25 desde la Porta de la Mar",
         "latitude": 39.3116,
         "longitude": -0.31768
       },
@@ -130,9 +137,24 @@
         "bestTime": "",
         "gettingThere": "Tranvía L4 o L6, paradas Platja les Arenes o Platja Malva-rosa",
         "latitude": 39.4689,
-        "longitude": -0.32276,
+        "longitude": -0.32276
+      },
+      {
+        "id": "cabanyal-comer",
+        "kind": "comer",
+        "name": "El Cabanyal",
+        "summary": "Barrio marinero de casas de azulejo, a unas calles de la playa. Vermut a mediodía en bodegas de barrio y clóchinas en temporada.",
+        "tags": [
+          "Vermut",
+          "Tapas",
+          "Clóchinas"
+        ],
+        "bestTime": "Sábado a mediodía, para el vermut",
+        "gettingThere": "Tranvía L4 o L6 hacia la playa",
+        "latitude": 39.4689,
+        "longitude": -0.33278,
         "emblematic": [
-          "Bodega Montaña"
+          "Casa Montaña"
         ]
       },
       {
@@ -389,7 +411,7 @@
           "Pasear",
           "Deportes de agua"
         ],
-        "bestTime": "Baño vigilado del 1 de junio al 15 de septiembre",
+        "bestTime": "Baño vigilado en 2026: del 1 de junio al 15 de septiembre",
         "gettingThere": "Tranvía 4 o 6, paradas Platja les Arenes o Platja Malva-rosa",
         "latitude": 39.47917,
         "longitude": -0.32306
@@ -404,7 +426,7 @@
           "Nadar",
           "Pasear"
         ],
-        "bestTime": "Baño vigilado solo en julio y agosto",
+        "bestTime": "Baño vigilado en 2026: solo julio y agosto",
         "gettingThere": "Bus EMT 24 o 25 desde Porta de la Mar, o en bici desde la Ciudad de las Artes",
         "latitude": 39.34186,
         "longitude": -0.31508
@@ -419,7 +441,7 @@
           "Vistas"
         ],
         "bestTime": "Al atardecer",
-        "gettingThere": "Bus EMT 24 desde Porta de la Mar hasta El Palmar",
+        "gettingThere": "Bus EMT 24 o 25 desde Porta de la Mar hasta El Palmar",
         "latitude": 39.31201,
         "longitude": -0.31968
       }
