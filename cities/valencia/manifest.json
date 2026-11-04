@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 13,
+  "revision": 14,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. La valenciana no lleva marisco; la de marisco es otro plato.",
@@ -2842,7 +2842,7 @@
       "title": "Plazas escondidas",
       "description": "De los Santos Juanes a la Plaza Redonda, la torre de Santa Catalina y un palacio con un circo romano en el sótano.",
       "durationMinutes": 30,
-      "distanceMeters": 670,
+      "distanceMeters": 600,
       "difficulty": "easy",
       "coverImageUrl": null,
       "isPremium": false,
@@ -2864,12 +2864,12 @@
         },
         {
           "orderIndex": 3,
-          "audioGuideId": "val-san-juan-hospital",
+          "audioGuideId": "val-hortensia-herrero",
           "transitionAudioGuideId": null
         },
         {
           "orderIndex": 4,
-          "audioGuideId": "val-hortensia-herrero",
+          "audioGuideId": "val-san-juan-hospital",
           "transitionAudioGuideId": null
         }
       ]
