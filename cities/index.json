@@ -1,18 +1,5 @@
 [
   {
-    "cityId": "valencia",
-    "name": "Valencia",
-    "country": "ES",
-    "centerLatitude": 39.4753,
-    "centerLongitude": -0.3757,
-    "isPremium": false,
-    "totalSizeBytes": 7108265,
-    "revision": 10,
-    "audios": [],
-    "routes": [],
-    "coverImageUrl": "file:///android_asset/catalog/images/valencia-cover.jpg"
-  },
-  {
     "cityId": "sevilla",
     "name": "Sevilla",
     "country": "ES",
@@ -50,5 +37,18 @@
     "audios": [],
     "routes": [],
     "coverImageUrl": "file:///android_asset/catalog/images/catarroja-cover.jpg"
+  },
+  {
+    "cityId": "valencia",
+    "name": "Valencia",
+    "country": "ES",
+    "centerLatitude": 39.4753,
+    "centerLongitude": -0.3757,
+    "isPremium": false,
+    "totalSizeBytes": 47188298,
+    "revision": 12,
+    "audios": [],
+    "routes": [],
+    "coverImageUrl": "file:///android_asset/catalog/images/valencia-cover.jpg"
   }
 ]
