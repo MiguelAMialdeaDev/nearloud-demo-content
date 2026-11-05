@@ -94,6 +94,76 @@
         "bookingUrl": "https://tickets.toledomonumental.com/es"
       },
       {
+        "name": "Alcázar (Museo del Ejército)",
+        "price": "5 €",
+        "bookAheadDays": 0,
+        "note": "Gratis los miércoles y siempre para menores de 18 y mayores de 65 de la UE. Lunes cerrado; último acceso a las 16:30.",
+        "bookingUrl": "https://ejercito.defensa.gob.es/museo/visitas/prepara_visita/"
+      },
+      {
+        "name": "Mezquita de las Tornerías",
+        "price": "3 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 2 €, gratis menores de 12. Solo tarjeta. Lunes cerrado.",
+        "bookingUrl": "https://mezquitadetornerias.es/visita-la-mezquita-de-tornerias-de-toledo/"
+      },
+      {
+        "name": "San Ildefonso (Los Jesuitas)",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 3 €, gratis hasta 10 años. Incluye la subida a las torres, solo por escaleras. Incluida en la pulsera turística (14 €, siete monumentos).",
+        "bookingUrl": "https://toledomonumental.com/iglesia-de-los-jesuitas-san-ildefonso/"
+      },
+      {
+        "name": "Iglesia de El Salvador",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "Incluye la bajada a la excavación. Entra en la pulsera turística (14 €, siete monumentos).",
+        "bookingUrl": "https://toledomonumental.com/iglesia-de-el-salvador/"
+      },
+      {
+        "name": "Santa María la Blanca",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "Reducida 3 €, gratis hasta 10 años. Incluida en la pulsera turística (14 €, siete monumentos).",
+        "bookingUrl": "https://toledomonumental.com/sinagoga-de-santa-maria-la-blanca/"
+      },
+      {
+        "name": "Museo del Greco",
+        "price": "3 €",
+        "bookAheadDays": 0,
+        "note": "Gratis sábados desde las 14:00 y domingos (cierra a las 15:00). Lunes cerrado.",
+        "bookingUrl": "https://www.cultura.gob.es/mgreco/la-visita/horariosytarifas.html"
+      },
+      {
+        "name": "Santo Domingo el Antiguo",
+        "price": "3 €",
+        "bookAheadDays": 0,
+        "note": "Cierra a mediodía, de 13:30 a 16:00, y los domingos solo abre por la tarde.",
+        "bookingUrl": "https://turismo.toledo.es/recursos/museos-y-monumentos/id1972-convento-de-santo-domingo-el-antiguo.html"
+      },
+      {
+        "name": "Hospital de Tavera",
+        "price": "15 €",
+        "bookAheadDays": 0,
+        "note": "Solo con visita guiada, cada hora en punto. Lunes cerrado. Entrada en la web o en taquilla.",
+        "bookingUrl": "https://fundacionmedinaceli.org/monumentos/hospital-tavera/"
+      },
+      {
+        "name": "Museo de Santa Cruz",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Gratis mientras duran las obras; la tarifa oficial cuando se cobre es de 4 €. Domingos, hasta las 15:00.",
+        "bookingUrl": "https://cultura.castillalamancha.es/museos/nuestros-museos/museo-de-santa-cruz"
+      },
+      {
+        "name": "San Román (Museo de los Concilios)",
+        "price": "Gratis",
+        "bookAheadDays": 0,
+        "note": "Entrada gratuita de forma temporal. Lunes cerrado; domingos, hasta las 15:00.",
+        "bookingUrl": "https://cultura.castillalamancha.es/museos/nuestros-museos/museo-de-los-concilios"
+      },
+      {
         "name": "Pulsera turística",
         "price": "14 €",
         "bookAheadDays": 0,

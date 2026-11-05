@@ -51,7 +51,7 @@
         "name": "Real Alcázar",
         "price": "15,50 €",
         "bookAheadDays": 0,
-        "note": "Reducida 8 €. Gratis menores de 13 años acompañados. Mejor comprar antes en la web oficial.",
+        "note": "Reducida 8 €. Gratis niños de hasta 13 años acompañados. Mejor comprar antes en la web oficial.",
         "bookingUrl": "https://alcazardesevilla.infoticketing.com/es"
       },
       {
@@ -80,6 +80,111 @@
         "price": "Gratis",
         "bookAheadDays": 0,
         "note": "Acceso libre, dentro del Parque de María Luisa.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Iglesia del Salvador",
+        "price": "7 a 8 €",
+        "bookAheadDays": 0,
+        "note": "Va incluida en la entrada de la Catedral. Sola, 7 € online y 8 € en taquilla, con audioguía.",
+        "bookingUrl": "https://www.catedraldesevilla.es/iglesia-de-el-salvador/visita-cultural-iglesia-de-el-salvador/horarios-y-tarifas-iglesia-de-el-salvador/"
+      },
+      {
+        "name": "Hospital de los Venerables",
+        "price": "20 €",
+        "bookAheadDays": 0,
+        "note": "No hay visita diaria: se entra en los conciertos de órgano, con explicación de la iglesia. Compra la entrada con antelación.",
+        "bookingUrl": "https://catedraldesevilla.servitickets.es/visit/concierto-de-organo-hospital-de-los-venerables-sacerdotes"
+      },
+      {
+        "name": "Santa María la Blanca",
+        "price": "2 €",
+        "bookAheadDays": 0,
+        "note": "Solo de lunes a jueves, mejor de 11:30 a 13:00. En julio y agosto no hay visitas.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Hospital de la Caridad",
+        "price": "Por confirmar",
+        "bookAheadDays": 0,
+        "note": "Cerró por obras en 2025 y aún no ha publicado las tarifas de la reapertura. Antes costaba 8 € con audioguía. Mira su web antes de ir.",
+        "bookingUrl": "https://www.santa-caridad.es/visita/"
+      },
+      {
+        "name": "Real Maestranza",
+        "price": "12 €",
+        "bookAheadDays": 0,
+        "note": "Incluye audioguía. Reducida 7 €; niños de 7 a 11 años, 4 €. Los días de corrida la visita cierra a las 15:00.",
+        "bookingUrl": "https://visitaplazadetorosdesevilla.com/tarifas/"
+      },
+      {
+        "name": "Ayuntamiento (visita guiada)",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "Solo con visita guiada y reserva previa. Jubilados 2 €. Los sábados, gratis para todos con reserva.",
+        "bookingUrl": "https://www.sevilla.org/ciudad-de-sevilla/museos-patrimonio-monumental-y-cultural/conoce-el-patrimonio-municipal-de-sevilla"
+      },
+      {
+        "name": "Las Setas (mirador)",
+        "price": "Desde 16 €",
+        "bookAheadDays": 0,
+        "note": "Abre todos los días. Gratis menores de 6 años y nacidos o empadronados en Sevilla capital.",
+        "bookingUrl": "https://setasdesevilla.com/experiencia-general"
+      },
+      {
+        "name": "Antiquarium (Las Setas)",
+        "price": "2 €",
+        "bookAheadDays": 0,
+        "note": "Gratis menores de 16 años. Cierra los lunes y los domingos por la tarde.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Palacio de Lebrija",
+        "price": "15 €",
+        "bookAheadDays": 0,
+        "note": "Niños de 6 a 12 años, 6 €. Los viernes a las 10:00 hay un pase gratis a la planta baja, sin reserva y con aforo limitado.",
+        "bookingUrl": "https://www.palaciodelebrija.com/visita-cultural/"
+      },
+      {
+        "name": "Museo de Bellas Artes",
+        "price": "1,50 €",
+        "bookAheadDays": 0,
+        "note": "Gratis para ciudadanos de la Unión Europea con DNI o pasaporte.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Palacio de las Dueñas",
+        "price": "15 €",
+        "bookAheadDays": 0,
+        "note": "Con audioguía. Gratis menores de 6 años. Lunes no festivos desde las 16:00, gratis con reserva en la web (1 € de gestión).",
+        "bookingUrl": "https://palacioduenas.janto.es/"
+      },
+      {
+        "name": "San Luis de los Franceses",
+        "price": "4 €",
+        "bookAheadDays": 0,
+        "note": "Se paga en taquilla. Cierra los lunes. Domingos por la tarde, gratis.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Museo de la Macarena",
+        "price": "6 €",
+        "bookAheadDays": 0,
+        "note": "La basílica es gratis; el precio es del museo. Reducida 4 €. Gratis menores de 6 años.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Centro Cerámica Triana",
+        "price": "2,10 €",
+        "bookAheadDays": 0,
+        "note": "Gratis con la entrada general del Real Alcázar y para menores de 16 años. Cierra los lunes.",
+        "bookingUrl": ""
+      },
+      {
+        "name": "Monasterio de la Cartuja (CAAC)",
+        "price": "1,80 a 3,01 €",
+        "bookAheadDays": 0,
+        "note": "Visita completa 3,01 €. Los sábados, gratis todo el día. Lunes cerrado.",
         "bookingUrl": ""
       }
     ],
