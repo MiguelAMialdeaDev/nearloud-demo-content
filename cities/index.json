@@ -6,8 +6,8 @@
     "centerLatitude": 39.4753,
     "centerLongitude": -0.3757,
     "isPremium": false,
-    "totalSizeBytes": 47188298,
-    "revision": 15,
+    "totalSizeBytes": 47192670,
+    "revision": 16,
     "audios": [],
     "routes": [],
     "coverImageUrl": "file:///android_asset/catalog/images/valencia-cover.jpg"
@@ -19,8 +19,8 @@
     "centerLatitude": 37.38583,
     "centerLongitude": -5.99312,
     "isPremium": false,
-    "totalSizeBytes": 7643945,
-    "revision": 1,
+    "totalSizeBytes": 52801519,
+    "revision": 3,
     "audios": [],
     "routes": [],
     "coverImageUrl": "file:///android_asset/catalog/images/sevilla-cover.jpg"
@@ -32,8 +32,8 @@
     "centerLatitude": 39.8581,
     "centerLongitude": -4.0245,
     "isPremium": false,
-    "totalSizeBytes": 6945654,
-    "revision": 1,
+    "totalSizeBytes": 51951578,
+    "revision": 3,
     "audios": [],
     "routes": [],
     "coverImageUrl": "file:///android_asset/catalog/images/toledo-cover.jpg"
