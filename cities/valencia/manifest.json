@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 20,
+  "revision": 21,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. La valenciana no lleva marisco; la de marisco es otro plato.",
@@ -721,9 +721,9 @@
       "title": "Mercado Central",
       "transcript": "Estás en la plaza de la Ciudad de Brujas, frente al Mercado Central, el Mercat Central en valenciano. Respira hondo. Aquí se compra y se vende desde antes de que llegara Jaime primero. En tiempos de los musulmanes ya había puestos en esta zona, fuera de la muralla, junto a una de sus puertas. Tras la conquista, el rey dio permiso para un mercado público, y esta explanada se convirtió en la plaza del pueblo: mercado, corridas de toros, mítines y también la horca.\n\nAquí se ejecutaba en público. En 1460 ahorcaron a Margarida Borràs por vivir como mujer, y hoy una placa la recuerda en la fachada del mercado que mira a la Lonja. Y en 1826 ahorcaron al maestro Cayetano Ripoll, el último ejecutado en España por herejía. Metieron su cuerpo en un tonel pintado con llamas y lo echaron al río.\n\nEl edificio que tienes delante llegó mucho después, y empezó a golpes. Un día de otoño de 1910, el rey Alfonso trece se presentó en la plaza con una piqueta de plata y golpeó un muro: era el arranque de los derribos. El proyecto era de Alejandro Soler March y Francesc Guàrdia, formados en Barcelona junto a Domènech i Montaner. La obra se alargó tanto que la terminaron otros arquitectos: entre aquel golpe y la apertura de los puestos, en 1928, pasaron más de diecisiete años. Para celebrarlo dieron de comer a más de mil personas necesitadas, y dicen que hicieron treinta y dos paellas.\n\nAhora busca la pescadería, la parte de planta octogonal. Sube la vista hasta su cúpula. ¿Ves la veleta? Tiene forma de pez. Un pez, justo encima de donde se vende el pescado.\n\nMás al fondo, por encima de los tejados, asoma una corona de hierro y, sobre ella, un pájaro. Es la Cotorra del Mercat, a unos treinta metros de altura. Cuenta la tradición que es la cotilla oficial del barrio, y que le cuenta todo lo que pasa a su vecino, el Pardal de Sant Joan, la veleta de la iglesia de los Santos Juanes, aquí al lado. Ella pone lo mundano y él, lo espiritual. Y hay otra leyenda, más oscura: dicen que de noche se oían rugidos en el sótano, y así nació el cocodrilo del Mercat. Tómatelo como lo que es: un cuento de mercado.\n\nAhora entra, mejor por la mañana, porque cierra a media tarde. Camina hasta el centro y levanta la cabeza: la luz cae por las vidrieras de colores de la cúpula. Fíjate bien, porque dicen que entre sus azulejos hay naranjas pintadas. Cuentan que un visitante italiano, al que no habían impresionado ni la Catedral ni la Lonja, se quedó aquí parado y dijo: esto sí que es un auténtico templo. Y si oyes a los vendedores contarse algo en voz baja, ya sabes quién escucha desde arriba.",
       "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-mercado.m4a",
-      "audioSizeBytes": 1353649,
-      "sha256": "c6a00ae929062c98120b7b6c6e178bb9f6f9f6cc502a79c6f9f7051e7092b96e",
-      "durationSeconds": 169,
+      "audioSizeBytes": 1451895,
+      "sha256": "627d7a3497f4d7aa4a24050bcbab593cc394c42e01ca3c0f1aff465c67325cb4",
+      "durationSeconds": 174,
       "isPremium": false,
       "latitude": 39.47345,
       "longitude": -0.37975,
@@ -3012,5 +3012,5 @@
       ]
     }
   ],
-  "totalSizeBytes": 52987300
+  "totalSizeBytes": 53085546
 }
