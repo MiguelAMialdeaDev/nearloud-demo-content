@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 19,
+  "revision": 20,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. La valenciana no lleva marisco; la de marisco es otro plato.",
@@ -518,9 +518,9 @@
     "title": "Valencia en 3 minutos",
     "transcript": "Valencia nació de un regalo. En el año 138 antes de Cristo, Roma dio tierras junto al río Turia a unos soldados que habían luchado en las guerras contra Viriato. Allí levantaron una ciudad y la llamaron Valentia, que viene a significar valor. Su plaza mayor, el foro, estaba donde hoy se alza la Catedral.\n\nLa paz duró poco. Sesenta años después, Pompeyo la arrasó en una guerra entre romanos. Bajo la plaza de la Almoina han aparecido diecisiete soldados ejecutados, con sus armas al lado. Valencia volvió a levantarse, y no sería la última vez.\n\nDespués llegaron los visigodos, y en el siglo octavo, los musulmanes. La ciudad pasó a llamarse Balansiya y vivió cinco siglos de cultura islámica. De entonces vienen las acequias que todavía riegan la huerta, y un tribunal de labradores que cada jueves a las doce resuelve, de palabra y en valenciano, los pleitos del agua en la puerta de la Catedral.\n\nEn 1094 la conquistó el Cid. A su muerte la gobernó su viuda, Jimena, hasta que tuvo que marcharse llevándose el cuerpo de su marido a Castilla. Y un nueve de octubre de 1238 entró el rey Jaime primero. Ese día sigue siendo la fiesta de todos los valencianos. Fíjate en el escudo de la ciudad: arriba tiene un murciélago. Dicen que uno despertó al rey antes de un ataque por sorpresa. Es una leyenda bonita, pero el murciélago no aparece en el escudo hasta casi tres siglos después.\n\nLuego llegó su siglo de oro. En el siglo quince, Valencia fue la ciudad más importante de la Corona de Aragón: seda, banca y mercaderes de media Europa. Aquí se imprimió el primer libro literario de la península, y de toda aquella tirada solo queda un ejemplar, que guarda la Universidad. Y aquí un fraile, después de ver cómo se burlaban de un enfermo por la calle, convenció a los mercaderes para abrir uno de los primeros hospitales psiquiátricos de Europa.\n\nMás tarde cayeron sus murallas, y en 1957 el Turia se desbordó e inundó la ciudad. Para pagar el desvío del río, durante años cada carta que salía de Valencia llevaba un sello de más. Y cuando quisieron meter una autopista en el viejo cauce, los vecinos salieron a la calle con un lema: el cauce es nuestro y lo queremos verde. Ganaron. Hoy es un jardín que cruza la ciudad.\n\nSi solo tienes un día, no te pierdas tres cosas: la vista desde el Miguelete, la Lonja de la Seda y una tarde en ese jardín. Lo demás te lo contamos por el camino.",
     "audioUrl": "file:///android_asset/catalog/audio/valencia/valencia-presentacion.m4a",
-    "audioSizeBytes": 1203421,
-    "sha256": "7daef907cdbc981c4776246e5288a4c4b0c8a4b5bf45ae688a374fc0de9d7173",
-    "durationSeconds": 152,
+    "audioSizeBytes": 1396547,
+    "sha256": "10e6dc82e51170361b20ed35136ae32b7eb3ff839d58cf01531a125e3fdd612a",
+    "durationSeconds": 167,
     "narrator": ""
   },
   "audios": [
