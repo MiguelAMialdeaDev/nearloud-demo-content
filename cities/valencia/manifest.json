@@ -5,7 +5,7 @@
   "centerLatitude": 39.4753,
   "centerLongitude": -0.3757,
   "isPremium": false,
-  "revision": 21,
+  "revision": 22,
   "summary": "Valencia mezcla dos mil años de historia con la ciudad más luminosa del Mediterráneo: un casco antiguo que fue romano, árabe y cristiano, la Lonja gótica Patrimonio de la Humanidad, y la huerta que inventó la paella. Todo se recorre a pie.",
   "food": [
     "Paella valenciana: la original lleva pollo, conejo, garrofó y judía verde. La valenciana no lleva marisco; la de marisco es otro plato.",
@@ -831,6 +831,261 @@
         "author": "Ymblanter",
         "license": "CC BY-SA 4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia_Llotja_de_la_Seda_southwestern_portal.jpg"
+      },
+      "visit": {
+        "title": "La Lonja por dentro",
+        "summary": "Catorce paradas en el orden de la visita, de la puerta de la calle de la Lonja a la salida por la plaza del Mercado. Dentro no hace falta GPS: toca cada parada al llegar.",
+        "notice": "La Cámara Dorada está cerrada por restauración. Su parada se escucha igual desde el patio.",
+        "reviewedAt": "2026-11-13",
+        "stops": [
+          {
+            "id": "val-lonja-int-01",
+            "number": 1,
+            "title": "Antes de entrar: la puerta de atrás",
+            "teaser": "La Lonja tiene una puerta dedicada a Cristo y otra a la Virgen. Entras por la de Cristo.",
+            "where": "Calle de la Lonja",
+            "transcript": "Estás en la calle de la Lonja, en la espalda del edificio. Antes de entrar, quédate un momento aquí fuera, porque esta fachada tiene su propia historia.\n\nLa gran portada que ves, con su puerta y una ventana gótica a cada lado, repite el esquema de la fachada principal de la plaza del Mercado. Pero aquella puerta está dedicada a la Virgen, y esta, a Cristo. Mira lo alto del arco, donde se curva y acaba en punta: ahí está Cristo como rey, con corona, cetro y el mundo en la mano. Algunos la llaman la Puerta de la Redención.\n\nAhora baja la vista a la jamba izquierda de la puerta y busca un caracol tallado en la piedra. Nadie sabe con seguridad qué hace ahí. En la Edad Media el caracol era símbolo de la pereza y la lentitud, quizá un aviso para el mercader que se dormía en los negocios. En la parte baja de las jambas, de unos jarrones brotan laurel, mirto, hiedra y palma, y entre las hojas asoman cabezas, animales fantásticos y figuras humanas.\n\nEn lo alto de las dos ventanas hay dos escenas de la Biblia: el rey David con su honda y Sansón abriendo las fauces de un león. A ver si las distingues.\n\nAntes de llegar aquí, en la esquina con la calle de Pere Compte, quizá viste un escudo de la ciudad con una cinta de piedra escrita en letra gótica. Es la partida de nacimiento del edificio. Dice, en valenciano antiguo, que la noble y leal ciudad de Valencia lo empezó el cinco de febrero de 1483.\n\nLa entrada de hoy no es esta gran puerta, que casi siempre está cerrada, sino una puerta más pequeña abierta en el muro liso del jardín. Pasa, que dentro te espera un huerto.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-01.m4a",
+            "audioSizeBytes": 895431,
+            "sha256": "6d4a88fa9e242118e4409d94612ea1234cb4e993b744d2f533aae5885291efbd",
+            "durationSeconds": 108,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-01.webp",
+              "author": "Francesco Bini",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia,_loggia_della_seta,_portale_su_carre_de_la_llotja,_in_stile_gotico_fiammeggiante_del_xv_secolo,_01.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-02",
+            "number": 2,
+            "title": "El huerto cerrado",
+            "teaser": "Hace más de quinientos años, un viajero alemán ya escribió que aquí habría un huerto con una fuente.",
+            "where": "Patio de los Naranjos, junto a la fuente",
+            "transcript": "Bienvenido al Patio de los Naranjos, el Pati dels Tarongers. Su nombre de verdad es huerto: un huerto cerrado entre muros, como los de los monasterios y los palacios de la época.\n\nNo es un añadido. Estaba pensado desde el principio. A finales del siglo quince, un viajero alemán, Jerónimo Münzer, pasó por Valencia y vio la obra casi terminada. Escribió que tenía, o tendría, un huerto con frutales variados y una fuente que mana, y una torre altísima con una capilla donde se dirían misas cada día. Y añadió que iba a ser más bella que la lonja de Barcelona.\n\nAcércate a la fuente del centro. Tiene forma de estrella, con bancos curvos de piedra alrededor. Cuenta sus puntas. No es la fuente original: es una evocación moderna de la que ocupaba el centro del huerto.\n\nEste jardín estuvo a punto de desaparecer. A principios del siglo dieciocho, después de la Guerra de Sucesión, la Lonja se convirtió en cuartel, y los soldados la maltrataron mucho. Según el estudio de un arquitecto de la Universitat Politècnica, en 1724 un ingeniero militar llegó a proponer convertirla entera en cuartel, eliminar el huerto y cegar las ventanas. Por suerte, no se hizo. Los militares se marcharon en 1762, pero dejaron una huella: las dependencias que levantaron dentro del huerto siguen en pie, y por ellas acabas de entrar. Hoy son la recepción.\n\nY aún hubo otro plan. En 1930 un arquitecto propuso derribar esas dependencias para que el patio se viera desde la calle. Tampoco se hizo. Por eso este huerto sigue siendo lo que fue: un rincón escondido.\n\nSiéntate un momento en uno de los bancos. Desde aquí se ven las tres partes del edificio a la vez. Te las presento en la siguiente parada.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-02.m4a",
+            "audioSizeBytes": 945680,
+            "sha256": "dc7244904ac43f7d55b73ac458efb10361202a345924a377c802f67ac3f5dd99",
+            "durationSeconds": 114,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-02.webp",
+              "author": "Joanbanjo",
+              "license": "CC BY-SA 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Font_g%C3%B2tica_del_pati_dels_tarongers,_Llotja_de_Val%C3%A8ncia.JPG"
+            }
+          },
+          {
+            "id": "val-lonja-int-03",
+            "number": 3,
+            "title": "Las caras del patio",
+            "teaser": "Ahí arriba, en un friso de piedra, Mercurio, el dios del comercio, vigila a los Reyes Católicos.",
+            "where": "Patio, mirando el Consulado y la torre",
+            "transcript": "Desde el patio ves la Lonja por dentro de su muralla. El muro largo, con almenas, es el de la Sala de Contratación. La torre cuadrada está en la esquina. Y el edificio de tres plantas, más elegante, es el Consulado del Mar.\n\nMira el Consulado de abajo arriba. Primero, una escalera de piedra de un solo tramo, al aire libre, que sube pegada a la fachada. Más arriba, una galería de ventanas con arcos que acaban en punta, y bajo cada ventana, el escudo de la ciudad. Encima, una fila de medallones con bustos. Y arriba del todo, las almenas con coronas.\n\nPor este lado hay dieciséis medallones, de dos en dos. No llevan nombre, pero el historiador Vicente Simó Santonja los estudió y propuso quiénes son. El más cercano a la torre sería Hermes, el Mercurio de los romanos, el dios del comercio. Tiene sentido en una lonja. Le siguen otros dioses, y en el centro, los reyes: Fernando e Isabel, los Reyes Católicos, y Maximiliano de Austria con su nieto, el emperador Carlos. Hacia el otro extremo, de nuevo dioses: Zeus y Hera, Poseidón, y Hades con Perséfone, la reina del mundo de los muertos. Dioses antiguos y reyes de carne y hueso, mezclados en el mismo friso: así era el Renacimiento.\n\nAhora mira la torre. Su remate de almenas y gárgolas parece tan antiguo como el resto, pero no lo es. La torre acababa en una terraza plana, y el remate se añadió hacia 1900, en una restauración del Ayuntamiento. En 2024 se restauraron sus veinte almenas. Por eso desconfía de las gárgolas de la torre: seguramente son de esa época.\n\nPegado a la torre, en la esquina con la Sala, verás un cilindro de piedra con ventanitas estrechas. Dentro gira una escalera de caracol de la que te hablaré luego.\n\nY antes de entrar, recorre las cornisas que rodean el patio buscando gárgolas: un león con un reptil entre las garras, un hombre con casco, una mujer con un monito sobre la rodilla. En una esquina hay una mujer desnuda en una postura nada piadosa. Ya sabes que en la Lonja, fuera de la sala, los vicios se exhiben sin vergüenza.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-03.m4a",
+            "audioSizeBytes": 1178033,
+            "sha256": "26c13a63a0360a753c7bfaaede098de190a8e355bb9c06090d089ca27f7287c0",
+            "durationSeconds": 142,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-03.webp",
+              "author": "Artvill",
+              "license": "CC BY 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cour_des_orangers_de_la_Loge_de_la_soie,_avril_2025_2.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-04",
+            "number": 4,
+            "title": "La puerta de los centauros",
+            "teaser": "En la puerta que une el huerto con la sala, dos centauros tocan música para quien entra.",
+            "where": "Puerta del patio a la Sala",
+            "transcript": "Esta puerta une el huerto con la Sala de Contratación. Fíjate en su forma: un arco rebajado, casi de herradura, bajo otro arco que se curva y acaba en punta, cubierto de grandes hojas de cardo y coronado por una cruz de hojas rizadas.\n\nDesde el lado del patio, mira las dos piezas de piedra donde apoya el arco de arriba. Según las descripciones del edificio, en una aparece Sansón luchando con un león, como en la calle, y en la otra, un jinete acechado por un hombre con una maza.\n\nAhora entra y, ya dentro, date la vuelta para mirar la misma puerta desde la sala. En esas mismas piezas, por este lado, hay dos centauros, mitad hombre y mitad caballo, que tocan música: uno un tambor, el otro un instrumento de viento. Entre los dos arcos, el escudo del Reino de Valencia.\n\nFuera, la lucha. Dentro, la música. No sabemos si los canteros lo pensaron así, pero la idea encaja con todo el edificio: al cruzar esta puerta dejas atrás el mundo de fuera y entras en un lugar ordenado, casi sagrado.\n\nY ahora, date la vuelta otra vez y mira la sala. Despacio.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-04.m4a",
+            "audioSizeBytes": 605153,
+            "sha256": "ae8301592a7cdb5e3c82805cb9de391c9e9c4ee6933480733b7e51b78e108a37",
+            "durationSeconds": 73,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-04.webp",
+              "author": "Francesco Bini",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia,_loggia_della_seta,_interno,_porta_del_cortile_degli_aranci_06_centauro_che_suona_tamburi.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-05",
+            "number": 5,
+            "title": "Un bosque de piedra",
+            "teaser": "Veinticuatro columnas que suben retorciéndose como troncos de palmera, y ninguna tiene capitel.",
+            "where": "Sala, junto a una columna",
+            "transcript": "Estás en la Sala de Contratación, el corazón de la Lonja. Mide unos treinta y cinco metros de largo por veintiuno de ancho, y hasta lo más alto de las bóvedas hay unos diecisiete metros. Tres naves, cinco tramos, quince bóvedas. Y en medio, ocho columnas exentas, en dos filas de cuatro.\n\nPero no son solo ocho. Mira los muros: de ellos sobresalen medias columnas iguales, y en cada una de las cuatro esquinas, un cuarto de columna. En total, veinticuatro. Según la ficha municipal del edificio, esas columnas pegadas al muro hacen un trabajo escondido: ayudan a recoger el empuje de las bóvedas. Por eso, por fuera, el edificio no necesita esos grandes contrafuertes de las catedrales góticas.\n\nAcércate a una de las columnas exentas y mira su pie. La base tiene ocho lados, y de ella arrancan ocho columnitas finas, cada una con su propia basa diminuta. Esas columnitas suben enroscándose alrededor del tronco, más o menos una vuelta entera, hasta arriba. Sigue una con la vista.\n\nAhora sube la mirada hasta lo alto de la columna, a unos once metros. No hay capitel. Una simple moldura hace de anillo, y las ocho columnitas siguen hacia arriba convertidas en los nervios de la bóveda. La columna no termina: se abre. Por eso se dice que esto parece un palmeral, con troncos que se despliegan en hojas de piedra.\n\nLas columnas retorcidas tienen una prima en la Lonja de Palma de Mallorca, unas décadas más antigua. Pero un estudio geométrico reciente comparó las dos y comprobó que aquí no se copió nada: las hélices giran en sentido contrario y no coincide ni una medida. De Palma solo se tomó la idea.\n\nLos documentos de la obra se conservan, y cuentan detalles muy humanos. En noviembre de 1492 se pagó a un cordelero por las cuerdas con las que se marcó en el suelo dónde iría cada columna. Los carpinteros hacían plantillas de madera para que los canteros cortaran cada piedra a la medida. Y la última piedra de las bóvedas se puso el 19 de marzo de 1498. Quince años de obra para esta sala. Ella misma lo presume, en esa franja de letras doradas que corre por las paredes. Pero eso, en un momento.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-05.m4a",
+            "audioSizeBytes": 1206307,
+            "sha256": "9c6eb96568c947dec5ba38df954c0fed5822f24683f120d97eefc29de83eaf63",
+            "durationSeconds": 146,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-05.webp",
+              "author": "Jl FilpoC",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sala_de_Contrataci%C3%B3n,_Lonja_de_la_Seda.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-07",
+            "number": 7,
+            "title": "La frase de oro",
+            "teaser": "La sala habla en primera persona, y lo que dice es un código de honradez para los mercaderes.",
+            "where": "Sala, mirando la franja de letras",
+            "transcript": "Mira la franja que recorre los cuatro muros, justo a la altura donde las columnas se abren en nervios, a unos once metros. Letras doradas sobre un fondo oscuro. Ese fondo, en realidad, es azul: el pigmento se ha ennegrecido con los siglos y la contaminación. Es lo único que interrumpe estos muros lisos.\n\nEstá en latín y empieza con dos palabras que puedes buscar: Inclyta domus. Dicen que la frase está escrita dos veces alrededor de la sala. Esto es lo que dice:\n\nCasa famosa soy, en quince años edificada. Conciudadanos, gustad y ved qué bueno es el comercio que no lleva fraude en la palabra, que jura al prójimo y no lo engaña, que no da su dinero con usura. El mercader que así vive rebosará de riquezas, y al fin gozará de la vida eterna.\n\nNo es una frase inventada para la ocasión. Es un collage de la Biblia. Gustad y ved sale de un salmo, donde lo bueno es el Señor; aquí, lo bueno es el comercio. Qué bueno es el comercio viene del libro de los Proverbios, del elogio a la mujer trabajadora. Y lo de no engañar con la palabra, cumplir lo jurado y no prestar con usura sale de otro salmo que pregunta: ¿quién podrá vivir en la casa del Señor? La respuesta del salmo es la lista de virtudes. Y la Lonja, que se llama a sí misma casa, la copia en sus paredes. La casa del Señor y la casa del comercio, puestas a la misma altura.\n\nPiensa en quién leía esto. Un mercader que entraba a cerrar un trato levantaba la vista y veía, en oro, que la honradez no era solo una virtud: era el camino a la riqueza en esta vida y al cielo en la otra. Era la norma de la casa, escrita donde nadie podía decir que no la había visto.\n\nLa pintura que ves no es exactamente la de 1498. Según el análisis de los restauradores, es un repintado posterior, con letras de latón, y debajo se esconde la original, con su pan de oro auténtico.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-07.m4a",
+            "audioSizeBytes": 1083337,
+            "sha256": "acb230baae9afff4232e7eaab4fdf6e5f566058853ebf02dcc9658bf9d7df544",
+            "durationSeconds": 130,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-07.webp",
+              "author": "Felivet",
+              "license": "CC BY-SA 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llotja_inscripcio2.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-08",
+            "number": 8,
+            "title": "El banco de la ciudad",
+            "teaser": "En esta sala funcionó un banco público, con su arca de tres llaves y su reloj de arena.",
+            "where": "Sala, centro",
+            "transcript": "Esto era una lonja: el sitio donde los mercaderes se reunían a contratar. Aquí se negociaba la seda y cualquier otra mercancía. Pero no todo se hacía aquí dentro. El aceite y el grano se pesaban en otro edificio, la Lonja del Aceite, que estaba justo detrás, junto a la actual plaza del Doctor Collado.\n\nY en esta sala funcionó un banco. Se llamaba la Taula de Canvis, la mesa de cambios, y era de la ciudad. La primera se creó en 1407, con permiso del rey Martín el Humano, mucho antes de que existiera este edificio. Fracasó: en 1416 se liquidó, y la ciudad tardó un siglo en volver a intentarlo. La segunda, la Taula Nova, abrió en la primavera de 1519, y sus normas mandaban instalarla aquí, en la Lonja. Su garantía era el patrimonio de toda la ciudad.\n\n¿Cómo era? Según sus ordenanzas, una mesa con un tapete rojo, una balanza, un reloj de arena de una hora y los libros de cuentas. El dinero grueso no se quedaba aquí: iba en un gran arcón con tres llaves que se guardaba en la sacristía de la Catedral, el lugar más seguro de la ciudad, y cada uno de los tres cajeros tenía una llave. Para el día a día había una caja pequeña, que un mercader se llevaba a casa cada noche y que un mozo traía cada mañana.\n\nTambién hubo sustos. Un estudio cuenta que, tras el desfalco de un cajero, en 1544 la ciudad creó un control externo de las cuentas. Algo así como una auditoría, hace casi quinientos años.\n\nLa Taula siguió funcionando, con otros nombres, hasta 1719, cuando la Nueva Planta de Felipe V acabó con ella.\n\nY una advertencia: quizá te cuenten que aquí se firmó la primera letra de cambio de Europa. Es una leyenda bonita, pero las fechas no cuadran: esa letra sería más antigua que la Taula y que este edificio.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-08.m4a",
+            "audioSizeBytes": 1018975,
+            "sha256": "61c9b416af71b4daa6b6de37a9c3e3fa7d35cea73d12180f8d59b7bca2834fc0",
+            "durationSeconds": 123,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-08.webp",
+              "author": "Gonzalo Solas",
+              "license": "CC BY-SA 3.0 es",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sala_de_Contractaci%C3%B3_de_la_Llotja_de_la_Seda_de_Valencia.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-09",
+            "number": 9,
+            "title": "Cinco siglos bajo estas bóvedas",
+            "teaser": "Cuartel, salón de baile, parlamento en guerra y templo por una Semana Santa: esta sala lo ha sido todo.",
+            "where": "Sala, nave central",
+            "transcript": "Ponte en la nave central y mira a tu alrededor. Esta sala ha visto mucho más que contratos.\n\nYa sabes que en el siglo dieciocho fue cuartel. En el diecinueve, la burguesía valenciana organizaba bailes de Carnaval en la Lonja.\n\nEn octubre de 1933 llegaron a Valencia por mar los restos del escritor Vicente Blasco Ibáñez, muerto en Francia cinco años antes. Los trajeron a la Lonja, y su ataúd estuvo expuesto varios días antes de ir al cementerio, mientras una multitud llenaba las calles.\n\nLuego vino la guerra, y Valencia fue capital de la República. En la primavera de 1937, sin Fallas en la calle por la guerra, la Lonja expuso cuatro fallas antifascistas, y lo recaudado fue para los marinos de un barco soviético hundido frente a la costa. Y el 1 de octubre de 1937, en esta sala, las Cortes de la República abrieron una sesión con un discurso del jefe del Gobierno, Juan Negrín. Según el Ayuntamiento, un gran telón con el escudo de la República presidía la sala entre las columnas. Fue de sus últimas sesiones en Valencia: a finales de ese mismo mes se decidió trasladar el Gobierno a Barcelona.\n\nAño y medio después, la sala cambió por completo. En la Semana Santa de 1939, con la Catedral dañada, los oficios se celebraron aquí. El Santo Cáliz, que había pasado la guerra escondido en un pueblo, entró en esta sala mientras sonaba la música del Parsifal de Wagner, y el Jueves Santo, aquí mismo, se devolvió oficialmente al cabildo de la Catedral.\n\nDurante décadas, la Lonja acogió también la Exposición del Ninot de las Fallas, y los domingos los coleccionistas de monedas y sellos se citaban en ella y a sus puertas.\n\nEn diciembre de 1996, en una reunión en Mérida, México, la UNESCO la declaró Patrimonio de la Humanidad. Y en 2026, en su treinta aniversario, esta sala acogió por primera vez la entrega del Premio Primavera de Novela, que durante treinta años se había entregado en Madrid. Hoy sigue siendo escenario de actos y recepciones. Bajo el mismo cielo de piedra.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-09.m4a",
+            "audioSizeBytes": 1107586,
+            "sha256": "08ea1fc5e90a694777266479ead259208bba288d5540451cf4e4515831a7686c",
+            "durationSeconds": 133,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-09.webp",
+              "author": "Artvill",
+              "license": "CC BY 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sal%C3%B3_Columnari,_Llotja_de_la_Seda,_04_2025.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-10",
+            "number": 10,
+            "title": "La escalera sin eje y la cárcel",
+            "teaser": "Detrás de esta puertecita gira una escalera sin columna central, y arriba hubo una cárcel para mercaderes.",
+            "where": "Sala, ante la puertecita de la escalera",
+            "transcript": "Busca, en el muro del lado del patio y cerca de la fachada de la plaza, dos puertas juntas: una portada grande con reja, que lleva a la capilla, y a su lado una puerta pequeña cerrada con otra reja. Mira arriba, en el paso: cuelga una campanita de la que nadie sabe con certeza para qué servía.\n\nEmpieza por la puertecita. En lo alto tiene un ángel con una cinta de piedra. Un historiador del arte, Salvador Aldana, leyó en sus adornos un sermón: en un capitel, una figura alada amamanta a un basilisco, un monstruo; sobre los arcos, dos figuras desnudas abrazadas, otra que trepa por un árbol seco y, arriba, dos lechuzas, aves de la muerte. Para él, el mensaje era que el amor carnal lleva a la muerte, y frente a eso, el ángel que saluda a la Virgen. Es su interpretación, pero busca las figuras.\n\nAsómate por la reja. Verás la curva de una escalera de caracol. Es la joya técnica del edificio: un caracol de ojo abierto. Los escalones no se apoyan en una columna central, como en casi todas las escaleras de caracol, sino solo en el muro, y en el centro queda un hueco libre. Cada peldaño se talló para encajar con los demás. Es un prodigio del arte de cortar la piedra, y se atribuye a Pere Compte. Tenía ciento diez escalones; en la restauración de hace un siglo, al recrecer la torre, se le añadieron treinta y dos más.\n\n¿Adónde lleva? A las dos plantas altas de la torre, que según los documentos fueron cárcel para los mercaderes que quebraban o no pagaban sus deudas. Una de esas salas, la llamada cárcel de comerciantes, tiene una bóveda de piedra sin nervios, ya de aire renacentista, mientras que abajo, en la capilla, todavía manda el gótico. Gótico abajo, Renacimiento arriba, en la misma torre. Y arriba del todo, una terraza con vistas al Mercado Central y a media ciudad.\n\nHoy solo se sube en visitas guiadas con reserva. Pregunta en la entrada.\n\nY ahora, mira la reja de la portada grande. Es de 1601 y no se hizo para la Lonja: estaba en la antigua Casa de la Ciudad, y se trajo aquí en 1902. Pasa por ella a la capilla.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-10.m4a",
+            "audioSizeBytes": 1170766,
+            "sha256": "4b679f58dff633759552ce49638750e12afb243933bdcf89f7b365f17a43d673",
+            "durationSeconds": 141,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-10.webp",
+              "author": "Membrado",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llonja_escala.JPG"
+            }
+          },
+          {
+            "id": "val-lonja-int-11",
+            "number": 11,
+            "title": "La capilla",
+            "teaser": "En el techo de esta capilla está el retrato más antiguo que se conoce del gobierno de Valencia.",
+            "where": "Capilla de la torre",
+            "transcript": "Estás en la planta baja de la torre, la antigua capilla de la Lonja. Antes de entrar, mira lo alto de su portada: una figura divina sentada, con el mundo en la mano.\n\nLa capilla se construyó entre 1484 y 1486, de lo primero que se hizo. Es pequeña, de unos siete metros por lado. Un estudio midió que el espacio, hasta donde arrancan los arcos, es casi un cubo perfecto.\n\nAhora mira arriba. La bóveda es una estrella de nervios con nueve claves. En las ocho de alrededor se alternan escudos de la ciudad y ángeles que tocan instrumentos. Y en la del centro, de la que cuelga la lámpara, está la Virgen de la Misericordia, abriendo su manto para proteger a los jurados de la ciudad, con sus maceros a los lados. Según el historiador Arturo Zaragozá, es la representación más antigua que se conoce del gobierno municipal de Valencia. Los que mandaban en la ciudad pusieron su propio retrato en la clave de la capilla, bajo la protección de la Virgen.\n\nEn la bóveda pudo intervenir un gran nombre: Juan Guas, el arquitecto de los Reyes Católicos. Estuvo en Valencia en 1484, y ese año la ciudad pagó quince libras a un maestro Juan por la obra de esta capilla. No es seguro que fuera él, pero muchos lo creen.\n\nEn las cuatro esquinas, los nervios bajan hasta unas piezas de piedra con los cuatro evangelistas. Y en el suelo hay mármol blanco, negro y rojo.\n\nAquí se decía misa. El viajero Münzer escribió en 1494 que en esta capilla se dirían dos misas cada día.\n\nBusca en la capilla otra puerta, la que lleva al Consulado del Mar. Tiene el escudo de la ciudad en lo alto. Y si te fijas en sus capiteles, en uno hay un diablo con un fuelle que infla un odre que sostiene una mujer. Salvador Aldana lo leyó como las promesas vacías del demonio, que llenan de aire los fardos de los hombres. Un buen aviso para un mercader, justo antes de entrar en el tribunal.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-11.m4a",
+            "audioSizeBytes": 1081712,
+            "sha256": "854b44c50c79c5b3921b0f70005ad92536917049602cd2ff339a9f5f59a2a9c3",
+            "durationSeconds": 130,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-11.webp",
+              "author": "Francesco Bini",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia,_loggia_della_seta,_interno,_ex-cappella,_con_volta_costolonata_a_stella,_xv_secolo_01.jpg"
+            }
+          },
+          {
+            "id": "val-lonja-int-12",
+            "number": 12,
+            "title": "El tribunal del mar",
+            "teaser": "Aquí se juzgaban los pleitos del mar, con unas reglas que acabaron leyéndose en medio Mediterráneo.",
+            "where": "Planta baja del Consulado",
+            "transcript": "Estás en la planta baja del Consulado del Mar. Esta sala fue un tribunal.\n\nLa historia empieza en 1283. Ese año, el rey Pedro el Grande, que necesitaba el apoyo de sus reinos, concedió a Valencia su Consulado de Mar. Cada año, por Navidad, la gente del mar elegía a dos cónsules, que tenían que conocer bien el oficio. Juzgaban los pleitos de mercaderes y marinos: fletes, salarios de los marineros, seguros, naufragios. Y por encima tenían un juez de apelación, para que los pleitos del comercio no salieran del consulado.\n\nEn una carta de 1356, los cónsules de Valencia lo explicaban con sus palabras: harían justicia a cada uno según sus privilegios y según el uso y la costumbre del mar, con justicia e igualdad.\n\nEl modelo funcionó tan bien que se copió. En 1343, el rey ordenó que los cónsules de Mallorca juzgaran al modo de Valencia, y unos años después Barcelona recibió esas mismas reglas al crear su propio consulado. Se suele decir que fue el primer tribunal mercantil que se fundó en España.\n\nSus costumbres se reunieron en el Llibre del Consolat de Mar, la gran recopilación del derecho marítimo del Mediterráneo. Se tradujo al italiano, al castellano, al francés, al holandés, al alemán y al inglés, y en España estuvo vigente hasta 1829. El Archivo Municipal de Valencia guarda una copia de 1407.\n\nEste edificio se construyó para el tribunal. Lo empezó Pere Compte en 1498, y a su muerte lo continuaron otros maestros hasta terminarlo en 1548. Por eso empezó gótico y acabó renacentista: medio siglo de obra en el que cambió la moda. Mira el techo: vigas de madera en su color, con rosetas talladas.\n\nLos decretos de Felipe V suprimieron el Consulado a principios del siglo dieciocho. Volvió en 1762, y los consulados acabaron con el Código de Comercio de 1829. Pero el nombre no ha muerto: desde 1934, el Consulado de la Lonja, una corporación de comerciantes, tiene su sede en este edificio.\n\nAhora sal al patio y busca la escalera de piedra que sube pegada a la fachada. Arriba está la Cámara Dorada.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-12.m4a",
+            "audioSizeBytes": 1229202,
+            "sha256": "a797b6e08054daa4f0062628d809b41e17b0bbc9adbc4e7f41390e94e3c8c0ec",
+            "durationSeconds": 148,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-12.webp",
+              "author": "Pere prlpz",
+              "license": "CC BY-SA 3.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Llotja_de_la_Seda_DSCN2839.JPG"
+            }
+          },
+          {
+            "id": "val-lonja-int-13",
+            "number": 13,
+            "title": "La Cámara Dorada",
+            "teaser": "Un techo de oro que salió de un ayuntamiento derribado, pasó más de medio siglo en cajas y, según se cuenta, casi se vendió al peso.",
+            "where": "Arriba de la escalera del patio (o desde el patio si está cerrada)",
+            "transcript": "Si la sala está abierta, sube los veintitrés escalones de la escalera de piedra. Si está cerrada por la restauración, quédate en el patio, mira sus grandes ventanas y escucha igualmente. Esta historia merece la pena.\n\nLa Cámara Dorada tiene uno de los techos más bellos de Valencia, y no nació aquí. Viene de la antigua Casa de la Ciudad, el ayuntamiento medieval, que estaba junto a la plaza de la Virgen, donde hoy están los jardines del Palau de la Generalitat. En 1418 los jurados encargaron para su Sala Dorada, según el Ayuntamiento, una obra tan bella y tan costosa como pudiera hacerse. La dirigió el maestro Joan del Poyo, y se doró hacia 1445.\n\nMira el techo, o imagínalo: vigas oscuras que cruzan la sala, cubiertas de figuras doradas. Son seiscientas setenta piezas, y no hay dos iguales. Escudos de la ciudad, repetidos decenas de veces, ángeles, profetas, animales fantásticos, máscaras, músicos y guerreros. Según el historiador Arturo Zaragozá, arriba están los profetas y abajo los monstruos del mal gobierno, y en los tableros desfilan músicos y guerreros que bailan una danza ceremonial, como en las entradas de los reyes y en la procesión del Corpus.\n\nSe cuenta que el rey Alfonso el Magnánimo vino a ver este techo. Los documentos dicen que en 1428 visitó otra sala del mismo edificio, no esta.\n\nEn el siglo diecinueve, tras un incendio, la Casa de la Ciudad se derribó, entre 1854 y 1860. El techo se desmontó y acabó en cajas en el Palacio Arzobispal. Se cuenta que en 1870 estuvo a punto de venderse al peso, como madera. Por suerte, no se hizo. En 1917 se decidió recomponerlo aquí.\n\nSi estás dentro, busca a la entrada una placa de cobre. Dice que el Ayuntamiento acordó el 9 de julio de 1920 colocar aquí el techo de la suntuosa Sala Dorada, y da los años de la obra: de 1920 a 1923. También confiesa que se añadieron piezas, porque esta sala es más grande que la original. Tampoco el estrado del fondo es medieval. Según un estudio, en 1923 se buscó el original y no apareció, así que se hizo uno nuevo de aspecto antiguo.\n\nEn otoño de 2026 empezó una restauración: se estudian dos vigas y la estructura, antes de un proyecto para recuperar el techo entero. Si hoy lo ves entre andamios, piensa que este techo ya ha sobrevivido a un derribo, a más de medio siglo en cajas y a una venta al peso que casi se hace. Unos meses de andamio no son nada.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-13.m4a",
+            "audioSizeBytes": 1461352,
+            "sha256": "e3343416e2db4f40c98a2b00de068765c4df56e72e178bdd5f47ce63970c80e2",
+            "durationSeconds": 175,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-13.webp",
+              "author": "Miguel Hermoso Cuesta",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Consulado_del_Mar_09.JPG"
+            }
+          },
+          {
+            "id": "val-lonja-int-14",
+            "number": 14,
+            "title": "La puerta de la Virgen, por dentro",
+            "teaser": "Sales por la puerta principal, la de la Virgen, y fuera te espera el mercado.",
+            "where": "Sala, ante la puerta de la plaza (salida)",
+            "transcript": "Vuelve a la Sala de Contratación y ve hacia la puerta de la plaza del Mercado, por donde se sale.\n\nMírala por dentro: es lisa, de líneas rectas, con un pilar en el centro. Toda la decoración está por fuera, mirando a la plaza, porque era la cara pública del edificio. En lo alto de esa cara exterior está la Virgen que preside la entrada. La original se perdió. La que verás al salir la esculpió José Aixa a finales del siglo diecinueve, y ocupa el lugar donde durante un tiempo estuvo el escudo del rey Carlos III.\n\nAntes de cruzarla, da una última vuelta con la mirada. Las columnas que se abren como palmeras, el cielo que fue azul, la frase de oro que pide honradez. Esta sala se levantó para que comprar y vender fuera algo digno, casi sagrado.\n\nAhora sal. Delante tienes el Mercado Central, donde se sigue comprando y vendiendo cada mañana, como hace quinientos años. Y si quieres, date la vuelta para ver la fachada: allí te esperan las gárgolas.",
+            "audioUrl": "https://raw.githubusercontent.com/MiguelAMialdeaDev/nearloud-demo-content/voz-salva/audio/valencia/val-lonja-int-14.m4a",
+            "audioSizeBytes": 535277,
+            "sha256": "47c3f3b7f146af7cad34918ae1810adeba8b59de7dc3744c7f32c15c8e072227",
+            "durationSeconds": 64,
+            "narrator": "",
+            "image": {
+              "url": "file:///android_asset/catalog/images/valencia/val-lonja-int-14.webp",
+              "author": "Francesco Bini",
+              "license": "CC BY-SA 4.0",
+              "sourceUrl": "https://commons.wikimedia.org/wiki/File:Valencia,_loggia_della_seta,_interno,_sala_delle_contrattazioni,_portale_su_piazza_del_mercato,_01.jpg"
+            }
+          }
+        ]
       }
     },
     {
